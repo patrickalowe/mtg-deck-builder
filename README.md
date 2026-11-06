@@ -20,7 +20,7 @@ So I built this project for three reasons:
 3. **To learn how to play Magic.** Watching the computer play my decks turn by turn, and seeing where it wins and
    where it loses, has taught me the game faster than reading rules ever did.
 
-I have no coding background. I built this by describing what I wanted, in plain English, to two AI coding assistants:
+I have some coding background. I built this by describing what I wanted, in plain English, to two AI coding assistants:
 **Claude Code** and **Codex**. They wrote the code and ran the tests, and they checked each other's work.
 
 ## A quick Magic primer
