@@ -1,0 +1,93 @@
+{
+  "N": 80,
+  "configs": [
+    {
+      "deck": "tchalla-current",
+      "profile": "Default"
+    },
+    {
+      "deck": "tchalla-current-upgraded",
+      "profile": "Default"
+    }
+  ],
+  "opps": [
+    "313935",
+    "3047743",
+    "24662123",
+    "11650077",
+    "4133378",
+    "11619336",
+    "9298397",
+    "6847581"
+  ],
+  "table": {
+    "tchalla-current:Default": {
+      "313935": {
+        "wins": 21,
+        "games": 80
+      },
+      "3047743": {
+        "wins": 28,
+        "games": 80
+      },
+      "4133378": {
+        "wins": 25,
+        "games": 80
+      },
+      "6847581": {
+        "wins": 36,
+        "games": 80
+      },
+      "9298397": {
+        "wins": 34,
+        "games": 80
+      },
+      "11619336": {
+        "wins": 32,
+        "games": 80
+      },
+      "11650077": {
+        "wins": 18,
+        "games": 80
+      },
+      "24662123": {
+        "wins": 30,
+        "games": 80
+      }
+    },
+    "tchalla-current-upgraded:Default": {
+      "313935": {
+        "wins": 26,
+        "games": 80
+      },
+      "3047743": {
+        "wins": 35,
+        "games": 80
+      },
+      "4133378": {
+        "wins": 34,
+        "games": 80
+      },
+      "6847581": {
+        "wins": 38,
+        "games": 80
+      },
+      "9298397": {
+        "wins": 34,
+        "games": 80
+      },
+      "11619336": {
+        "wins": 40,
+        "games": 80
+      },
+      "11650077": {
+        "wins": 19,
+        "games": 80
+      },
+      "24662123": {
+        "wins": 38,
+        "games": 80
+      }
+    }
+  }
+}

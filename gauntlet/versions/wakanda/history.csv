@@ -1,0 +1,8 @@
+version,run,smart,games,wins,win_rate,ci95_low,ci95_high
+v1-bought14,2026-10-271953-500,false,500,56,0.112,0.087,0.143
+v0.1-real-lands,2026-10-280032-smart-politics-100,true,true,100,10,0.100,0.055,0.174
+v1.3-proposed-armor,2026-10-280032-smart-politics-100,true,true,100,20,0.200,0.133,0.289
+v1.3-proposed-armor,2026-10-280131-smart-politics-100,true,true,100,23,0.230,0.158,0.322
+v1.2-bought14-exact,2026-10-280131-smart-politics-100,true,true,100,22,0.220,0.150,0.311
+v1.4-wipes,2026-10-280217-smart-politics-100,true,true,100,19,0.190,0.125,0.278
+v1.3-proposed-armor,2026-10-280630-smart-politics-safeattack-artifactsfirst-100,true,true,100,20,0.200,0.133,0.289

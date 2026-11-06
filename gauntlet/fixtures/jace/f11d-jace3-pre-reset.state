@@ -1,0 +1,29 @@
+[state]
+turn=5
+activeplayer=p0
+activephase=MAIN1
+removesummoningsickness=true
+p0life=40
+p0hand=
+p0battlefield=Plains; Plains; Plains; Island; Island; Swamp; Swamp; Mountain; Jace, Multiverse Architect|Counters:LOYALTY=3|IsCommander; Aminatou, the Fateshifter|Counters:LOYALTY=3; T:w_1_1_spirit_flying; T:w_1_1_spirit_flying
+p0library=Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears; Grizzly Bears
+p0graveyard=
+p0exile=
+p1life=40
+p1hand=
+p1battlefield=Forest; Forest; Forest; Forest; Forest
+p1library=Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest
+p1graveyard=
+p1exile=
+p2life=40
+p2hand=
+p2battlefield=Forest; Forest; Forest; Forest; Forest
+p2library=Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest
+p2graveyard=
+p2exile=
+p3life=40
+p3hand=
+p3battlefield=Forest; Forest; Forest; Forest; Forest
+p3library=Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest; Forest
+p3graveyard=
+p3exile=

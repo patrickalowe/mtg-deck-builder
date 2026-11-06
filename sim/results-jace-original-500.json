@@ -1,0 +1,4022 @@
+{
+  "games": 500,
+  "wins": {
+    "Ghalta": 141,
+    "Patrick (Jace)": 301,
+    "Dina": 34,
+    "Captain America": 24
+  },
+  "swapCasts": {
+    "Oath of Gideon": 0,
+    "Ripples of Potential": 0,
+    "Clever Concealment": 0,
+    "Lim-Dûl's Vault": 0,
+    "Divergent Transformations": 0,
+    "Massacre Wurm": 0,
+    "Chandra's Ignition": 0,
+    "Cyclonic Rift": 0,
+    "Aetherize": 0
+  },
+  "results": [
+    {
+      "game": 1,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 2,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 3,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 4,
+      "winner": "Ghalta",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R14 (Captain America)"
+    },
+    {
+      "game": 5,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 6,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 7,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 8,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 9,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 10,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 11,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 12,
+      "winner": "Ghalta",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Captain America)"
+    },
+    {
+      "game": 13,
+      "winner": "Dina",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R14 (Dina)"
+    },
+    {
+      "game": 14,
+      "winner": "Dina",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R12 (Ghalta)"
+    },
+    {
+      "game": 15,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 16,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 17,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 18,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 19,
+      "winner": "Ghalta",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R12 (Dina)"
+    },
+    {
+      "game": 20,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 21,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 22,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 23,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 24,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 25,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 26,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 27,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 28,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 29,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 30,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R15 (Ghalta)"
+    },
+    {
+      "game": 31,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 32,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 33,
+      "winner": "Captain America",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 34,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 35,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 36,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 37,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 38,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 39,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 40,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 41,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 42,
+      "winner": "Ghalta",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 43,
+      "winner": "Captain America",
+      "rounds": 24,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R18 (Dina)"
+    },
+    {
+      "game": 44,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 45,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 46,
+      "winner": "Ghalta",
+      "rounds": 24,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Dina)"
+    },
+    {
+      "game": 47,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 48,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 49,
+      "winner": "Captain America",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Dina)"
+    },
+    {
+      "game": 50,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 51,
+      "winner": "Ghalta",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 52,
+      "winner": "Captain America",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 53,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 54,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 55,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 56,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 57,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 58,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 59,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 60,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 61,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 62,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 63,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 64,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 65,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 66,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 67,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 68,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 69,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 70,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 71,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 72,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Captain America)"
+    },
+    {
+      "game": 73,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 74,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Captain America)"
+    },
+    {
+      "game": 75,
+      "winner": "Captain America",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 76,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 77,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 78,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 79,
+      "winner": "Captain America",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 80,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 81,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 82,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 83,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 84,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R15 (Ghalta)"
+    },
+    {
+      "game": 85,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 86,
+      "winner": "Dina",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R13 (Dina)"
+    },
+    {
+      "game": 87,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 88,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 89,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 3,
+      "jaceFinish": "out R19 (Captain America)"
+    },
+    {
+      "game": 90,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 91,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 92,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 93,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 1,
+      "jaceFinish": "out R10 (Captain America)"
+    },
+    {
+      "game": 94,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R5 (Ghalta)"
+    },
+    {
+      "game": 95,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 96,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 97,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 98,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 99,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 100,
+      "winner": "Dina",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R12 (Dina)"
+    },
+    {
+      "game": 101,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Dina)"
+    },
+    {
+      "game": 102,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 103,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 104,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 105,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R5 (Ghalta)"
+    },
+    {
+      "game": 106,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 107,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 108,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 109,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 110,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 111,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 112,
+      "winner": "Dina",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 113,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Ghalta)"
+    },
+    {
+      "game": 114,
+      "winner": "Ghalta",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R16 (Dina)"
+    },
+    {
+      "game": 115,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 116,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 117,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 118,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 119,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 120,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 121,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 122,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 123,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 124,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 125,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 126,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 127,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 128,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 129,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 130,
+      "winner": "Ghalta",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R18 (Ghalta)"
+    },
+    {
+      "game": 131,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 132,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 133,
+      "winner": "Patrick (Jace)",
+      "rounds": 23,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 134,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 135,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 136,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 137,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 138,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 2,
+      "jaceFinish": "alive at timeout"
+    },
+    {
+      "game": 139,
+      "winner": "Dina",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 140,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 141,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 142,
+      "winner": "Dina",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 143,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 144,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 145,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 146,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 147,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 148,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 149,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 150,
+      "winner": "Dina",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R18 (Dina)"
+    },
+    {
+      "game": 151,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 152,
+      "winner": "Dina",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R18 (Dina)"
+    },
+    {
+      "game": 153,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 154,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 155,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 156,
+      "winner": "Dina",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R10 (Captain America)"
+    },
+    {
+      "game": 157,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 158,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 159,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 160,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 161,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 162,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 163,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R5 (Ghalta)"
+    },
+    {
+      "game": 164,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 165,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 166,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 167,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 168,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 169,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 170,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 171,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R5 (Captain America)"
+    },
+    {
+      "game": 172,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 173,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 174,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 175,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 176,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R6 (Dina)"
+    },
+    {
+      "game": 177,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 178,
+      "winner": "Dina",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 179,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 180,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 181,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 182,
+      "winner": "Patrick (Jace)",
+      "rounds": 24,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 183,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 184,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 185,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 186,
+      "winner": "Dina",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R15 (Dina)"
+    },
+    {
+      "game": 187,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 188,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 189,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 190,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R12 (Captain America)"
+    },
+    {
+      "game": 191,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 192,
+      "winner": "Dina",
+      "rounds": 23,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R16 (Dina)"
+    },
+    {
+      "game": 193,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 194,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 195,
+      "winner": "Captain America",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 196,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 197,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 198,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Dina)"
+    },
+    {
+      "game": 199,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 200,
+      "winner": "Captain America",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Captain America)"
+    },
+    {
+      "game": 201,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 202,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 203,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 204,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 205,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 206,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 207,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 208,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 209,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 210,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 211,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 212,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 213,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 214,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 215,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R12 (Dina)"
+    },
+    {
+      "game": 216,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 217,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 218,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 219,
+      "winner": "Captain America",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Captain America)"
+    },
+    {
+      "game": 220,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 221,
+      "winner": "Patrick (Jace)",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 222,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 223,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 224,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 225,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 226,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 227,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 228,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 229,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 230,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 231,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 232,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 233,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 234,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 235,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 236,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 237,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 238,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 239,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 240,
+      "winner": "Ghalta",
+      "rounds": 23,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Captain America)"
+    },
+    {
+      "game": 241,
+      "winner": "Ghalta",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 242,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 243,
+      "winner": "Captain America",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R19 (Captain America)"
+    },
+    {
+      "game": 244,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 245,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 246,
+      "winner": "Ghalta",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 247,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 248,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 249,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 250,
+      "winner": "Ghalta",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 251,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Ghalta)"
+    },
+    {
+      "game": 252,
+      "winner": "Dina",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Captain America)"
+    },
+    {
+      "game": 253,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 254,
+      "winner": "Captain America",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R13 (Dina)"
+    },
+    {
+      "game": 255,
+      "winner": "Dina",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R22 (Dina)"
+    },
+    {
+      "game": 256,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 257,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 258,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 259,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 260,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 261,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 262,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 263,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 264,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R7 (Captain America)"
+    },
+    {
+      "game": 265,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 266,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 267,
+      "winner": "Patrick (Jace)",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 268,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 269,
+      "winner": "Captain America",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 270,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 271,
+      "winner": "Patrick (Jace)",
+      "rounds": 23,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 272,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 273,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 274,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 275,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 276,
+      "winner": "Captain America",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 277,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 278,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 279,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 280,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 281,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 282,
+      "winner": "Ghalta",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R18 (Dina)"
+    },
+    {
+      "game": 283,
+      "winner": "Dina",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R17 (Dina)"
+    },
+    {
+      "game": 284,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 285,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 286,
+      "winner": "Captain America",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Captain America)"
+    },
+    {
+      "game": 287,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 288,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 289,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 290,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 291,
+      "winner": "Dina",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Captain America)"
+    },
+    {
+      "game": 292,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 293,
+      "winner": "Captain America",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 294,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 295,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 296,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 297,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 298,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 299,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 300,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 301,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 302,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 303,
+      "winner": "Dina",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 304,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 305,
+      "winner": "Captain America",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 306,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Captain America)"
+    },
+    {
+      "game": 307,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 308,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 309,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 310,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 4,
+      "jaceFinish": "alive at timeout"
+    },
+    {
+      "game": 311,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 312,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 313,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 314,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R6 (Dina)"
+    },
+    {
+      "game": 315,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 316,
+      "winner": "Patrick (Jace)",
+      "rounds": 24,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 317,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 318,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 319,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 320,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 321,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 322,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 323,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 324,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 325,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 326,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 327,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 328,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 329,
+      "winner": "Captain America",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R11 (Captain America)"
+    },
+    {
+      "game": 330,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 331,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 332,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 333,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 334,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 335,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 336,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 337,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 338,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 339,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 340,
+      "winner": "Dina",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R17 (Ghalta)"
+    },
+    {
+      "game": 341,
+      "winner": "Captain America",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R5 (Ghalta)"
+    },
+    {
+      "game": 342,
+      "winner": "Dina",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 343,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 344,
+      "winner": "Dina",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 345,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 346,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 347,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 348,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 349,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R16 (Ghalta)"
+    },
+    {
+      "game": 350,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 351,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 352,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 353,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Captain America)"
+    },
+    {
+      "game": 354,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 355,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 356,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 357,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 358,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R12 (Captain America)"
+    },
+    {
+      "game": 359,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 360,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 361,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 362,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 363,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 364,
+      "winner": "Dina",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R18 (Dina)"
+    },
+    {
+      "game": 365,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 366,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 367,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 368,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 369,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 370,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 371,
+      "winner": "Dina",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 372,
+      "winner": "Dina",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R20 (Dina)"
+    },
+    {
+      "game": 373,
+      "winner": "Patrick (Jace)",
+      "rounds": 23,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 374,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 375,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 376,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Captain America)"
+    },
+    {
+      "game": 377,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 378,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 379,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 380,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 381,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 382,
+      "winner": "Ghalta",
+      "rounds": 9,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R6 (Captain America)"
+    },
+    {
+      "game": 383,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 384,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 385,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R12 (Ghalta)"
+    },
+    {
+      "game": 386,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 387,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 388,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 389,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 390,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 391,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 392,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 393,
+      "winner": "Captain America",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R12 (Ghalta)"
+    },
+    {
+      "game": 394,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 395,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 396,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 397,
+      "winner": "Patrick (Jace)",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 398,
+      "winner": "Dina",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 399,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 400,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 401,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 402,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 403,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R14 (Dina)"
+    },
+    {
+      "game": 404,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 405,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 406,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 407,
+      "winner": "Ghalta",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 3,
+      "jaceFinish": "alive at timeout"
+    },
+    {
+      "game": 408,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 409,
+      "winner": "Captain America",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 410,
+      "winner": "Patrick (Jace)",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 411,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 412,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 413,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 414,
+      "winner": "Ghalta",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 2,
+      "jaceFinish": "out R11 (Ghalta)"
+    },
+    {
+      "game": 415,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 416,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 417,
+      "winner": "Ghalta",
+      "rounds": 21,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 418,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 419,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 420,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 421,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 422,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 423,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 424,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 425,
+      "winner": "Ghalta",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 426,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 427,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 428,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 429,
+      "winner": "Ghalta",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 430,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R9 (Ghalta)"
+    },
+    {
+      "game": 431,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R8 (Dina)"
+    },
+    {
+      "game": 432,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 433,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 434,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 435,
+      "winner": "Dina",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R16 (Ghalta)"
+    },
+    {
+      "game": 436,
+      "winner": "Ghalta",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 437,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 438,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 439,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 440,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 441,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 442,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 443,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 444,
+      "winner": "Captain America",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R6 (Ghalta)"
+    },
+    {
+      "game": 445,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R11 (Dina)"
+    },
+    {
+      "game": 446,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 447,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 448,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 449,
+      "winner": "Dina",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Captain America)"
+    },
+    {
+      "game": 450,
+      "winner": "Ghalta",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R10 (Dina)"
+    },
+    {
+      "game": 451,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 452,
+      "winner": "Patrick (Jace)",
+      "rounds": 24,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 453,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 454,
+      "winner": "Ghalta",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 455,
+      "winner": "Ghalta",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R9 (Dina)"
+    },
+    {
+      "game": 456,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 457,
+      "winner": "Patrick (Jace)",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 458,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 459,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 460,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 461,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 462,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 463,
+      "winner": "Captain America",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R10 (Captain America)"
+    },
+    {
+      "game": 464,
+      "winner": "Patrick (Jace)",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 465,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 466,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 467,
+      "winner": "Captain America",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 468,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 469,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 470,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 471,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 472,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 473,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 474,
+      "winner": "Patrick (Jace)",
+      "rounds": 20,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 475,
+      "winner": "Ghalta",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R10 (Ghalta)"
+    },
+    {
+      "game": 476,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 477,
+      "winner": "Ghalta",
+      "rounds": 10,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R8 (Ghalta)"
+    },
+    {
+      "game": 478,
+      "winner": "Patrick (Jace)",
+      "rounds": 17,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 479,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 480,
+      "winner": "Captain America",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R14 (Captain America)"
+    },
+    {
+      "game": 481,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 482,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R7 (Ghalta)"
+    },
+    {
+      "game": 483,
+      "winner": "Patrick (Jace)",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 484,
+      "winner": "Dina",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 4,
+      "jaceFinish": "out R15 (Captain America)"
+    },
+    {
+      "game": 485,
+      "winner": "Patrick (Jace)",
+      "rounds": 15,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 486,
+      "winner": "Patrick (Jace)",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 487,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 488,
+      "winner": "Ghalta",
+      "rounds": 11,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "out R7 (Dina)"
+    },
+    {
+      "game": 489,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 490,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 491,
+      "winner": "Patrick (Jace)",
+      "rounds": 12,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 492,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 493,
+      "winner": "Ghalta",
+      "rounds": 16,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "out R14 (Captain America)"
+    },
+    {
+      "game": 494,
+      "winner": "Patrick (Jace)",
+      "rounds": 13,
+      "timeout": false,
+      "jaceSeat": 3,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 495,
+      "winner": "Patrick (Jace)",
+      "rounds": 14,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 496,
+      "winner": "Patrick (Jace)",
+      "rounds": 19,
+      "timeout": false,
+      "jaceSeat": 1,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 497,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    },
+    {
+      "game": 498,
+      "winner": "Ghalta",
+      "rounds": 25,
+      "timeout": true,
+      "jaceSeat": 4,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 499,
+      "winner": "Dina",
+      "rounds": 18,
+      "timeout": false,
+      "jaceSeat": 2,
+      "jaceFinish": "out R13 (Ghalta)"
+    },
+    {
+      "game": 500,
+      "winner": "Patrick (Jace)",
+      "rounds": 22,
+      "timeout": false,
+      "jaceSeat": 4,
+      "jaceFinish": "won"
+    }
+  ]
+}

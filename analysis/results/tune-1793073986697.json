@@ -1,0 +1,169 @@
+{
+  "N": 20,
+  "configs": [
+    {
+      "deck": "tchalla-proposed",
+      "profile": "Default"
+    },
+    {
+      "deck": "tchalla-proposed",
+      "profile": "Cautious"
+    },
+    {
+      "deck": "tchalla-proposed",
+      "profile": "Reckless"
+    },
+    {
+      "deck": "tchalla-proposed",
+      "profile": "Experimental"
+    }
+  ],
+  "opps": [
+    "313935",
+    "3047743",
+    "24662123",
+    "11650077",
+    "4133378",
+    "11619336",
+    "9298397",
+    "6847581"
+  ],
+  "table": {
+    "tchalla-proposed:Default": {
+      "313935": {
+        "wins": 7,
+        "games": 20
+      },
+      "3047743": {
+        "wins": 5,
+        "games": 20
+      },
+      "4133378": {
+        "wins": 3,
+        "games": 20
+      },
+      "6847581": {
+        "wins": 7,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 9,
+        "games": 20
+      },
+      "11619336": {
+        "wins": 12,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 2,
+        "games": 20
+      },
+      "24662123": {
+        "wins": 12,
+        "games": 20
+      }
+    },
+    "tchalla-proposed:Cautious": {
+      "313935": {
+        "wins": 5,
+        "games": 20
+      },
+      "3047743": {
+        "wins": 5,
+        "games": 20
+      },
+      "4133378": {
+        "wins": 7,
+        "games": 20
+      },
+      "6847581": {
+        "wins": 8,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 6,
+        "games": 20
+      },
+      "11619336": {
+        "wins": 7,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 4,
+        "games": 20
+      },
+      "24662123": {
+        "wins": 11,
+        "games": 20
+      }
+    },
+    "tchalla-proposed:Reckless": {
+      "313935": {
+        "wins": 8,
+        "games": 20
+      },
+      "3047743": {
+        "wins": 6,
+        "games": 20
+      },
+      "4133378": {
+        "wins": 6,
+        "games": 20
+      },
+      "6847581": {
+        "wins": 11,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 4,
+        "games": 20
+      },
+      "11619336": {
+        "wins": 10,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 7,
+        "games": 20
+      },
+      "24662123": {
+        "wins": 11,
+        "games": 20
+      }
+    },
+    "tchalla-proposed:Experimental": {
+      "313935": {
+        "wins": 7,
+        "games": 20
+      },
+      "3047743": {
+        "wins": 5,
+        "games": 20
+      },
+      "4133378": {
+        "wins": 4,
+        "games": 20
+      },
+      "6847581": {
+        "wins": 9,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 10,
+        "games": 20
+      },
+      "11619336": {
+        "wins": 11,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 10,
+        "games": 20
+      },
+      "24662123": {
+        "wins": 6,
+        "games": 20
+      }
+    }
+  }
+}

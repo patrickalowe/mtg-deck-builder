@@ -1,0 +1,199 @@
+{
+ "description": "C16 baseline batch 2 of 5: distinct opponent group (no deck shared with other batches), 20 balanced pods, own seeds. Built 2026-10-30.",
+ "decks": {
+  "14586723": "Kilo, Apogee Mind",
+  "2713146": "Dromoka, the Eternal",
+  "3997": "Isperia, Supreme Judge",
+  "13390996": "Emry, Lurker of the Loch",
+  "19195084": "Ashling, the Limitless",
+  "171880": "Sidisi, Brood Tyrant",
+  "4694645": "Sauron, the Dark Lord",
+  "11650077": "Giada, Font of Hope",
+  "8820287": "Bello, Bard of the Brambles",
+  "4615680": "Meria, Scholar of Antiquity",
+  "6847581": "Massacre Girl, Known Killer",
+  "17038323": "Avatar Kyoshi, Earthbender"
+ },
+ "pods": [
+  {
+   "id": "b2pod01",
+   "opponents": [
+    "17038323",
+    "2713146",
+    "4615680"
+   ],
+   "seed": 3201000
+  },
+  {
+   "id": "b2pod02",
+   "opponents": [
+    "11650077",
+    "14586723",
+    "19195084"
+   ],
+   "seed": 3202000
+  },
+  {
+   "id": "b2pod03",
+   "opponents": [
+    "3997",
+    "4694645",
+    "6847581"
+   ],
+   "seed": 3203000
+  },
+  {
+   "id": "b2pod04",
+   "opponents": [
+    "13390996",
+    "2713146",
+    "4615680"
+   ],
+   "seed": 3204000
+  },
+  {
+   "id": "b2pod05",
+   "opponents": [
+    "13390996",
+    "3997",
+    "6847581"
+   ],
+   "seed": 3205000
+  },
+  {
+   "id": "b2pod06",
+   "opponents": [
+    "14586723",
+    "4694645",
+    "8820287"
+   ],
+   "seed": 3206000
+  },
+  {
+   "id": "b2pod07",
+   "opponents": [
+    "11650077",
+    "171880",
+    "8820287"
+   ],
+   "seed": 3207000
+  },
+  {
+   "id": "b2pod08",
+   "opponents": [
+    "17038323",
+    "19195084",
+    "8820287"
+   ],
+   "seed": 3208000
+  },
+  {
+   "id": "b2pod09",
+   "opponents": [
+    "11650077",
+    "171880",
+    "3997"
+   ],
+   "seed": 3209000
+  },
+  {
+   "id": "b2pod10",
+   "opponents": [
+    "13390996",
+    "19195084",
+    "4694645"
+   ],
+   "seed": 3210000
+  },
+  {
+   "id": "b2pod11",
+   "opponents": [
+    "14586723",
+    "2713146",
+    "6847581"
+   ],
+   "seed": 3211000
+  },
+  {
+   "id": "b2pod12",
+   "opponents": [
+    "171880",
+    "19195084",
+    "6847581"
+   ],
+   "seed": 3212000
+  },
+  {
+   "id": "b2pod13",
+   "opponents": [
+    "11650077",
+    "17038323",
+    "4615680"
+   ],
+   "seed": 3213000
+  },
+  {
+   "id": "b2pod14",
+   "opponents": [
+    "17038323",
+    "171880",
+    "4615680"
+   ],
+   "seed": 3214000
+  },
+  {
+   "id": "b2pod15",
+   "opponents": [
+    "2713146",
+    "4694645",
+    "8820287"
+   ],
+   "seed": 3215000
+  },
+  {
+   "id": "b2pod16",
+   "opponents": [
+    "11650077",
+    "14586723",
+    "3997"
+   ],
+   "seed": 3216000
+  },
+  {
+   "id": "b2pod17",
+   "opponents": [
+    "13390996",
+    "19195084",
+    "3997"
+   ],
+   "seed": 3217000
+  },
+  {
+   "id": "b2pod18",
+   "opponents": [
+    "13390996",
+    "171880",
+    "8820287"
+   ],
+   "seed": 3218000
+  },
+  {
+   "id": "b2pod19",
+   "opponents": [
+    "2713146",
+    "4615680",
+    "6847581"
+   ],
+   "seed": 3219000
+  },
+  {
+   "id": "b2pod20",
+   "opponents": [
+    "13390996",
+    "14586723",
+    "6847581"
+   ],
+   "seed": 3220000
+  }
+ ]
+}

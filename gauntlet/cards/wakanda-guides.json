@@ -1,0 +1,727 @@
+{
+ "deck": "wakanda",
+ "commander": "T'Challa, the Black Panther",
+ "cards": {
+  "T'Challa, the Black Panther": {
+   "roles": [
+    "synergy",
+    "win condition"
+   ],
+   "when": "Turn 3 every game possible; recast early after removal — every Vibranium token and +2 counters snowball.",
+   "target": "Attack the opponent with the fewest blockers so each attack makes a Vibranium token.",
+   "hold": "Don't hold — he is the engine. Give him protection (Boots, Heroic Intervention, Vigorbloom) before big artifact turns.",
+   "synergy": "Every artifact with MV 4+ adds two +1/+1 counters; Vibranium tokens only cast artifacts, so sequence artifacts after he's down."
+  },
+  "Akroma's Will": {
+   "roles": [
+    "protection",
+    "win condition"
+   ],
+   "when": "Your turn after blockers: choose both modes (you control your commander) for a double-strike, flying, lifelink, indestructible alpha strike.",
+   "target": "Your whole team.",
+   "hold": "Hold as a finisher or as instant-speed protection in response to a wipe.",
+   "synergy": "Doubles T'Challa's counters' damage; turns Loyal Guardian/Zuri counters into lethal."
+  },
+  "Ancestral Communion": {
+   "roles": [
+    "recursion"
+   ],
+   "when": "When T'Challa is on the battlefield (it copies) and two good permanents are in the graveyard.",
+   "target": "Your best dead artifact/creature twice.",
+   "hold": "Hold until a wipe or removal has hit two real threats.",
+   "synergy": "Copy needs your commander on board — don't cast it without T'Challa."
+  },
+  "Arcane Signet": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 2.",
+   "target": "-",
+   "hold": "Never.",
+   "synergy": "Makes turn-3 T'Challa + artifact turns possible."
+  },
+  "Bast, Panther Goddess": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "Once you control 3+ creatures (tokens count); otherwise she can't attack or block.",
+   "target": "Pump your biggest attacker with her attack trigger.",
+   "hold": "Don't cast into an empty board.",
+   "synergy": "Vibranium tokens aren't creatures — count Soldiers, Rhinos, Germs, Walls."
+  },
+  "Beast Within": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Instant answer to a must-answer permanent (combo piece, Ghalta, a key artifact/enchantment).",
+   "target": "The single scariest permanent at the table; the 3/3 is a small price.",
+   "hold": "Hold up on opponents' turns when you can afford it.",
+   "synergy": "Flexible: hits enchantments/planeswalkers the creature removal can't."
+  },
+  "Birds of Paradise": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 1.",
+   "target": "-",
+   "hold": "Never.",
+   "synergy": "Fixes green/white; counts toward Bast's creature requirement."
+  },
+  "Black Panther, Vanguard": {
+   "roles": [
+    "synergy",
+    "token maker"
+   ],
+   "when": "Before your other Heroes so each Hero entering triggers him.",
+   "target": "Choose Soldier tokens early, team pump on an attack turn.",
+   "hold": "-",
+   "synergy": "Heroes in the deck: T'Challa, Shuri, Okoye, Zuri, W'Kabi, Storm, Nakia, T'Chaka, Invisible Woman."
+  },
+  "Bronze Guardian": {
+   "roles": [
+    "win condition",
+    "protection"
+   ],
+   "when": "Once you have 4+ artifacts (power = artifacts).",
+   "target": "Attack the player with the fewest flyers/blockers — double strike.",
+   "hold": "-",
+   "synergy": "Gives every other artifact ward 2; Vibranium tokens pump it; MV 5 artifact → T'Challa counters."
+  },
+  "Cauldron of Souls": {
+   "roles": [
+    "protection"
+   ],
+   "when": "Leave untapped before a wipe is likely; tap in response to give persist.",
+   "target": "Your best nontoken creatures.",
+   "hold": "It only works at instant speed in response — keep it untapped.",
+   "synergy": "Persist returns T'Challa (counters reset) and engines."
+  },
+  "Clever Concealment": {
+   "roles": [
+    "protection"
+   ],
+   "when": "Only in response to a board wipe or mass removal.",
+   "target": "Every nonland permanent worth saving (T'Challa, engines, equipment).",
+   "hold": "Hold it — never cast it proactively. Convoke means tapped creatures can still pay.",
+   "synergy": "Phased-out equipment stays attached when it phases back in."
+  },
+  "Conduit of Worlds": {
+   "roles": [
+    "recursion"
+   ],
+   "when": "Mid-game after a wipe; replays lands from the graveyard.",
+   "target": "Your best dead nonland permanent.",
+   "hold": "Cast early only if nothing better is available.",
+   "synergy": "Stand-in in sims for your unrecorded 'Vibranium Cache'."
+  },
+  "Dispatch": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Once you have 3+ artifacts (metalcraft = exile for {W}).",
+   "target": "Biggest threat (Ghalta, an angel, a commander you want gone).",
+   "hold": "Hold until metalcraft is on; without it, use it only to tap a blocker for lethal.",
+   "synergy": "Vibranium tokens count toward metalcraft."
+  },
+  "Divine Visitation": {
+   "roles": [
+    "synergy",
+    "win condition"
+   ],
+   "when": "Before token makers.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Turns Soldiers/Rhinos into 4/4 fliers (Vibranium tokens are not creatures)."
+  },
+  "Everett K. Ross, Hapless Attaché": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "Before T'Challa attacks get big.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "+1/+1 and lifelink on T'Challa; draws when you're swarmed."
+  },
+  "Forsaken Monument": {
+   "roles": [
+    "ramp",
+    "synergy"
+   ],
+   "when": "Turn 4–5 once you have colorless sources.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Doubles colorless mana (Vibranium, Sol Ring, Thran Dynamo); +2/+2 to colorless creatures (Wurmcoil, Bronze Guardian, Germs, Eldrazi)."
+  },
+  "Foundry Inspector": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 3 when you hold artifacts.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Cheaper artifacts = more T'Challa/Zuri triggers sooner."
+  },
+  "Generous Gift": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Instant answer to any permanent.",
+   "target": "Combo pieces, Ghalta, problematic enchantments/artifacts.",
+   "hold": "Hold for real threats.",
+   "synergy": "Same as Beast Within; white."
+  },
+  "Ghostly Prison": {
+   "roles": [
+    "protection"
+   ],
+   "when": "Turn 3 against aggressive or token-heavy tables.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Buys turns for the artifact engine to come online."
+  },
+  "Gilded Lotus": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 5.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "MV 5 artifact → T'Challa counters."
+  },
+  "Greater Good": {
+   "roles": [
+    "draw"
+   ],
+   "when": "When you have creatures to cash in.",
+   "target": "Sacrifice creatures that are about to die anyway (in response to removal/wipe).",
+   "hold": "Don't sacrifice healthy threats.",
+   "synergy": "Sac a big T'Challa in response to exile for a huge draw."
+  },
+  "Hammer of Nazahn": {
+   "roles": [
+    "protection",
+    "synergy"
+   ],
+   "when": "Once T'Challa is out.",
+   "target": "Auto-attach to T'Challa (indestructible).",
+   "hold": "-",
+   "synergy": "Auto-attaches other equipment as it enters; MV 4 → counters."
+  },
+  "Hatut Zeraze Strike Force": {
+   "roles": [
+    "removal"
+   ],
+   "when": "After you've recast T'Challa (copies per commander cast).",
+   "target": "Artifacts/enchantments.",
+   "hold": "-",
+   "synergy": "Better late."
+  },
+  "Heart-Shaped Herb": {
+   "roles": [
+    "protection"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Damage prevention; low impact."
+  },
+  "Helm of the Host": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "With a non-legendary threat.",
+   "target": "Wurmcoil, Bronze Guardian, Loyal Guardian — not T'Challa (copies aren't legendary but the original stays).",
+   "hold": "-",
+   "synergy": "MV 4 artifact → counters."
+  },
+  "Heroic Intervention": {
+   "roles": [
+    "protection"
+   ],
+   "when": "In response to a wipe or targeted removal.",
+   "target": "-",
+   "hold": "Hold it.",
+   "synergy": "Protects the whole artifact board."
+  },
+  "Idol of Oblivion": {
+   "roles": [
+    "draw",
+    "win condition"
+   ],
+   "when": "Turn 2–3.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Every T'Challa attack makes a token → draw a card; late game, 10/10 Eldrazi (+2/+2 with Monument)."
+  },
+  "Ingenious Smith": {
+   "roles": [
+    "draw"
+   ],
+   "when": "Turn 2.",
+   "target": "Take the best artifact in the top four.",
+   "hold": "-",
+   "synergy": "Finds artifact payoffs."
+  },
+  "Invisible Woman, Sue Storm": {
+   "roles": [
+    "synergy",
+    "protection"
+   ],
+   "when": "Mid-game with counters coming.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Counters on other Heroes (Zuri, T'Challa via others) make 0/4 walls."
+  },
+  "Kimoyo Beads": {
+   "roles": [
+    "draw"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "MV 4 → counters; card, tokens, life over three turns."
+  },
+  "King Solomon's Frogs": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Flash it in on an opponent's end step or in response.",
+   "target": "Each opponent's best permanent with MV 3+.",
+   "hold": "Hold for value (one target per opponent).",
+   "synergy": "MV 4 artifact → counters."
+  },
+  "Kutzil, Malamet Exemplar": {
+   "roles": [
+    "protection",
+    "draw"
+   ],
+   "when": "Before your big turn — opponents can't respond during your turn.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Counters from T'Challa/Zuri/Loyal Guardian make creatures above base power → draws."
+  },
+  "Loyal Guardian": {
+   "roles": [
+    "synergy",
+    "win condition"
+   ],
+   "when": "With T'Challa on the battlefield.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Lieutenant: +1/+1 counter on every creature every combat."
+  },
+  "Loyal Retainers": {
+   "roles": [
+    "recursion"
+   ],
+   "when": "After a legendary creature dies.",
+   "target": "Reanimate T'Challa? No — he goes to command zone; target Bast/Storm/Okoye/Traxos.",
+   "hold": "-",
+   "synergy": "Many legends in the deck."
+  },
+  "M'Baku, Jabari Chieftain": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Monarch pressure; low impact."
+  },
+  "Metalwork Colossus": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "When noncreature artifact MV covers most of its cost.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Often free; recursion by sacrificing two Vibranium tokens."
+  },
+  "Meteor Golem": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Turn 7+.",
+   "target": "Best nonland permanent.",
+   "hold": "-",
+   "synergy": "MV 7 → counters."
+  },
+  "Mind's Eye": {
+   "roles": [
+    "draw"
+   ],
+   "when": "Turn 5.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Pays off colorless mana."
+  },
+  "Mirrormind Crown": {
+   "roles": [
+    "synergy",
+    "win condition"
+   ],
+   "when": "Once you have a non-legendary threat and token makers.",
+   "target": "Equip Wurmcoil, Bronze Guardian, Loyal Guardian — never T'Challa (legend rule kills the copies).",
+   "hold": "-",
+   "synergy": "T'Challa's Vibranium tokens become copies of the equipped creature."
+  },
+  "Mirrorworks": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "Before big artifacts.",
+   "target": "Copy Gilded/Thran/Forsaken/Wurmcoil.",
+   "hold": "-",
+   "synergy": "Each copy is a token (Idol draws)."
+  },
+  "Mystic Forge": {
+   "roles": [
+    "draw",
+    "ramp"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Cast artifacts off the top; MV 4 → counters; near-combo with Foundry Inspector + Sensei's Top."
+  },
+  "Nakia, Wakandan Operative": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "Before recasting T'Challa.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Monarch when T'Challa enters."
+  },
+  "Nature's Lore": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 2.",
+   "target": "Fetch a Forest (untapped).",
+   "hold": "-",
+   "synergy": "Turn-3 T'Challa."
+  },
+  "Nettlecyst": {
+   "roles": [
+    "win condition",
+    "synergy"
+   ],
+   "when": "Turn 3+.",
+   "target": "Germ first; later re-equip to T'Challa or an evasive creature.",
+   "hold": "-",
+   "synergy": "+1/+1 per artifact/enchantment — Vibranium tokens grow it."
+  },
+  "Okoye, Mighty and Adored": {
+   "roles": [
+    "synergy",
+    "draw"
+   ],
+   "when": "Turn 4.",
+   "target": "Counter on T'Challa each combat; attack the monarch.",
+   "hold": "-",
+   "synergy": "Monarch card draw; double strike vs the monarch."
+  },
+  "Overwhelming Stampede": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "Alpha strike turn only.",
+   "target": "-",
+   "hold": "Hold until it's lethal or close.",
+   "synergy": "Big T'Challa = huge +X/+X for everyone."
+  },
+  "Panther Habit": {
+   "roles": [
+    "protection",
+    "synergy"
+   ],
+   "when": "On T'Challa once he attacks into blockers.",
+   "target": "T'Challa.",
+   "hold": "-",
+   "synergy": "Damage becomes +1/+1 counters."
+  },
+  "Panther Robot": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "When affinity makes it cheap.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Vibranium tokens reduce the cost."
+  },
+  "Path to Exile": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Instant, on the biggest threat.",
+   "target": "Ghalta, angels, voltron threats, combo creatures — not mana dorks.",
+   "hold": "Hold for real threats.",
+   "synergy": "-"
+  },
+  "Queen Mother Ramonda": {
+   "roles": [
+    "protection"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Monarch + small-creature attack lock."
+  },
+  "Reconnaissance": {
+   "roles": [
+    "protection"
+   ],
+   "when": "Once you're attacking with several creatures.",
+   "target": "Remove blocked attackers that would die; untap all attackers after damage (free vigilance).",
+   "hold": "-",
+   "synergy": "Attack freely with T'Challa (Vibranium trigger) and still have him back as a blocker."
+  },
+  "Royal Talon Fighter Jet": {
+   "roles": [
+    "token maker"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Soldier tokens."
+  },
+  "Shuri's Fabricator": {
+   "roles": [
+    "ramp",
+    "recursion"
+   ],
+   "when": "Turn 4.",
+   "target": "Later: return your best dead artifact.",
+   "hold": "-",
+   "synergy": "Two Vibranium + MV 4 counters."
+  },
+  "Shuri, the Black Panther": {
+   "roles": [
+    "draw",
+    "synergy"
+   ],
+   "when": "Turn 2.",
+   "target": "Attack when you have 3+ artifacts.",
+   "hold": "-",
+   "synergy": "Draw on attack; +2/+2 team at 6 artifacts."
+  },
+  "Sol Ring": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 1.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Doubled by Forsaken Monument."
+  },
+  "Solemn Simulacrum": {
+   "roles": [
+    "ramp",
+    "draw"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "MV 4 → counters; chump-blocks for a card."
+  },
+  "Storm, Queen of Wakanda": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "Turn 5.",
+   "target": "Give T'Challa flying +X.",
+   "hold": "-",
+   "synergy": "Evasion for the biggest attacker; punishes flyers attacking you."
+  },
+  "Swiftfoot Boots": {
+   "roles": [
+    "protection"
+   ],
+   "when": "Only once T'Challa or a key threat is on the battlefield — don't spend early turns on it.",
+   "target": "T'Challa.",
+   "hold": "-",
+   "synergy": "Hexproof against spot removal."
+  },
+  "Sword of the Animist": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 2.",
+   "target": "Equip T'Challa.",
+   "hold": "-",
+   "synergy": "Land per attack."
+  },
+  "Swords to Plowshares": {
+   "roles": [
+    "removal"
+   ],
+   "when": "Instant, on the biggest threat.",
+   "target": "Same as Path.",
+   "hold": "Hold for real threats.",
+   "synergy": "-"
+  },
+  "T'Chaka, Venerable King": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Mill/monarch; low impact."
+  },
+  "The Spear of Bashenga": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Monarch + vigilance."
+  },
+  "Thousand Moons Smithy": {
+   "roles": [
+    "token maker",
+    "win condition"
+   ],
+   "when": "Turn 4 with artifacts.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Gnome scales with artifacts; can transform into a land."
+  },
+  "Thran Dynamo": {
+   "roles": [
+    "ramp"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "MV 4 → counters; doubled by Monument."
+  },
+  "Trading Post": {
+   "roles": [
+    "utility"
+   ],
+   "when": "-",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Stand-in for your unrecorded 'Herald's Post'."
+  },
+  "Traxos, Scourge Eternal": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Untaps with every artifact/creature spell."
+  },
+  "Valorous Stance": {
+   "roles": [
+    "removal",
+    "protection"
+   ],
+   "when": "Instant.",
+   "target": "Toughness 4+ threat or protect T'Challa.",
+   "hold": "Hold.",
+   "synergy": "-"
+  },
+  "Vanquish the Horde": {
+   "roles": [
+    "board wipe"
+   ],
+   "when": "When behind on board.",
+   "target": "-",
+   "hold": "Hold until it's clearly one-sided in your favour.",
+   "synergy": "Vibranium tokens and noncreature artifacts survive."
+  },
+  "Vibranium Mining Mech": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "Turn 4.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Vibranium tokens; crew 2."
+  },
+  "Vibranium Strike Gauntlets": {
+   "roles": [
+    "draw",
+    "win condition"
+   ],
+   "when": "Flash at instant speed on an attacker.",
+   "target": "Unblocked attacker.",
+   "hold": "-",
+   "synergy": "MV 4 → counters; draws on damage."
+  },
+  "Vigorbloom Charm": {
+   "roles": [
+    "protection",
+    "draw",
+    "removal"
+   ],
+   "when": "Instant.",
+   "target": "Protect T'Challa, or draw, or fight.",
+   "hold": "Hold for protection.",
+   "synergy": "-"
+  },
+  "W'Kabi, Shield of the Nation": {
+   "roles": [
+    "synergy",
+    "token maker"
+   ],
+   "when": "Turn 2.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Every T'Challa attack with a 4+ MV artifact out = 4/4 Rhino."
+  },
+  "Wakanda Forever!": {
+   "roles": [
+    "draw"
+   ],
+   "when": "Mid-game.",
+   "target": "Put the best permanent onto the battlefield with an indestructible counter.",
+   "hold": "-",
+   "synergy": "-"
+  },
+  "Winds of Abandon": {
+   "roles": [
+    "removal",
+    "board wipe"
+   ],
+   "when": "Single target early; overload (6 mana) as a one-sided wipe.",
+   "target": "-",
+   "hold": "Hold the overload for a big board.",
+   "synergy": "One-sided exile."
+  },
+  "Wurmcoil Engine": {
+   "roles": [
+    "win condition"
+   ],
+   "when": "Turn 5–6.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "MV 6 → counters; Mirrormind Crown/Helm target."
+  },
+  "Zuri, Warrior of Wakanda": {
+   "roles": [
+    "synergy"
+   ],
+   "when": "Turn 2.",
+   "target": "-",
+   "hold": "-",
+   "synergy": "Every MV 4+ artifact = +1/+1 counter on every creature."
+  },
+  "The Vision": {
+   "roles": [
+    "win condition",
+    "draw",
+    "synergy"
+   ],
+   "when": "Turn 4 (MV 4 artifact → two +1/+1 counters on T'Challa, so cast it after he's out).",
+   "target": "Attack in the air with vigilance.",
+   "hold": "-",
+   "synergy": "Every noncreature spell (all your artifacts, equipment, removal) gives it double strike, indestructible or a card — pick card draw first in most turns. Colorless, so Forsaken Monument gives it +2/+2."
+  }
+ }
+}

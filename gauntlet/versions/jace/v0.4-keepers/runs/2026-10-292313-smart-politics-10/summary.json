@@ -1,0 +1,21 @@
+{
+  "deck": "jace",
+  "version": "v0.4-keepers",
+  "run": "2026-10-292313-smart-politics-10",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "games": 10,
+  "wins": 3,
+  "draws": 0,
+  "winRate": 0.3,
+  "ci95": [
+    0.10778928748621182,
+    0.6032267800204347
+  ],
+  "avgRounds": 12.5,
+  "baselineNote": "4-player pods: 25% = even share"
+}

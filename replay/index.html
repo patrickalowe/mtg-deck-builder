@@ -1,0 +1,594 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forge Replays</title>
+<style>
+  :root {
+    --felt: #12241c; --felt-2: #183126; --rail: #0b1712; --ink: #e9efe9; --muted: #93a79b;
+    --gold: #d8b25a; --attack: #e5484d; --block: #3e8ef7; --heal: #46c37b; --panel: #0f1d17; --line: #24392f;
+    --card-w: clamp(52px, 8.2vh, 86px); --land-w: clamp(36px, 5.2vh, 54px); --hand-w: clamp(40px, 5.6vh, 58px);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--rail); color: var(--ink); font: 13px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; height: 100vh; overflow: hidden; }
+  .app { display: grid; grid-template-columns: 230px 1fr 300px; height: 100vh; }
+
+  /* Game list */
+  .games { background: var(--panel); border-right: 1px solid var(--line); overflow-y: auto; padding: 14px 10px; }
+  .games h1 { font: 600 16px/1.2 Georgia, "Iowan Old Style", serif; letter-spacing: .02em; margin: 2px 6px 4px; color: var(--gold); }
+  .games p.sub { margin: 0 6px 12px; color: var(--muted); font-size: 11px; }
+  .game { display: block; width: 100%; text-align: left; background: none; border: 1px solid transparent; color: var(--ink); padding: 8px 9px; border-radius: 8px; cursor: pointer; margin-bottom: 4px; }
+  .game:hover { background: var(--felt); }
+  .game.on { background: var(--felt-2); border-color: var(--line); }
+  .game .opp { font-weight: 600; display: block; }
+  .game .meta { color: var(--muted); font-size: 11px; }
+  .chip { display: inline-block; font-size: 11px; font-weight: 700; padding: 1px 6px; border-radius: 999px; margin-right: 6px; letter-spacing: .04em; }
+  .chip.w { background: #1f4d34; color: #8ff0b6; } .chip.l { background: #4d1f22; color: #ffaaae; }
+
+  /* Table */
+  .table { display: grid; height: 100vh; overflow: hidden; grid-template-rows: auto minmax(0, 1fr) auto auto minmax(0, 1fr) auto auto; background: radial-gradient(ellipse at center, var(--felt-2), var(--felt) 70%); position: relative; min-width: 0; }
+  .side { display: grid; grid-template-columns: 150px 1fr; gap: 12px; padding: 8px 16px; min-height: 0; overflow: hidden; }
+  .side.top { align-content: start; }
+  .opps { display: grid; grid-template-columns: 1fr; min-height: 0; overflow: hidden; }
+  /* 4-player pods: three opponents side by side, compact */
+  .pod .opps { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; padding: 0 8px; }
+  .pod .opps .side { grid-template-columns: 1fr; gap: 4px; padding: 6px 8px; border-radius: 10px; background: rgba(0,0,0,.14); }
+  .pod .opps .hud { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 2px 10px; }
+  .pod .opps .life { font-size: clamp(20px, 3vh, 30px); }
+  .pod .opps .cz { width: auto; } .pod .opps .cz .label { display: none; }
+  .pod .opps { --card-w: clamp(30px, 4.4vh, 54px); --land-w: clamp(20px, 2.9vh, 34px); }
+  .pod .handbar:first-child { display: none; }
+  .side.bottom { align-content: end; }
+  .hud { display: flex; flex-direction: column; gap: 8px; }
+  .hud .who { font: 600 13px Georgia, serif; color: var(--gold); }
+  .life { font: 700 clamp(26px, 4.2vh, 40px)/1 Georgia, serif; font-variant-numeric: tabular-nums; transition: color .3s; position: relative; }
+  .life.hit { color: var(--attack); } .life.gain { color: var(--heal); }
+  .zones { display: flex; flex-wrap: wrap; gap: 4px 10px; color: var(--muted); font-size: 11px; max-width: 150px; }
+  .cz { width: 64px; }
+  .cz .label { font-size: 11px; color: var(--muted); margin-bottom: 3px; }
+  .rows { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+  .side.top .rows { flex-direction: column-reverse; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end; min-height: 40px; }
+  .row.lands { gap: 5px; }
+  .handbar { display: flex; justify-content: center; padding: 4px 16px; min-height: 0; }
+  .row.hand { gap: 0; min-height: 0; padding: 6px 10px; border-radius: 10px; background: rgba(0,0,0,.25); flex-wrap: nowrap; }
+  .row.hand:empty { display: none; }
+  .row.hand .card { width: var(--hand-w); margin-right: 4px; }
+  .row.hand.crowded .card { margin-right: -14px; }
+  .row.hand .card:hover { transform: translateY(-6px); z-index: 3; }
+  .row.hand .label { align-self: center; color: var(--muted); font-size: 11px; margin-right: 10px; writing-mode: vertical-rl; transform: rotate(180deg); }
+  .card.drawn { box-shadow: 0 0 0 2px var(--gold), 0 0 16px rgba(216,178,90,.75); }
+  .card.drawn::after { content: "NEW"; position: absolute; top: -7px; left: 50%; transform: translateX(-50%); background: var(--gold); color: #1a1a1a; font: 800 11px/1 -apple-system, sans-serif; padding: 2px 5px; border-radius: 999px; }
+  .active-turn .hud .who::after { content: " · turn"; color: var(--muted); font-weight: 400; }
+
+  /* Cards */
+  .card { width: var(--card-w); aspect-ratio: 488/680; border-radius: 6px; position: relative; flex: none; transition: transform .35s cubic-bezier(.2,.8,.2,1), box-shadow .3s, opacity .35s, filter .3s; box-shadow: 0 2px 6px rgba(0,0,0,.5); background: #222 center/cover no-repeat; }
+  .row.lands .card { width: var(--land-w); }
+  .card.tapped { transform: rotate(90deg) scale(.86); filter: brightness(.8); }
+  .card.attacking { box-shadow: 0 0 0 3px var(--attack), 0 0 22px rgba(229,72,77,.7); }
+  .side.bottom .card.attacking { transform: translateY(-22px); } .side.top .card.attacking { transform: translateY(22px); }
+  .side.bottom .card.attacking.tapped { transform: translateY(-22px) rotate(90deg) scale(.86); } .side.top .card.attacking.tapped { transform: translateY(22px) rotate(90deg) scale(.86); }
+  .card.blocking { box-shadow: 0 0 0 3px var(--block), 0 0 22px rgba(62,142,247,.7); }
+  .card.targeted { animation: pulse 1s ease-in-out infinite; }
+  .card.entering { animation: enter .45s cubic-bezier(.2,.8,.2,1); }
+  .card.leaving { opacity: 0; transform: scale(.6) rotate(-8deg); }
+  .card.commander::before { content: ""; position: absolute; inset: -3px; border-radius: 8px; border: 2px solid var(--gold); pointer-events: none; }
+  .card .pt { position: absolute; right: 3px; bottom: 3px; background: rgba(10,14,12,.88); color: #fff; font: 700 13px/1 -apple-system, sans-serif; padding: 3px 5px; border-radius: 4px; transition: background .3s; }
+  .card .pt.up { background: #1f6b43; } .card .pt.down { background: #8a2a2e; }
+  .card .pt.pop { animation: pop .5s; }
+  .card .loyal { position: absolute; right: 3px; bottom: 3px; background: #2b2b2b; border: 1px solid var(--gold); color: var(--gold); font: 700 13px/1 -apple-system, sans-serif; padding: 3px 6px; border-radius: 4px 4px 9px 9px; }
+  .card .ctrs { position: absolute; left: -5px; top: 6px; display: flex; flex-direction: column; gap: 3px; z-index: 2; }
+  .card .ctr { background: var(--gold); color: #1a1a1a; font: 700 11px/1 -apple-system, sans-serif; padding: 3px 5px; border-radius: 999px; box-shadow: 0 1px 4px rgba(0,0,0,.6); white-space: nowrap; }
+  .card .ctr.other { background: #cfd8d3; }
+  .card.tapped .ctrs, .card.tapped .pt, .card.tapped .loyal { transform: rotate(-90deg); }
+  @keyframes pop { 40% { transform: scale(1.5); } }
+  .card.token { background: linear-gradient(160deg, #3b4a42, #1d2722); border: 1px solid #56685e; display: flex; align-items: center; justify-content: center; text-align: center; padding: 6px; font-size: 11px; font-weight: 600; color: #dfe8e2; }
+  .card.token.vib { background: linear-gradient(160deg, #6a5a8e, #2c2442); border-color: #9f8fd0; }
+  .card .stack-count { position: absolute; top: -6px; right: -6px; background: var(--gold); color: #1a1a1a; font-weight: 700; font-size: 11px; border-radius: 999px; padding: 1px 5px; }
+  .float { position: absolute; left: 50%; top: 30%; transform: translateX(-50%); font: 800 22px Georgia, serif; color: var(--attack); text-shadow: 0 2px 6px #000; pointer-events: none; animation: rise 1.1s ease-out forwards; z-index: 5; }
+  .float.gain { color: var(--heal); }
+  @keyframes rise { from { opacity: 1; transform: translate(-50%, 0); } to { opacity: 0; transform: translate(-50%, -38px); } }
+  @keyframes enter { from { opacity: 0; transform: translateY(14px) scale(.8); } to { opacity: 1; } }
+  @keyframes pulse { 50% { box-shadow: 0 0 0 3px var(--gold), 0 0 20px rgba(216,178,90,.8); } }
+
+  /* Center strip */
+  .center { display: flex; align-items: center; justify-content: center; gap: 16px; padding: 2px 16px; min-height: clamp(70px, 12vh, 120px); border-top: 1px dashed rgba(255,255,255,.06); border-bottom: 1px dashed rgba(255,255,255,.06); }
+  .spotlight { display: flex; align-items: center; gap: 14px; min-height: 0; }
+  .spotlight .big { width: clamp(48px, 8vh, 80px); aspect-ratio: 488/680; border-radius: 7px; background: #222 center/cover; box-shadow: 0 8px 24px rgba(0,0,0,.6); animation: enter .4s; }
+  .spotlight { position: relative; z-index: 6; }
+  .spotlight .caption { max-height: 140px; overflow-y: auto; max-width: 480px; font: 600 16px/1.35 Georgia, serif; background: rgba(10,20,15,.82); padding: 8px 12px; border-radius: 8px; }
+  .spotlight:empty { display: none; }
+  .spotlight .caption small { display: block; font: 400 11px -apple-system, sans-serif; color: var(--muted); margin-top: 4px; }
+  .banner { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: rgba(5,10,8,.72); font: 700 34px Georgia, serif; color: var(--gold); text-align: center; z-index: 20; }
+  .banner small { display: block; font: 400 13px -apple-system, sans-serif; color: var(--ink); margin-top: 8px; }
+  svg.links { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 4; }
+
+  /* Controls */
+  .controls { display: flex; align-items: center; gap: 10px; padding: 8px 16px 12px; position: relative; z-index: 10; background: linear-gradient(transparent, rgba(0,0,0,.35)); }
+  .controls button { background: var(--felt-2); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 6px 11px; cursor: pointer; font-size: 13px; min-width: 38px; }
+  .controls button:hover { border-color: var(--gold); }
+  .controls input[type=range].scrub { flex: 1; accent-color: var(--gold); }
+  .controls .turnlabel { min-width: 190px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .controls label { color: var(--muted); font-size: 11px; display: flex; align-items: center; gap: 6px; }
+
+  /* Log */
+  .log { background: var(--panel); border-left: 1px solid var(--line); overflow-y: auto; padding: 10px 0; }
+  .replay-note { color: #c0d0c7; font-size: 12px; margin: 6px 14px 12px; }
+  .log h2 { font: 600 11px -apple-system, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 4px 14px 8px; }
+  .log .ev { padding: 3px 14px; color: var(--muted); cursor: pointer; border-left: 3px solid transparent; }
+  .log .ev:hover { color: var(--ink); }
+  .log .ev.now { color: var(--ink); background: var(--felt); border-left-color: var(--gold); }
+  .log .ev.turn { color: var(--gold); font-weight: 600; margin-top: 8px; }
+  .log .ev.P { } .log .ev .dmg { color: var(--attack); } .log .ev .heal { color: var(--heal); }
+
+  #preview { display: flex; align-content: end; padding: 10px; color: #fff; font-size: 16px; font-weight: 700; text-shadow: 0 1px 3px #000; }
+  #preview .preview-counters { position: absolute; bottom: 0; left: 0; right: 0; padding: 10px; background: #14231c; border: 1px solid #819b8c; border-radius: 0 0 10px 10px; }
+  #preview { position: fixed; width: 260px; aspect-ratio: 488/680; border-radius: 12px; background: #222 center/cover; box-shadow: 0 16px 40px rgba(0,0,0,.7); pointer-events: none; z-index: 50; display: none; }
+
+  .table > .handbar-opponent { grid-row: 1; }
+  .table > .opps { grid-row: 2; }
+  .table > .center { grid-row: 3; }
+  .table > .combat-summary { grid-row: 4; }
+  .table > .side.bottom { grid-row: 5; }
+  .table > .handbar-player { grid-row: 6; min-height: 85px; overflow-x: auto; justify-content: flex-start; }
+  .table > .controls { grid-row: 7; }
+  .handbar-player .row.hand { margin: 0 auto; }
+  .combat-summary { max-height: 180px; overflow-y: auto; margin: 4px 16px 12px; padding: 12px; background: #101d18; border: 1px solid #446253; border-radius: 8px; position: relative; z-index: 6; }
+  .combat-summary[hidden] { display: none; }
+  .combat-heading { font-weight: 750; margin-bottom: 8px; }
+  .combat-heading span { color: #c0d0c7; font-size: 12px; font-weight: 400; margin-left: 10px; }
+  .combat-assignment { display: grid; grid-template-columns: minmax(150px, 1fr) minmax(110px, 1fr) minmax(140px, 1fr); gap: 8px 16px; padding: 6px 0; border-top: 1px solid #2e453a; font-size: 13px; }
+  .combat-assignment strong { color: #ff9da1; } .block-detail { color: #9ac8ff; } .block-pending { color: #d0dbd5; }
+  .card .loyal { font-size: 14px; background: #171d19; color: #ffe0a0; padding: 5px 7px; z-index: 3; white-space: nowrap; }
+  .card .ctr { font-size: 12px; padding: 4px 6px; }
+  .card { overflow: visible; }
+  @media(max-width: 850px) { .combat-assignment { grid-template-columns: 1fr; gap: 3px; } .combat-heading span { display: block; margin: 4px 0 0; } }
+  @media(prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <nav class="games" id="games">
+    <h1>Forge Replays</h1>
+    <p class="sub">Patrick's decks · Forge AI games · newest first</p>
+  </nav>
+
+  <main class="table" id="table">
+    <section class="handbar handbar-opponent"><div class="row hand" id="hand-O"></div></section>
+    <section class="opps" id="opps"><section class="side top" id="side-O"></section></section>
+    <section class="center"><div class="spotlight" id="spotlight"></div></section>
+    <section id="combat-summary" class="combat-summary" aria-label="Combat assignments" hidden></section>
+    <section class="side bottom" id="side-P"></section>
+    <section class="handbar handbar-player"><div class="row hand" id="hand-P"></div></section>
+    <div class="controls">
+      <button id="prev" title="Previous (←)">◀</button>
+      <button id="play" title="Play / pause (space)">▶</button>
+      <button id="next" title="Next (→)">▶|</button>
+      <span class="turnlabel" id="turnlabel"></span>
+      <input class="scrub" id="scrub" type="range" min="0" value="0">
+      <label>Speed <input id="speed" type="range" min="1" max="10" value="5"></label>
+    </div>
+    <svg class="links" id="links"></svg>
+  </main>
+
+  <aside class="log" id="log"><h2>Play by play</h2><p class="replay-note" id="recording-note">Mana lines show the recorded ability and its options, not exact colors spent. Entering through an effect is different from casting.</p><div id="loglines"></div></aside>
+</div>
+<div id="preview"></div>
+
+<script src="data/games.js"></script>
+<script>
+const { games, cards } = window.REPLAY;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const short = n => n.split(',')[0];
+const VISIBLE = new Set(['turn', 'draw', 'land', 'stack', 'resolve', 'attack', 'block', 'unblocked', 'stats', 'mana', 'damage', 'life', 'leave', 'mill', 'discard', 'outcome', 'enter']);
+
+let game, steps, pos = 0, timer = null, prevState = null;
+
+// ---------- state ----------
+// Seats in this game: 'P' (Patrick) plus 'O' (1v1) or 'O', 'O2', 'O3' (4-player pod).
+const seats = () => (game.seats ? Object.keys(game.seats) : ['P', 'O']);
+const allBf = s => seats().flatMap(k => s[k].bf);
+function fresh() {
+  const p = cmd => ({ life: 40, bf: [], gy: [], ex: [], cmd, czHas: true, hand: 7, library: 92, handCards: [], newIds: new Set() });
+  const s = { combat: [], turn: 0, active: 'P', stack: [], spot: null, flash: [], banner: null, last: null };
+  for (const k of seats()) s[k] = p(game.seats?.[k] ?? (k === 'P' ? game.patrickCommander : game.opponentCommander));
+  return s;
+}
+function find(s, id) { for (const k of seats()) { const c = s[k].bf.find(c => c.id === id); if (c) return [k, c]; } return [null, null]; }
+function nameOf(s, id) { const [, c] = find(s, id); return c ? c.name : 'a permanent'; }
+
+function apply(s, e, live) {
+  s.last = e;
+  switch (e.t) {
+    case 'turn': s.turn = e.n; s.active = e.player; s.spot = null; s.combat = []; allBf(s).forEach(c => { c.attacking = false; c.blocking = null; }); break;
+    case 'untap': s[e.player].bf.forEach(c => (c.tapped = false)); break;
+    case 'land': if (!e.exists) s[e.player].bf.push({ id: e.id, name: e.name, land: true }); if (live) s.spot = { name: e.name, text: `${who(e.player)} plays ${e.name}` }; break;
+    case 'tapLast': { const all = allBf(s); const c = all[all.length - 1]; if (c) c.tapped = true; break; }
+    case 'enter': {
+      const isLand = /Land/.test(cards[e.name]?.type ?? '') && !/Creature/.test(cards[e.name]?.type ?? '');
+      if (find(s, e.id)[1]) break;
+      s[e.player].bf.push({ id: e.id, name: e.name, token: !!e.token, commander: !!e.commander, land: isLand || !!e.land });
+      if (e.commander) s[e.player].czHas = false;
+      break;
+    }
+    case 'bind': { const [, c] = find(s, e.tmpId); if (c) c.id = e.id; break; }
+    case 'tap': { const [, c] = find(s, e.id); if (c) c.tapped = true; break; }
+    case 'stats': { const [, c] = find(s, e.id); if (c) { c.p = e.p; c.tt = e.tt; c.counters = e.counters; c.loyalty = e.loyalty; c.tapped = e.tapped; } if (live && e.counterChanged) s.spot = { name: e.name, text: `${e.name ?? 'Permanent'}: ${counterDescription(e)}` }; break; }
+    case 'control': { const [k, c] = find(s, e.id); if (c && k !== e.player) { s[k].bf = s[k].bf.filter(x => x !== c); s[e.player].bf.push(c); } break; }
+    case 'zones': for (const k of seats()) if (e[k]) { s[k].hand = e[k].hand; s[k].library = e[k].library; } break;
+    case 'hand': { const before = new Set(s[e.player].handCards.map(c => c.id)); s[e.player].newIds = new Set(e.cards.filter(c => !before.has(c.id)).map(c => c.id)); s[e.player].handCards = e.cards; s[e.player].hand = e.cards.length; break; }
+    case 'draw': if (live) s.spot = { name: e.names.length === 1 ? e.names[0] : null, text: `${who(e.player)} draws ${e.names.length === 1 ? e.names[0] : `${e.names.length} cards`}`, sub: e.names.length > 1 ? e.names.join(', ') : '' }; break;
+    case 'stack': s.stack.push(e); if (live) s.spot = { name: e.name, targets: e.targets, text: e.kind === 'cast' ? `${who(e.player)} casts ${e.name}` : e.kind === 'activated' ? `${who(e.player)} activates ${e.name}` : `${e.name} triggers`, sub: [e.targets.length ? `targeting ${e.targets.map(t => nameOf(s, t)).join(', ')}` : '', e.kind === 'cast' ? `Printed cost: ${cards[e.name]?.cost || 'not recorded'} · actual payment may differ` : ''].filter(Boolean).join(' · ') }; break;
+    case 'resolve': s.stack.pop(); if (live && e.ability) s.spot = { text: `${e.name} resolves`, sub: e.effect ?? 'Ability effect not recorded' }; break;
+    case 'mana': if (live) s.spot = { name: e.name, text: `${e.name}: mana ability`, sub: e.ability }; break;
+    case 'attack': {
+      for (const id of e.ids) {
+        const [, c] = find(s, id);
+        if (c) { c.attacking = true; c.attackTarget = e.defenderTarget; c.defender = e.defender; if (!cards[c.name]?.vigilance) c.tapped = true; }
+        s.combat.push({ id, player: e.player, defender: e.defender, target: e.defenderTarget, targetName: e.defenderName, blockers: [], declaredUnblocked: false });
+      }
+      if (live) s.spot = { text: attackDescription(e) }; break;
+    }
+    case 'block': {
+      const attack = s.combat.find(a => a.id === e.attacker);
+      if (attack) { attack.blockers = [...new Set([...attack.blockers, ...e.blockers])]; attack.declaredUnblocked = false; }
+      e.blockers.forEach(id => { const [, c] = find(s, id); if (c) c.blocking = e.attacker; });
+      if (live) s.spot = { text: `${who(e.player)} blocks ${names.get(e.attacker) ?? nameOf(s, e.attacker)} with ${e.blockers.map(id => names.get(id) ?? nameOf(s, id)).join(', ')}` }; break;
+    }
+    case 'unblocked': { const attack = s.combat.find(a => a.id === e.attacker); if (attack && !attack.blockers.length) attack.declaredUnblocked = true; break; }
+    case 'phase': if (/Beginning of Combat|End of Combat|Main phase, postcombat|End step/.test(e.phase)) { s.combat = []; allBf(s).forEach(c => { c.attacking = false; c.blocking = null; c.attackTarget = null; c.defender = null; }); } break;
+    case 'damage': if (live) s.flash.push({ id: e.target, player: e.player, amount: e.amount }); break;
+    case 'life': s[e.player].life = e.to; if (live) s.flash.push({ player: e.player, life: e.to - e.from }); break;
+    case 'leave': {
+      const side = s[e.player] ?? s.P;
+      const [k, c] = find(s, e.id);
+      const owner = k ? s[k] : side;
+      if (c) owner.bf = owner.bf.filter(x => x !== c);
+      if (c?.token) break;
+      if (e.name.split(' // ')[0] === owner.cmd.split(' // ')[0]) owner.czHas = true;
+      else (e.to === 'Exile' ? owner.ex : owner.gy).push(e.name);
+      break;
+    }
+    case 'mill': s[e.player].gy.push(...e.names); break;
+    case 'discard': s[e.player].gy.push(e.name); break;
+    case 'outcome': if (e.result === 'won') s.banner = { win: e.player }; break;
+  }
+}
+const who = p => short(game.seats?.[p] ?? (p === 'P' ? game.patrickCommander : game.opponentCommander));
+// ["Soldier Token", "Soldier Token", "Ghalta"] -> "2 Soldier Tokens and Ghalta"
+function group(list) {
+  const counts = new Map();
+  for (const n of list) counts.set(n, (counts.get(n) ?? 0) + 1);
+  const parts = [...counts].map(([n, c]) => (c > 1 ? `${c} ${n}s` : n));
+  return parts.length > 1 ? `${parts.slice(0, -1).join(', ')} and ${parts.at(-1)}` : parts[0];
+}
+
+function stateAt(k) {
+  const s = fresh();
+  for (let i = 0; i <= k && i < game.events.length; i++) apply(s, game.events[i], i === k);
+  return s;
+}
+
+// ---------- rendering ----------
+function cardEl(c) {
+  const d = cards[c.name];
+  const el = document.createElement('div');
+  el.className = 'card';
+  el.dataset.id = c.id;
+  el.dataset.name = c.name;
+  if (d?.img && !c.token) el.style.backgroundImage = `url("${d.img}")`;
+  else { el.classList.add('token'); if (/Vibranium/.test(c.name)) el.classList.add('vib'); el.textContent = c.name.replace(/ Token$/, ''); }
+  return el;
+}
+
+
+function counterDescription(c) {
+  const items = [c.loyalty != null ? `Loyalty ${c.loyalty}` : '', ...Object.entries(c.counters ?? {}).filter(([k,n]) => n > 0 && !/^loyalty$/i.test(k)).map(([k,n]) => `${k} ×${n}`)].filter(Boolean);
+  return items.join(' · ') || 'No counters';
+}
+function attackDestination(e) {
+  const target = e.defenderName ?? (e.defenderTarget ? names.get(e.defenderTarget) : null);
+  return target ? `${target}${e.defender ? ` (${who(e.defender)})` : ''}` : e.defender ? who(e.defender) : 'target not recorded';
+}
+function attackDescription(e) {
+  return `${who(e.player)} → ${attackDestination(e)}: ${e.ids.map(id => names.get(id) ?? 'Unknown attacker').join(', ')}`;
+}
+function renderCombat(s) {
+  const panel = $('combat-summary');
+  panel.hidden = !s.combat.length;
+  if (!s.combat.length) { panel.innerHTML = ''; return; }
+  panel.innerHTML = `<div class="combat-heading">Combat <span>Red arrows: attacks · Blue lines: blocks</span></div>` + s.combat.map(a => {
+    const destination = attackDestination({ defender: a.defender, defenderTarget: a.target, defenderName: a.targetName });
+    const status = a.blockers.length ? `Blocked by ${a.blockers.map(id => names.get(id) ?? 'Unknown blocker').join(', ')}` : a.declaredUnblocked ? 'Unblocked' : 'No blocker recorded yet';
+    return `<div class="combat-assignment"><strong>${esc(who(a.player))} → ${esc(destination)}</strong><span>${esc(names.get(a.id) ?? 'Unknown attacker')}</span><span class="${a.blockers.length ? 'block-detail' : 'block-pending'}">${esc(status)}</span></div>`;
+  }).join('');
+}
+
+// Live power/toughness (green = above printed, red = below), counters, and planeswalker loyalty.
+function updateBadges(el, c) {
+  const d = cards[c.name];
+  const creature = c.p != null || (d?.power != null && /Creature/.test(d.type));
+  let pt = el.querySelector('.pt');
+  if (creature) {
+    const p = c.p ?? +d.power, t = c.tt ?? +d.toughness;
+    if (!pt) { pt = document.createElement('span'); pt.className = 'pt'; el.appendChild(pt); }
+    const text = `${p}/${t}`;
+    if (pt.textContent && pt.textContent !== text) { pt.classList.remove('pop'); void pt.offsetWidth; pt.classList.add('pop'); }
+    pt.textContent = text;
+    const bp = parseInt(d?.power), bt = parseInt(d?.toughness);
+    const delta = isNaN(bp) ? 0 : (p - bp) + (t - bt);
+    pt.classList.toggle('up', delta > 0);
+    pt.classList.toggle('down', delta < 0);
+  } else if (pt) pt.remove();
+
+  let lo = el.querySelector('.loyal');
+  if (c.loyalty != null) { if (!lo) { lo = document.createElement('span'); lo.className = 'loyal'; el.appendChild(lo); } lo.textContent = `L ${c.loyalty}`; lo.title = `Loyalty: ${c.loyalty}`; lo.setAttribute('aria-label', `${c.loyalty} loyalty counters`); }
+  else if (lo) lo.remove();
+
+  const entries = Object.entries(c.counters ?? {}).filter(([k, n]) => n > 0 && !/^loyalty$/i.test(k));
+  const html = entries.map(([k, n]) => `<span class="ctr ${/^[+-]\d+\/[+-]\d+$/.test(k) ? '' : 'other'}">${esc(k)} ×${n}</span>`).join('');
+  let box = el.querySelector('.ctrs');
+  if (html) { if (!box) { box = document.createElement('div'); box.className = 'ctrs'; el.appendChild(box); } if (box.innerHTML !== html) box.innerHTML = html; }
+  else if (box) box.remove();
+}
+
+function renderSide(s, k) {
+  const p = s[k];
+  const root = $(`side-${k}`);
+  root.classList.toggle('active-turn', s.active === k);
+  if (!root.dataset.built || root.dataset.game !== game.id) {
+    root.innerHTML = `<div class="hud"><div class="who"></div><div class="life"></div><div class="zones"><span class="hand"></span><span class="lib"></span><span class="gy"></span><span class="ex"></span></div><div class="cz"><div class="label">Command zone</div><div class="czslot"></div></div></div>
+      <div class="rows"><div class="row nonlands"></div><div class="row lands"></div></div>`;
+    root.dataset.built = 1; root.dataset.game = game.id;
+  }
+  root.querySelector('.who').textContent = k === 'P' ? `${short(game.patrickCommander)} (you)` : (game.seats?.[k] ?? game.opponent.commander);
+  const lifeEl = root.querySelector('.life');
+  lifeEl.textContent = p.life;
+  root.querySelector('.hand').textContent = `Hand ${p.hand}`;
+  root.querySelector('.lib').textContent = `Library ${p.library}`;
+  root.querySelector('.gy').textContent = `Graveyard ${p.gy.length}`;
+  root.querySelector('.ex').textContent = `Exile ${p.ex.length}`;
+  const cz = root.querySelector('.czslot');
+  cz.innerHTML = '';
+  if (p.czHas) { const c = { id: `cz-${k}`, name: p.cmd }; const el = cardEl(c); updateBadges(el, c); el.style.width = '64px'; el.classList.add('commander'); cz.appendChild(el); }
+
+  const manaRow = c => c.land || /^Vibranium/.test(c.name);
+  for (const [sel, list] of [['.nonlands', p.bf.filter(c => !manaRow(c))], ['.lands', p.bf.filter(manaRow)]]) {
+    const row = root.querySelector(sel);
+    const existing = new Map([...row.children].map(el => [el.dataset.id, el]));
+    const keep = new Set();
+    for (const c of list) {
+      let el = existing.get(c.id);
+      if (!el) { el = cardEl(c); el.classList.add('entering'); setTimeout(() => el.classList.remove('entering'), 500); }
+      keep.add(c.id);
+      el.classList.toggle('tapped', !!c.tapped);
+      el.classList.toggle('attacking', !!c.attacking);
+      el.classList.toggle('blocking', !!c.blocking);
+      el.classList.toggle('commander', !!c.commander);
+      el.classList.toggle('targeted', !!s.spot?.targets?.includes(c.id));
+      updateBadges(el, c);
+      el.dataset.liveCounters = [c.loyalty != null ? `Loyalty: ${c.loyalty}` : '', ...Object.entries(c.counters ?? {}).filter(([k,n]) => n > 0 && !/^loyalty$/i.test(k)).map(([k,n]) => `${k}: ${n}`)].filter(Boolean).join(' · ');
+      el.title = `${c.name}${el.dataset.liveCounters ? ' — ' + el.dataset.liveCounters : ''}`;
+      row.appendChild(el);
+    }
+    for (const [id, el] of existing) if (!keep.has(id) && !el.classList.contains('leaving')) { el.classList.add('leaving'); setTimeout(() => el.remove(), 380); }
+  }
+
+  // Hand: every card the player is holding; cards that just arrived are marked NEW.
+  const handRow = $(`hand-${k}`);
+  if (!handRow) return; // pods only show Patrick's hand
+  const key = p.handCards.map(c => c.id).join(',') + '|' + [...p.newIds].join(',');
+  if (handRow.dataset.key !== key) {
+    handRow.dataset.key = key;
+    handRow.innerHTML = p.handCards.length ? '<span class="label">Hand</span>' : '';
+    for (const c of p.handCards) {
+      const el = cardEl(c);
+      if (p.newIds.has(c.id) && s.turn > 0) el.classList.add('drawn', 'entering');
+      handRow.appendChild(el);
+    }
+    handRow.classList.toggle('crowded', p.handCards.length > 8);
+  }
+}
+
+function renderSpotlight(s) {
+  const sp = $('spotlight');
+  const key = JSON.stringify(s.spot);
+  if (sp.dataset.key === key) return;
+  sp.dataset.key = key;
+  if (!s.spot) { sp.innerHTML = ''; return; }
+  const img = s.spot.name && cards[s.spot.name]?.img;
+  sp.innerHTML = `${img ? `<div class="big" style="background-image:url('${img}')" data-name="${esc(s.spot.name)}"></div>` : ''}<div class="caption">${esc(s.spot.text)}${s.spot.sub ? `<small>${esc(s.spot.sub)}</small>` : ''}</div>`;
+}
+
+function renderFlashes(s) {
+  for (const f of s.flash) {
+    let host = null;
+    if (f.id) host = document.querySelector(`.card[data-id="${f.id}"]`);
+    if (!host && f.player) host = document.querySelector(`#side-${f.player} .life`);
+    if (!host) continue;
+    if (f.life !== undefined) { host.classList.remove('hit', 'gain'); void host.offsetWidth; host.classList.add(f.life < 0 ? 'hit' : 'gain'); setTimeout(() => host.classList.remove('hit', 'gain'), 700); }
+    const n = document.createElement('div');
+    n.className = 'float' + (f.life > 0 ? ' gain' : '');
+    n.textContent = f.life !== undefined ? (f.life > 0 ? `+${f.life}` : f.life) : `-${f.amount}`;
+    host.style.position = host.style.position || 'relative';
+    host.appendChild(n);
+    setTimeout(() => n.remove(), 1100);
+  }
+}
+
+// Lines from blockers to the attackers they block, and from the current spell to its targets.
+function renderLinks(s) {
+  const svg = $('links');
+  const box = $('table').getBoundingClientRect();
+  const center = el => { const r = el.getBoundingClientRect(); return [r.left + r.width / 2 - box.left, r.top + r.height / 2 - box.top]; };
+  let html = '<defs><marker id="attack-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ff7378"/></marker></defs>';
+  for (const attack of s.combat) {
+    const a = document.querySelector(`.card[data-id="${attack.id}"]`);
+    const b = attack.target ? document.querySelector(`.card[data-id="${attack.target}"]`) : (attack.defender ? $(`side-${attack.defender}`)?.querySelector('.who') : null);
+    if (!a || !b) continue;
+    const [x1, y1] = center(a), [x2, y2] = center(b);
+    html += `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#ff7378" stroke-width="2.5" opacity=".8" marker-end="url(#attack-arrow)"/>`;
+  }
+  for (const c of allBf(s)) {
+    if (!c.blocking) continue;
+    const a = document.querySelector(`.card[data-id="${c.id}"]`), b = document.querySelector(`.card[data-id="${c.blocking}"]`);
+    if (!a || !b) continue;
+    const [x1, y1] = center(a), [x2, y2] = center(b);
+    html += `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#3e8ef7" stroke-width="3" stroke-dasharray="6 5" opacity=".9"/>`;
+  }
+  const big = document.querySelector('#spotlight .big');
+  if (big && s.spot?.targets) for (const t of s.spot.targets) {
+    const el = document.querySelector(`.card[data-id="${t}"]`);
+    if (!el) continue;
+    const [x1, y1] = center(big), [x2, y2] = center(el);
+    html += `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#d8b25a" stroke-width="2.5" opacity=".85"/><circle cx="${x2}" cy="${y2}" r="5" fill="#d8b25a"/>`;
+  }
+  svg.innerHTML = html;
+}
+
+function describe(e, s) {
+  switch (e.t) {
+    case 'turn': return `Round ${Math.ceil(e.n / (game.podSize || 2))} — ${who(e.player)}'s turn`;
+    case 'draw': return `${who(e.player)} draws ${e.names.join(', ')}`;
+    case 'land': return `${who(e.player)} plays ${e.name}`;
+    case 'stack': return e.kind === 'cast' ? `${who(e.player)} casts ${e.name}` : e.kind === 'activated' ? `${who(e.player)} activates ${e.name}` : `${e.name} triggers`;
+    case 'resolve': return e.ability ? `${e.name} resolves: ${e.effect ?? 'effect not recorded'}` : e.permanent ? `${e.name} resolves as a permanent spell` : `${e.name} resolves`;
+    case 'mana': return `${e.name} — mana ability: ${e.ability}`;
+    case 'enter': return `${who(e.player)}: ${e.name} enters${e.token ? ' (token)' : ' (battlefield entry, not a separate cast)'}`;
+    case 'attack': return attackDescription(e);
+    case 'block': return `${who(e.player)}: ${e.blockers.map(id => names.get(id) ?? 'Unknown blocker').join(', ')} blocks ${names.get(e.attacker) ?? 'an attacker'}`;
+    case 'unblocked': return `${who(e.player)} does not block ${names.get(e.attacker) ?? 'the attacker'}`;
+    case 'stats': return `${e.name ?? names.get(e.id) ?? 'Permanent'} — ${counterDescription(e)}`;
+    case 'damage': return `<span class="dmg">${esc(short(e.srcName))} deals ${e.amount} to ${e.player ? who(e.player) : esc(short(names.get(e.target) ?? 'a creature'))}</span>`;
+    case 'life': return `<span class="${e.to < e.from ? 'dmg' : 'heal'}">${who(e.player)} ${e.from} → ${e.to}</span>`;
+    case 'leave': return `${e.name} → ${e.to.toLowerCase()}`;
+    case 'mill': return `${who(e.player)} mills ${e.names.length}`;
+    case 'discard': return `${who(e.player)} discards ${e.name}`;
+    case 'outcome': return e.result === 'won' ? `<b>${who(e.player)} wins</b>` : `${who(e.player)} lost ${e.reason}`;
+  }
+  return null;
+}
+
+// id -> card name for every permanent in the game, so log lines can name damage targets.
+let names = new Map();
+function buildLog() {
+  names = new Map();
+  const tmp = new Map();
+  for (const e of game.events) {
+    if (e.t === 'land' || e.t === 'enter') { names.set(e.id, e.name); tmp.set(e.id, e.name); }
+    if (e.t === 'bind') names.set(e.id, tmp.get(e.tmpId));
+  }
+  const box = $('loglines');
+  box.innerHTML = '';
+  steps.forEach((i, n) => {
+    const e = game.events[i];
+    const text = describe(e);
+    if (!text) return;
+    const d = document.createElement('div');
+    d.className = `ev ${e.t === 'turn' ? 'turn' : ''}`;
+    d.dataset.step = n;
+    d.innerHTML = /<span|<b>/.test(text) ? text : esc(text);
+    d.onclick = () => { stop(); go(n); };
+    box.appendChild(d);
+  });
+}
+
+function render() {
+  const k = steps[pos];
+  const s = stateAt(k);
+  for (const k of seats()) if (k !== 'P') renderSide(s, k);
+  renderSide(s, 'P');
+  renderSpotlight(s);
+  renderCombat(s);
+  renderFlashes(s);
+  requestAnimationFrame(() => renderLinks(s));
+  const old = document.querySelector('.banner');
+  if (s.banner && !old) { const b = document.createElement('div'); b.className = 'banner'; b.innerHTML = `<div>${esc(who(s.banner.win))} wins<small>${esc(game.reason)} · round ${Math.ceil(game.turns / (game.podSize || 2))}</small></div>`; $('table').appendChild(b); }
+  if (!s.banner && old) old.remove();
+  $('turnlabel').textContent = s.turn ? `Round ${Math.ceil(s.turn / (game.podSize || 2))} · ${who(s.active)}'s turn` : 'Opening hands';
+  $('scrub').value = pos;
+  document.querySelectorAll('.ev.now').forEach(el => el.classList.remove('now'));
+  let cur = null;
+  for (let n = pos; n >= 0 && !cur; n--) cur = document.querySelector(`.ev[data-step="${n}"]`);
+  if (cur) { cur.classList.add('now'); cur.scrollIntoView({ block: 'nearest' }); }
+}
+
+// ---------- playback ----------
+function go(n) { pos = Math.max(0, Math.min(steps.length - 1, n)); render(); }
+function delayFor(e) {
+  const base = 1400 / $('speed').value;
+  return e.t === 'turn' ? base * 1.6 : ['stack', 'attack', 'block', 'outcome'].includes(e.t) ? base * 1.4 : ['damage', 'life'].includes(e.t) ? base * 0.7 : base;
+}
+function tick() {
+  if (pos >= steps.length - 1) return stop();
+  go(pos + 1);
+  timer = setTimeout(tick, delayFor(game.events[steps[pos]]));
+}
+function play() { if (timer) return; $('play').textContent = '❚❚'; if (pos >= steps.length - 1) go(0); timer = setTimeout(tick, 200); }
+function stop() { clearTimeout(timer); timer = null; $('play').textContent = '▶'; }
+
+function load(g) {
+  stop();
+  game = g;
+  $('recording-note').textContent = `${g.fullState ? "Full-state recording." : "Partial recording: some board details are reconstructed."} Mana lines show recorded ability options, not exact colors spent. Entering through an effect is different from casting.`;
+  steps = game.events.map((e, i) => [e, i]).filter(([e]) => VISIBLE.has(e.t) && !(e.t === 'stats' && !e.counterChanged)).map(([, i]) => i);
+  document.querySelectorAll('.game').forEach(b => b.classList.toggle('on', b.dataset.id === g.id));
+  // One opponent panel per opponent seat (1 for 1v1, 3 for a 4-player pod).
+  const opps = $('opps');
+  opps.innerHTML = '';
+  for (const k of seats().filter(k => k !== 'P')) { const sec = document.createElement('section'); sec.className = 'side top'; sec.id = `side-${k}`; opps.appendChild(sec); }
+  $('table').classList.toggle('pod', seats().length > 2);
+  ['P', 'O'].forEach(k => { const h = $(`hand-${k}`); h.dataset.key = ''; h.innerHTML = ''; });
+  { const r = $('side-P'); r.dataset.built = ''; r.innerHTML = ''; }
+  $('scrub').max = steps.length - 1;
+  buildLog();
+  go(0);
+}
+
+// ---------- wiring ----------
+// Newest deck version first.
+const ORDER = ["T'Challa · C17 BEFORE (no swaps) · 4-player pod · smart AI · politics", "T'Challa · C17 INSTALLED (11 swaps) · 4-player pod · smart AI · politics", "T'Challa · C17 · Installed 11 upgrades · 4-player pod · smart AI · politics", "T'Challa · C17 · Before swaps · 4-player pod · smart AI · politics", "Jace · BASELINE (your current deck) · 4-player pod · smart AI · politics · real Jace rules + combo pilot · pilot v4", "Jace · v1.1 Clever Concealment (pilot v3) · 4-player pod · smart AI · politics · real Jace rules + combo pilot · pilot v3", "Jace · v1.0 Dreadhorde-only (pilot v3) · 4-player pod · smart AI · politics · real Jace rules + combo pilot · pilot v3", "Jace · BASELINE (your current deck) · 4-player pod · smart AI · politics · real Jace rules + combo pilot · pilot v3", "Jace · v1.0 Dreadhorde-only (pilot v3) · 4-player pod · smart AI · politics · real Jace rules + combo pilot", "Jace · BASELINE (your current deck) · 4-player pod · smart AI · politics · real Jace rules + combo pilot", "Jace · v0.6 CANDIDATE (precon engine) · 4-player pod · smart AI · politics", "Jace · v0.5 (top-deck + tokens) · 4-player pod · smart AI · politics", "Jace · PROPOSED (13 swaps, keeps Whale/Wurm/Titan/Loyal Tutor) · 4-player pod · smart AI · politics", "Jace · BASELINE (your current deck) · 4-player pod · smart AI · politics", "Jace · 15 swaps, keeps Triplicate Titan · 4-player pod · smart AI · politics", "Jace · 9 swaps · 4-player pod · smart AI · politics", "T'Challa · PROPOSED (14 swaps + Midnight Angel Armor) · 4-player pod · smart AI · politics", "T'Challa · BASELINE (your current deck) · 4-player pod · smart AI · politics", "T'Challa · v1 (14 swaps) · 4-player pod · smart AI · politics", "T'Challa · v1 (14 swaps) · 4-player pod · smart AI · politics · hold mana", "T'Challa · v1 (14 swaps) · 4-player pod · politics", "T'Challa · v1 (14 swaps) · 4-player pod · smart AI", "T'Challa · v1 (14 swaps) · 4-player pod", "T'Challa · keep 6 · smart AI", 'Jace · keep 3 · smart AI + −3 rule', 'Jace · 9 swaps', "T'Challa · Tuned v2", "T'Challa · Tuned v1", "T'Challa · 14 swaps"];
+const rank = g => { const i = ORDER.indexOf(g.deck); return i < 0 ? ORDER.length : i; };
+games.sort((a, b) => (b.replayImport?.batch ?? 0) - (a.replayImport?.batch ?? 0) || rank(a) - rank(b) || (a.replayImport?.trial ?? '').localeCompare(b.replayImport?.trial ?? '', undefined, {numeric:true}));
+for (const g of games) {
+  const b = document.createElement('button');
+  b.className = 'game';
+  b.dataset.id = g.id;
+  b.innerHTML = `<span class="opp">${esc(short(g.patrickCommander))} vs ${esc(g.opponent.commander)}</span><span class="meta"><span class="chip ${g.winner === 'P' ? 'w' : 'l'}">${g.winner === 'P' ? 'WIN' : 'LOSS'}</span>round ${Math.ceil(g.turns / (g.podSize || 2))} · ${esc(g.replayImport ? `${g.replayImport.label} · ${g.replayImport.trial}` : g.deck ?? '')}</span>`;
+  b.onclick = () => load(g);
+  $('games').appendChild(b);
+}
+$('play').onclick = () => (timer ? stop() : play());
+$('next').onclick = () => { stop(); go(pos + 1); };
+$('prev').onclick = () => { stop(); go(pos - 1); };
+$('scrub').oninput = e => { stop(); go(+e.target.value); };
+document.addEventListener('keydown', e => {
+  if (e.key === ' ') { e.preventDefault(); timer ? stop() : play(); }
+  if (e.key === 'ArrowRight') { stop(); go(pos + 1); }
+  if (e.key === 'ArrowLeft') { stop(); go(pos - 1); }
+});
+const preview = $('preview');
+document.addEventListener('mouseover', e => {
+  const el = e.target.closest('.card, .big');
+  const img = el && cards[el.dataset.name]?.img;
+  if (!img) { preview.style.display = 'none'; return; }
+  preview.style.backgroundImage = `url("${img}")`;
+  preview.innerHTML = el.dataset.liveCounters ? `<div class="preview-counters">${esc(el.dataset.liveCounters)}</div>` : '';
+  preview.classList.toggle('with-counters', !!el.dataset.liveCounters);
+  preview.style.display = 'block';
+});
+document.addEventListener('mousemove', e => {
+  const x = e.clientX + 280 > innerWidth ? e.clientX - 280 : e.clientX + 20;
+  const y = Math.min(e.clientY - 120, innerHeight - 380);
+  preview.style.left = `${x}px`; preview.style.top = `${Math.max(10, y)}px`;
+});
+addEventListener('resize', () => render());
+// Deep link: index.html#game=<id>&step=<n> opens a game at a given step.
+const hash = new URLSearchParams(location.hash.slice(1));
+load(games.find(g => g.id === hash.get('game')) ?? games[0]);
+if (hash.get('step')) go(+hash.get('step'));
+</script>
+</body>
+</html>

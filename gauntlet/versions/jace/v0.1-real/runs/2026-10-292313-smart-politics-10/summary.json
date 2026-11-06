@@ -1,0 +1,21 @@
+{
+  "deck": "jace",
+  "version": "v0.1-real",
+  "run": "2026-10-292313-smart-politics-10",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "games": 10,
+  "wins": 2,
+  "draws": 0,
+  "winRate": 0.2,
+  "ci95": [
+    0.05668094798069332,
+    0.5098431532792765
+  ],
+  "avgRounds": 11.8,
+  "baselineNote": "4-player pods: 25% = even share"
+}

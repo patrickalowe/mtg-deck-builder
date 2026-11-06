@@ -1,0 +1,4868 @@
+{
+  "games": [
+    {
+      "schemaVersion": 2,
+      "key": "v0.8-codex-owned-engine/2026-10-300254-smart-politics-keeptokens-100/pod20-g1.log",
+      "version": "v0.8-codex-owned-engine",
+      "run": "2026-10-300254-smart-politics-keeptokens-100",
+      "pod": "pod20",
+      "game": 1,
+      "source": "gauntlet/versions/jace/v0.8-codex-owned-engine/runs/2026-10-300254-smart-politics-keeptokens-100/logs/pod20-g1.log",
+      "sourceMtimeMs": 1793332542946.7507,
+      "sourceSize": 359914,
+      "sourceSha256": "d0d2dcc2b2f448d89024cde6758bba2e29eddd7757960c88ef6067022afd413c",
+      "reviewedAt": "2026-10-30T03:55:53.712Z",
+      "resultLine": "Game Result: ended in 353401 ms. Ai(1)-jace-v0.8-codex-owned-engine has won!",
+      "winner": {
+        "seat": 1,
+        "deck": "jace-v0.8-codex-owned-engine"
+      },
+      "disposition": "jace_win",
+      "reportedWin": true,
+      "explicitDraw": false,
+      "runtimeMs": 353401,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 78,
+      "rounds": 20,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 3,
+        "recasts": 2,
+        "minus3Uses": 1,
+        "minus3": [
+          {
+            "turn": 40,
+            "round": 10,
+            "line": 1089,
+            "exiled": [
+              {
+                "card": "Cadet",
+                "id": "799",
+                "line": 1087,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          }
+        ]
+      },
+      "tokens": {
+        "attacks": 0,
+        "attackDeclarations": 0,
+        "blocks": 0,
+        "blockDeclarations": 0,
+        "knownControlledDeaths": 0,
+        "unknownOwnerDeaths": 7,
+        "allPlayersDeaths": 8,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [],
+        "deaths": [
+          {
+            "card": "Phyrexian Germ Token",
+            "id": "491",
+            "lastKnownController": 2,
+            "turn": 15,
+            "line": 305
+          },
+          {
+            "card": "Zombie Army Token",
+            "id": "668",
+            "lastKnownController": null,
+            "turn": 27,
+            "line": 588
+          },
+          {
+            "card": "Treasure Token",
+            "id": "767",
+            "lastKnownController": null,
+            "turn": 34,
+            "line": 824
+          },
+          {
+            "card": "Treasure Token",
+            "id": "766",
+            "lastKnownController": null,
+            "turn": 34,
+            "line": 830
+          },
+          {
+            "card": "Phyrexian Germ Token",
+            "id": "810",
+            "lastKnownController": null,
+            "turn": 46,
+            "line": 1332
+          },
+          {
+            "card": "Treasure Token",
+            "id": "815",
+            "lastKnownController": null,
+            "turn": 49,
+            "line": 1711
+          },
+          {
+            "card": "Treasure Token",
+            "id": "817",
+            "lastKnownController": null,
+            "turn": 49,
+            "line": 1724
+          },
+          {
+            "card": "Treasure Token",
+            "id": "814",
+            "lastKnownController": null,
+            "turn": 49,
+            "line": 1726
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Arcane Signet": 1,
+          "Tekuthal, Inquiry Dominus": 1,
+          "Jace, Multiverse Architect": 3,
+          "Jhoira, Weatherlight Corsair": 1,
+          "Talisman of Progress": 1,
+          "Loyal Tutor": 1,
+          "Ajani Unrelenting": 1,
+          "Despark": 1,
+          "Brainstorm": 1
+        },
+        "castEvents": [
+          {
+            "card": "Arcane Signet",
+            "turn": 12,
+            "round": 3,
+            "line": 231
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "turn": 16,
+            "round": 4,
+            "line": 327
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 20,
+            "round": 5,
+            "line": 418
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 28,
+            "round": 7,
+            "line": 622
+          },
+          {
+            "card": "Jhoira, Weatherlight Corsair",
+            "turn": 32,
+            "round": 8,
+            "line": 737
+          },
+          {
+            "card": "Talisman of Progress",
+            "turn": 32,
+            "round": 8,
+            "line": 748
+          },
+          {
+            "card": "Loyal Tutor",
+            "turn": 32,
+            "round": 8,
+            "line": 755
+          },
+          {
+            "card": "Ajani Unrelenting",
+            "turn": 36,
+            "round": 9,
+            "line": 910
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 40,
+            "round": 10,
+            "line": 1082
+          },
+          {
+            "card": "Despark",
+            "turn": 44,
+            "round": 11,
+            "line": 1230
+          },
+          {
+            "card": "Brainstorm",
+            "turn": 72,
+            "round": 18,
+            "line": 4142
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Shivan Reef",
+            "id": "57",
+            "turn": 4,
+            "round": 1,
+            "line": 72
+          },
+          {
+            "card": "Radiant Summit",
+            "id": "58",
+            "turn": 8,
+            "round": 2,
+            "line": 145
+          },
+          {
+            "card": "Drowned Catacomb",
+            "id": "37",
+            "turn": 12,
+            "round": 3,
+            "line": 221
+          },
+          {
+            "card": "Underground River",
+            "id": "54",
+            "turn": 16,
+            "round": 4,
+            "line": 313
+          },
+          {
+            "card": "Haunted Ridge",
+            "id": "93",
+            "turn": 20,
+            "round": 5,
+            "line": 403
+          },
+          {
+            "card": "Sulfur Falls",
+            "id": "81",
+            "turn": 24,
+            "round": 6,
+            "line": 502
+          },
+          {
+            "card": "Fetid Heath",
+            "id": "53",
+            "turn": 28,
+            "round": 7,
+            "line": 607
+          },
+          {
+            "card": "Theorix Annex",
+            "id": "43",
+            "turn": 32,
+            "round": 8,
+            "line": 723
+          },
+          {
+            "card": "Mountain",
+            "id": "94",
+            "turn": 36,
+            "round": 9,
+            "line": 882
+          },
+          {
+            "card": "Turbulent Shore",
+            "id": "39",
+            "turn": 40,
+            "round": 10,
+            "line": 1065
+          },
+          {
+            "card": "Turbulent Crater",
+            "id": "49",
+            "turn": 44,
+            "round": 11,
+            "line": 1237
+          }
+        ],
+        "seenInHand": [
+          "Ajani Unrelenting",
+          "Arcane Signet",
+          "Archfiend of Despair",
+          "Azorius Signet",
+          "Brainstorm",
+          "Cursed Mirror",
+          "Despark",
+          "Drowned Catacomb",
+          "Fetid Heath",
+          "Grand Crescendo",
+          "Haunted Ridge",
+          "Innovative Commons",
+          "Island",
+          "Jhoira, Weatherlight Corsair",
+          "Loyal Tutor",
+          "Memnarch, the Warden",
+          "Mountain",
+          "Perilous Landscape",
+          "Plan for All Outcomes",
+          "Prairie Stream",
+          "Radiant Summit",
+          "Reflecting Pool",
+          "Serra's Emissary",
+          "Shivan Reef",
+          "Silver Surfer, Galactus's Herald",
+          "Sol Ring",
+          "Staff of Compleation",
+          "Stroke of Midnight",
+          "Sulfur Falls",
+          "Sulfurous Springs",
+          "Sunfall",
+          "Talisman of Creativity",
+          "Talisman of Progress",
+          "Tekuthal, Inquiry Dominus",
+          "Theorix Annex",
+          "Turbulent Crater",
+          "Turbulent Shore",
+          "Underground River"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Archfiend of Despair",
+          "Azorius Signet",
+          "Cursed Mirror",
+          "Grand Crescendo",
+          "Innovative Commons",
+          "Island",
+          "Memnarch, the Warden",
+          "Perilous Landscape",
+          "Plan for All Outcomes",
+          "Prairie Stream",
+          "Reflecting Pool",
+          "Serra's Emissary",
+          "Silver Surfer, Galactus's Herald",
+          "Sol Ring",
+          "Staff of Compleation",
+          "Stroke of Midnight",
+          "Sulfurous Springs",
+          "Sunfall",
+          "Talisman of Creativity"
+        ],
+        "lastRecordedHand": [
+          {
+            "id": "45",
+            "card": "Silver Surfer, Galactus's Herald"
+          },
+          {
+            "id": "12",
+            "card": "Memnarch, the Warden"
+          },
+          {
+            "id": "91",
+            "card": "Archfiend of Despair"
+          },
+          {
+            "id": "36",
+            "card": "Plan for All Outcomes"
+          },
+          {
+            "id": "75",
+            "card": "Serra's Emissary"
+          },
+          {
+            "id": "31",
+            "card": "Sunfall"
+          },
+          {
+            "id": "30",
+            "card": "Talisman of Creativity"
+          },
+          {
+            "id": "34",
+            "card": "Cursed Mirror"
+          }
+        ],
+        "lastNonemptySnapshot": {
+          "a": 4769,
+          "hand": [
+            [
+              "45",
+              "Silver Surfer, Galactus's Herald"
+            ],
+            [
+              "12",
+              "Memnarch, the Warden"
+            ],
+            [
+              "91",
+              "Archfiend of Despair"
+            ],
+            [
+              "36",
+              "Plan for All Outcomes"
+            ],
+            [
+              "75",
+              "Serra's Emissary"
+            ],
+            [
+              "31",
+              "Sunfall"
+            ],
+            [
+              "30",
+              "Talisman of Creativity"
+            ],
+            [
+              "34",
+              "Cursed Mirror"
+            ]
+          ]
+        },
+        "handSnapshots": 72,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "Orc Army Token",
+            "amount": 144
+          },
+          {
+            "card": "Sauron, the Dark Lord",
+            "amount": 21
+          },
+          {
+            "card": "Underground River",
+            "amount": 2
+          },
+          {
+            "card": "Gwenna, Eyes of Gaea",
+            "amount": 2
+          },
+          {
+            "card": "Ranger's Firebrand",
+            "amount": 2
+          },
+          {
+            "card": "Mauh\u00far, Uruk-hai Captain",
+            "amount": 2
+          },
+          {
+            "card": "Llanowar Elves",
+            "amount": 1
+          },
+          {
+            "card": "Talisman of Progress",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Darksteel Angel",
+            "amount": 36
+          },
+          {
+            "card": "Rhonas the Indomitable",
+            "amount": 25
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "amount": 3
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 53,
+            "round": 14,
+            "line": 2233
+          },
+          {
+            "source": "Rhonas the Indomitable",
+            "id": "108",
+            "amount": 5,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 56,
+            "round": 14,
+            "line": 2534
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 56,
+            "round": 14,
+            "line": 2535
+          },
+          {
+            "source": "Rhonas the Indomitable",
+            "id": "108",
+            "amount": 5,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 59,
+            "round": 15,
+            "line": 2811
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 59,
+            "round": 15,
+            "line": 2812
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 74,
+            "round": 19,
+            "line": 4400
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 76,
+            "round": 19,
+            "line": 4577
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 78,
+            "round": 20,
+            "line": 4840
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "Sauron, the Dark Lord",
+            "id": "302",
+            "amount": 7,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 49,
+            "round": 13,
+            "line": 1625
+          },
+          {
+            "source": "Orc Army Token",
+            "id": "722",
+            "amount": 27,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 52,
+            "round": 13,
+            "line": 2035
+          },
+          {
+            "source": "Ranger's Firebrand",
+            "id": "254",
+            "amount": 2,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 73,
+            "round": 19,
+            "line": 4311
+          },
+          {
+            "source": "Orc Army Token",
+            "id": "722",
+            "amount": 34,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 75,
+            "round": 19,
+            "line": 4472
+          },
+          {
+            "source": "Sauron, the Dark Lord",
+            "id": "302",
+            "amount": 7,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 75,
+            "round": 19,
+            "line": 4473
+          },
+          {
+            "source": "Orc Army Token",
+            "id": "722",
+            "amount": 34,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 77,
+            "round": 20,
+            "line": 4663
+          },
+          {
+            "source": "Sauron, the Dark Lord",
+            "id": "302",
+            "amount": 7,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 77,
+            "round": 20,
+            "line": 4664
+          },
+          {
+            "source": "Mauh\u00far, Uruk-hai Captain",
+            "id": "275",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 3,
+            "turn": 77,
+            "round": 20,
+            "line": 4665
+          }
+        ]
+      },
+      "jaceLoss": null,
+      "automatedReview": [
+        "Jace is the logged winner; casts and damage are evidence of activity, not proof of which card caused the win.",
+        "Largest logged damage to opponents from last-known Jace-controlled combat sources: Darksteel Angel 36; Rhonas the Indomitable 25; Tekuthal, Inquiry Dominus 3.",
+        "Largest logged damage to Jace: Orc Army Token 144; Sauron, the Dark Lord 21; Underground River 2.",
+        "Jace -3 resolved 1 time(s). Revealed hits are unavailable in ordinary logs; candidates are not confirmations."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Sunfall",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        }
+      ],
+      "codexInterpretation": "A 24-damage Orc Army hit moved Jace from 19 to -5 (lines 1340\u20131342). The can\u2019t-lose replacement applied, and the game later ended in a Jace win while Darksteel participated in attacks. This is direct evidence of the protective effect, not merely a high win-when-cast association. Runtime was 353,401 ms and the log contains 2,578 repeated can\u2019t-lose replacements: flag this for engine/turn-progress inspection. It was below the timeout threshold and has a consistent winner, so do not silently reject it or count it as a confirmed software artifact."
+    },
+    {
+      "schemaVersion": 2,
+      "key": "v0.8-codex-owned-engine/2026-10-300254-smart-politics-keeptokens-100/pod20-g2.log",
+      "version": "v0.8-codex-owned-engine",
+      "run": "2026-10-300254-smart-politics-keeptokens-100",
+      "pod": "pod20",
+      "game": 2,
+      "source": "gauntlet/versions/jace/v0.8-codex-owned-engine/runs/2026-10-300254-smart-politics-keeptokens-100/logs/pod20-g2.log",
+      "sourceMtimeMs": 1793332596861.714,
+      "sourceSize": 143459,
+      "sourceSha256": "6298c4c7ebbd94114055d2e5f1c5ba9164741d0840fa443d1380762777138b7a",
+      "reviewedAt": "2026-10-30T03:56:53.710Z",
+      "resultLine": "Game Result: ended in 53913 ms. Ai(2)-b3-313935 has won!",
+      "winner": {
+        "seat": 2,
+        "deck": "b3-313935"
+      },
+      "disposition": "jace_loss",
+      "reportedWin": false,
+      "explicitDraw": false,
+      "runtimeMs": 53913,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 53,
+      "rounds": 14,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 2,
+        "recasts": 1,
+        "minus3Uses": 5,
+        "minus3": [
+          {
+            "turn": 20,
+            "round": 5,
+            "line": 466,
+            "exiled": [
+              {
+                "card": "Spirit Token",
+                "id": "412",
+                "line": 463,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 32,
+            "round": 8,
+            "line": 754,
+            "exiled": [
+              {
+                "card": "Soldier Token",
+                "id": "429",
+                "line": 750,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 36,
+            "round": 9,
+            "line": 883,
+            "exiled": [
+              {
+                "card": "Soldier Token",
+                "id": "430",
+                "line": 881,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [
+              {
+                "card": "Silver Surfer, Galactus's Herald",
+                "line": 884,
+                "inference": "followup_trigger_or_entry_text_not_proof"
+              }
+            ],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 44,
+            "round": 11,
+            "line": 1155,
+            "exiled": [
+              {
+                "card": "Soldier Token",
+                "id": "442",
+                "line": 1153,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [
+              {
+                "card": "Overlord of the Mistmoors",
+                "line": 1156,
+                "inference": "followup_trigger_or_entry_text_not_proof"
+              }
+            ],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 48,
+            "round": 12,
+            "line": 1333,
+            "exiled": [
+              {
+                "card": "Soldier Token",
+                "id": "444",
+                "line": 1330,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          }
+        ]
+      },
+      "tokens": {
+        "attacks": 85,
+        "attackDeclarations": 6,
+        "blocks": 0,
+        "blockDeclarations": 0,
+        "knownControlledDeaths": 0,
+        "unknownOwnerDeaths": 2,
+        "allPlayersDeaths": 2,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Elephant Token",
+                "id": "421"
+              },
+              {
+                "name": "Spirit Token",
+                "id": "412"
+              }
+            ],
+            "target": "Jace, the Mind Sculptor (315)",
+            "turn": 20,
+            "line": 444
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Elephant Token",
+                "id": "421"
+              }
+            ],
+            "target": "Ai(3)-b3-7817483",
+            "turn": 24,
+            "line": 534
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Elephant Token",
+                "id": "421"
+              }
+            ],
+            "target": "Ai(2)-b3-313935",
+            "turn": 28,
+            "line": 637
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "708"
+              },
+              {
+                "name": "Insect Token",
+                "id": "709"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "444"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "495"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "496"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "497"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "501"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "556"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "617"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "618"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "619"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "623"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "691"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "692"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "693"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "697"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "701"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "702"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "703"
+              }
+            ],
+            "target": "Ai(4)-b3-4036",
+            "turn": 48,
+            "line": 1250
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "708"
+              },
+              {
+                "name": "Insect Token",
+                "id": "709"
+              },
+              {
+                "name": "Insect Token",
+                "id": "792"
+              },
+              {
+                "name": "Insect Token",
+                "id": "793"
+              },
+              {
+                "name": "Insect Token",
+                "id": "819"
+              },
+              {
+                "name": "Insect Token",
+                "id": "820"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "495"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "496"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "497"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "501"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "556"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "617"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "618"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "619"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "623"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "691"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "692"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "693"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "697"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "701"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "702"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "703"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "810"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "811"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "812"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "816"
+              }
+            ],
+            "target": "Ai(3)-b3-7817483",
+            "turn": 51,
+            "line": 1454
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Zombie Army Token",
+                "id": "873"
+              },
+              {
+                "name": "Insect Token",
+                "id": "708"
+              },
+              {
+                "name": "Insect Token",
+                "id": "709"
+              },
+              {
+                "name": "Insect Token",
+                "id": "792"
+              },
+              {
+                "name": "Insect Token",
+                "id": "793"
+              },
+              {
+                "name": "Insect Token",
+                "id": "819"
+              },
+              {
+                "name": "Insect Token",
+                "id": "820"
+              },
+              {
+                "name": "Insect Token",
+                "id": "892"
+              },
+              {
+                "name": "Insect Token",
+                "id": "893"
+              },
+              {
+                "name": "Cadet",
+                "id": "925"
+              },
+              {
+                "name": "Cadet",
+                "id": "939"
+              },
+              {
+                "name": "Cadet",
+                "id": "943"
+              },
+              {
+                "name": "Cadet",
+                "id": "948"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "495"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "496"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "497"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "501"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "556"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "617"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "618"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "619"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "623"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "691"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "692"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "693"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "697"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "701"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "702"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "703"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "810"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "811"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "812"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "816"
+              },
+              {
+                "name": "Illusion Token",
+                "id": "910"
+              },
+              {
+                "name": "Myr Token",
+                "id": "935"
+              },
+              {
+                "name": "Myr Token",
+                "id": "936"
+              }
+            ],
+            "target": "Ai(2)-b3-313935",
+            "turn": 53,
+            "line": 1941
+          }
+        ],
+        "deaths": [
+          {
+            "card": "Soldier Token",
+            "id": "428",
+            "lastKnownController": null,
+            "turn": 24,
+            "line": 560
+          },
+          {
+            "card": "Human Token",
+            "id": "480",
+            "lastKnownController": null,
+            "turn": 32,
+            "line": 772
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Staff of the Storyteller": 1,
+          "Theorix Charm": 1,
+          "Plan for All Outcomes": 1,
+          "Jace, Multiverse Architect": 2,
+          "Aminatou, the Fateshifter": 1,
+          "Brainstorm": 1,
+          "Despark": 1,
+          "Stroke of Midnight": 1,
+          "Nicol Bolas, Dragon-God": 1,
+          "Talisman of Dominance": 1,
+          "Galactus, Devourer of Worlds": 1,
+          "Tekuthal, Inquiry Dominus": 1,
+          "Flux Channeler": 1,
+          "Staff of Compleation": 1,
+          "Talisman of Creativity": 1,
+          "Cursed Mirror": 1,
+          "Chromatic Lantern": 1,
+          "Talisman of Progress": 1,
+          "Dreadhorde Invasion": 1,
+          "Rakdos Signet": 1,
+          "Talisman of Indulgence": 1,
+          "Dimir Signet": 1,
+          "Loyal Tutor": 1,
+          "Ajani Unrelenting": 1,
+          "Serra's Emissary": 1,
+          "Avacyn, Angel of Horror": 1
+        },
+        "castEvents": [
+          {
+            "card": "Staff of the Storyteller",
+            "turn": 8,
+            "round": 2,
+            "line": 151
+          },
+          {
+            "card": "Theorix Charm",
+            "turn": 12,
+            "round": 3,
+            "line": 235
+          },
+          {
+            "card": "Plan for All Outcomes",
+            "turn": 16,
+            "round": 4,
+            "line": 345
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 20,
+            "round": 5,
+            "line": 460
+          },
+          {
+            "card": "Aminatou, the Fateshifter",
+            "turn": 24,
+            "round": 6,
+            "line": 550
+          },
+          {
+            "card": "Brainstorm",
+            "turn": 28,
+            "round": 7,
+            "line": 655
+          },
+          {
+            "card": "Despark",
+            "turn": 28,
+            "round": 7,
+            "line": 659
+          },
+          {
+            "card": "Stroke of Midnight",
+            "turn": 31,
+            "round": 8,
+            "line": 729
+          },
+          {
+            "card": "Nicol Bolas, Dragon-God",
+            "turn": 32,
+            "round": 8,
+            "line": 768
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 36,
+            "round": 9,
+            "line": 878
+          },
+          {
+            "card": "Talisman of Dominance",
+            "turn": 36,
+            "round": 9,
+            "line": 888
+          },
+          {
+            "card": "Galactus, Devourer of Worlds",
+            "turn": 40,
+            "round": 10,
+            "line": 1006
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "turn": 44,
+            "round": 11,
+            "line": 1131
+          },
+          {
+            "card": "Flux Channeler",
+            "turn": 44,
+            "round": 11,
+            "line": 1136
+          },
+          {
+            "card": "Staff of Compleation",
+            "turn": 44,
+            "round": 11,
+            "line": 1141
+          },
+          {
+            "card": "Talisman of Creativity",
+            "turn": 44,
+            "round": 11,
+            "line": 1148
+          },
+          {
+            "card": "Cursed Mirror",
+            "turn": 48,
+            "round": 12,
+            "line": 1322
+          },
+          {
+            "card": "Chromatic Lantern",
+            "turn": 48,
+            "round": 12,
+            "line": 1337
+          },
+          {
+            "card": "Talisman of Progress",
+            "turn": 48,
+            "round": 12,
+            "line": 1344
+          },
+          {
+            "card": "Dreadhorde Invasion",
+            "turn": 48,
+            "round": 12,
+            "line": 1351
+          },
+          {
+            "card": "Rakdos Signet",
+            "turn": 48,
+            "round": 12,
+            "line": 1375
+          },
+          {
+            "card": "Talisman of Indulgence",
+            "turn": 51,
+            "round": 13,
+            "line": 1539
+          },
+          {
+            "card": "Dimir Signet",
+            "turn": 51,
+            "round": 13,
+            "line": 1546
+          },
+          {
+            "card": "Loyal Tutor",
+            "turn": 51,
+            "round": 13,
+            "line": 1552
+          },
+          {
+            "card": "Ajani Unrelenting",
+            "turn": 51,
+            "round": 13,
+            "line": 1575
+          },
+          {
+            "card": "Serra's Emissary",
+            "turn": 51,
+            "round": 13,
+            "line": 1834
+          },
+          {
+            "card": "Avacyn, Angel of Horror",
+            "turn": 53,
+            "round": 14,
+            "line": 1931
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Command Tower",
+            "id": "67",
+            "turn": 4,
+            "round": 1,
+            "line": 69
+          },
+          {
+            "card": "Plains",
+            "id": "97",
+            "turn": 8,
+            "round": 2,
+            "line": 141
+          },
+          {
+            "card": "Isolated Chapel",
+            "id": "17",
+            "turn": 12,
+            "round": 3,
+            "line": 232
+          },
+          {
+            "card": "Sulfurous Springs",
+            "id": "28",
+            "turn": 16,
+            "round": 4,
+            "line": 333
+          },
+          {
+            "card": "Mystic Gate",
+            "id": "11",
+            "turn": 20,
+            "round": 5,
+            "line": 441
+          },
+          {
+            "card": "Sulfur Falls",
+            "id": "81",
+            "turn": 24,
+            "round": 6,
+            "line": 556
+          },
+          {
+            "card": "Haunted Ridge",
+            "id": "93",
+            "turn": 32,
+            "round": 8,
+            "line": 760
+          },
+          {
+            "card": "Kher Keep",
+            "id": "77",
+            "turn": 36,
+            "round": 9,
+            "line": 851
+          },
+          {
+            "card": "Room of Refuge",
+            "id": "64",
+            "turn": 40,
+            "round": 10,
+            "line": 968
+          },
+          {
+            "card": "Fetid Heath",
+            "id": "53",
+            "turn": 44,
+            "round": 11,
+            "line": 1099
+          },
+          {
+            "card": "Theorix Annex",
+            "id": "43",
+            "turn": 48,
+            "round": 12,
+            "line": 1244
+          },
+          {
+            "card": "Restless Spire",
+            "id": "84",
+            "turn": 51,
+            "round": 13,
+            "line": 1439
+          },
+          {
+            "card": "Turbulent Crater",
+            "id": "49",
+            "turn": 53,
+            "round": 14,
+            "line": 1906
+          }
+        ],
+        "seenInHand": [
+          "Ajani Unrelenting",
+          "Aminatou, the Fateshifter",
+          "Arcane Signet",
+          "Archfiend of Despair",
+          "Archon of Cruelty",
+          "Avacyn, Angel of Hope",
+          "Avacyn, Angel of Horror",
+          "Azorius Signet",
+          "Battlefield Forge",
+          "Brainstorm",
+          "Brainsurge",
+          "Caves of Koilos",
+          "Chromatic Lantern",
+          "Clifftop Retreat",
+          "Command Tower",
+          "Contaminated Landscape",
+          "Cursed Mirror",
+          "Darksteel Angel",
+          "Despark",
+          "Dimir Signet",
+          "Dreadhorde Invasion",
+          "Dreamtide Whale",
+          "Drowned Catacomb",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Fatehold Charm",
+          "Fellwar Stone",
+          "Fetid Heath",
+          "Flawless Maneuver",
+          "Flux Channeler",
+          "Galactus, Devourer of Worlds",
+          "Glacial Fortress",
+          "Grand Crescendo",
+          "Haunted Ridge",
+          "Innovative Commons",
+          "Isolated Chapel",
+          "Izzet Signet",
+          "Jhoira, Weatherlight Corsair",
+          "Kher Keep",
+          "Lich's Relic",
+          "Lingering Souls",
+          "Loyal Tutor",
+          "Martial Coup",
+          "Mountain",
+          "Mystic Gate",
+          "Nicol Bolas, Dragon-God",
+          "Occult Epiphany",
+          "Overlord of the Mistmoors",
+          "Path of Ancestry",
+          "Path to Exile",
+          "Perilous Landscape",
+          "Plains",
+          "Plan for All Outcomes",
+          "Prairie Stream",
+          "Proteus Staff",
+          "Radiant Summit",
+          "Rakdos Signet",
+          "Reflecting Pool",
+          "Restless Anchorage",
+          "Restless Spire",
+          "Room of Refuge",
+          "Saheeli, Sublime Artificer",
+          "Secure the Wastes",
+          "Serra's Emissary",
+          "Shivan Reef",
+          "Sol Ring",
+          "Staff of Compleation",
+          "Staff of the Storyteller",
+          "Stroke of Midnight",
+          "Sulfur Falls",
+          "Sulfurous Springs",
+          "Sunfall",
+          "Sunken Ruins",
+          "Swamp",
+          "Swords to Plowshares",
+          "Talisman of Creativity",
+          "Talisman of Dominance",
+          "Talisman of Indulgence",
+          "Talisman of Progress",
+          "Teferi, Hero of Dominaria",
+          "Tekuthal, Inquiry Dominus",
+          "The Theorist, Jace Beleren",
+          "Theorist's Sanctum",
+          "Theorix Annex",
+          "Theorix Charm",
+          "Triplicate Titan",
+          "Turbulent Crater",
+          "Turbulent Shore",
+          "Turbulent Wetlands",
+          "Underground River",
+          "Way of the Healer",
+          "White Sun's Twilight"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Arcane Signet",
+          "Archfiend of Despair",
+          "Archon of Cruelty",
+          "Avacyn, Angel of Hope",
+          "Azorius Signet",
+          "Battlefield Forge",
+          "Brainsurge",
+          "Caves of Koilos",
+          "Clifftop Retreat",
+          "Contaminated Landscape",
+          "Darksteel Angel",
+          "Dreamtide Whale",
+          "Drowned Catacomb",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Fatehold Charm",
+          "Fellwar Stone",
+          "Flawless Maneuver",
+          "Glacial Fortress",
+          "Grand Crescendo",
+          "Innovative Commons",
+          "Izzet Signet",
+          "Jhoira, Weatherlight Corsair",
+          "Lich's Relic",
+          "Lingering Souls",
+          "Martial Coup",
+          "Mountain",
+          "Occult Epiphany",
+          "Overlord of the Mistmoors",
+          "Path of Ancestry",
+          "Path to Exile",
+          "Perilous Landscape",
+          "Prairie Stream",
+          "Proteus Staff",
+          "Radiant Summit",
+          "Reflecting Pool",
+          "Restless Anchorage",
+          "Saheeli, Sublime Artificer",
+          "Secure the Wastes",
+          "Shivan Reef",
+          "Sol Ring",
+          "Sunfall",
+          "Sunken Ruins",
+          "Swamp",
+          "Swords to Plowshares",
+          "Teferi, Hero of Dominaria",
+          "The Theorist, Jace Beleren",
+          "Theorist's Sanctum",
+          "Triplicate Titan",
+          "Turbulent Shore",
+          "Turbulent Wetlands",
+          "Underground River",
+          "Way of the Healer",
+          "White Sun's Twilight"
+        ],
+        "lastRecordedHand": [
+          {
+            "id": "20",
+            "card": "Saheeli, Sublime Artificer"
+          },
+          {
+            "id": "70",
+            "card": "Occult Epiphany"
+          },
+          {
+            "id": "56",
+            "card": "White Sun's Twilight"
+          },
+          {
+            "id": "31",
+            "card": "Sunfall"
+          },
+          {
+            "id": "90",
+            "card": "Swords to Plowshares"
+          },
+          {
+            "id": "83",
+            "card": "Brainsurge"
+          },
+          {
+            "id": "6",
+            "card": "Path to Exile"
+          },
+          {
+            "id": "25",
+            "card": "Sol Ring"
+          },
+          {
+            "id": "47",
+            "card": "Sunken Ruins"
+          },
+          {
+            "id": "76",
+            "card": "Dreamtide Whale"
+          },
+          {
+            "id": "42",
+            "card": "Darksteel Angel"
+          },
+          {
+            "id": "86",
+            "card": "Fabled Passage"
+          },
+          {
+            "id": "48",
+            "card": "Fatehold Charm"
+          },
+          {
+            "id": "87",
+            "card": "Fellwar Stone"
+          }
+        ],
+        "lastNonemptySnapshot": {
+          "a": 1892,
+          "hand": [
+            [
+              "20",
+              "Saheeli, Sublime Artificer"
+            ],
+            [
+              "70",
+              "Occult Epiphany"
+            ],
+            [
+              "56",
+              "White Sun's Twilight"
+            ],
+            [
+              "31",
+              "Sunfall"
+            ],
+            [
+              "90",
+              "Swords to Plowshares"
+            ],
+            [
+              "83",
+              "Brainsurge"
+            ],
+            [
+              "6",
+              "Path to Exile"
+            ],
+            [
+              "25",
+              "Sol Ring"
+            ],
+            [
+              "47",
+              "Sunken Ruins"
+            ],
+            [
+              "76",
+              "Dreamtide Whale"
+            ],
+            [
+              "42",
+              "Darksteel Angel"
+            ],
+            [
+              "86",
+              "Fabled Passage"
+            ],
+            [
+              "48",
+              "Fatehold Charm"
+            ],
+            [
+              "87",
+              "Fellwar Stone"
+            ]
+          ]
+        },
+        "handSnapshots": 228,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "Sulfurous Springs",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Soldier Token",
+            "amount": 58
+          },
+          {
+            "card": "Galactus, Devourer of Worlds",
+            "amount": 38
+          },
+          {
+            "card": "Insect Token",
+            "amount": 28
+          },
+          {
+            "card": "Illusion Token",
+            "amount": 19
+          },
+          {
+            "card": "Silver Surfer, Galactus's Herald",
+            "amount": 18
+          },
+          {
+            "card": "Overlord of the Mistmoors",
+            "amount": 14
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "amount": 8
+          },
+          {
+            "card": "Nissa, Leyline Tamer",
+            "amount": 7
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Illusion Token",
+            "id": "697",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1516
+          },
+          {
+            "source": "Soldier Token",
+            "id": "701",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1517
+          },
+          {
+            "source": "Soldier Token",
+            "id": "702",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1518
+          },
+          {
+            "source": "Soldier Token",
+            "id": "703",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1519
+          },
+          {
+            "source": "Soldier Token",
+            "id": "810",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1520
+          },
+          {
+            "source": "Soldier Token",
+            "id": "811",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1521
+          },
+          {
+            "source": "Soldier Token",
+            "id": "812",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1522
+          },
+          {
+            "source": "Illusion Token",
+            "id": "816",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 51,
+            "round": 13,
+            "line": 1523
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "Sulfurous Springs",
+            "id": "28",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 20,
+            "round": 5,
+            "line": 454
+          }
+        ]
+      },
+      "jaceLoss": null,
+      "automatedReview": [
+        "Jace lost; exact loss reason unavailable.",
+        "Largest logged damage to Jace: Sulfurous Springs 1.",
+        "Jace -3 resolved 5 time(s). Revealed hits are unavailable in ordinary logs; candidates are not confirmations."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Sunfall",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        },
+        {
+          "issue": "reactive_card_in_last_hand",
+          "confidence": "review_candidate_only",
+          "reason": "Check mana, targets, timing and prior responses before calling this a misplay."
+        }
+      ],
+      "codexInterpretation": "The AI attacked with a large army, including Memnarch. Memnarch\u2019s artifact-count draw trigger resolved before combat damage, and the original Game Outcome explicitly says Jace lost trying to draw from an empty library (line 1956). Ghalta was the surviving winner; combat defeat was not the recorded cause of Jace\u2019s elimination. A human should check remaining library versus artifact count before attacking with Memnarch. Dreadhorde was cast much later in this game, so its presence is not an explanation for the self-decking loss."
+    },
+    {
+      "schemaVersion": 2,
+      "key": "v0.8-codex-owned-engine/2026-10-300254-smart-politics-keeptokens-100/pod19-g5.log",
+      "version": "v0.8-codex-owned-engine",
+      "run": "2026-10-300254-smart-politics-keeptokens-100",
+      "pod": "pod19",
+      "game": 5,
+      "source": "gauntlet/versions/jace/v0.8-codex-owned-engine/runs/2026-10-300254-smart-politics-keeptokens-100/logs/pod19-g5.log",
+      "sourceMtimeMs": 1793332185182.841,
+      "sourceSize": 67848,
+      "sourceSha256": "f61d9d187115ee650b6c8ed31b99ea7823297e5592cca9a289ecc1b3a1a521c4",
+      "reviewedAt": "2026-10-30T03:54:44.438Z",
+      "resultLine": "Game Result: ended in 19251 ms. Ai(1)-jace-v0.8-codex-owned-engine has won!",
+      "winner": {
+        "seat": 1,
+        "deck": "jace-v0.8-codex-owned-engine"
+      },
+      "disposition": "jace_win",
+      "reportedWin": true,
+      "explicitDraw": false,
+      "runtimeMs": 19251,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 32,
+      "rounds": 8,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 1,
+        "recasts": 0,
+        "minus3Uses": 2,
+        "minus3": [
+          {
+            "turn": 22,
+            "round": 6,
+            "line": 584,
+            "exiled": [
+              {
+                "card": "Zombie Army Token",
+                "id": "417",
+                "line": 582,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [
+              {
+                "card": "Overlord of the Mistmoors",
+                "line": 585,
+                "inference": "followup_trigger_or_entry_text_not_proof"
+              }
+            ],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 30,
+            "round": 8,
+            "line": 854,
+            "exiled": [
+              {
+                "card": "Insect Token",
+                "id": "420",
+                "line": 851,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          }
+        ]
+      },
+      "tokens": {
+        "attacks": 19,
+        "attackDeclarations": 4,
+        "blocks": 0,
+        "blockDeclarations": 0,
+        "knownControlledDeaths": 1,
+        "unknownOwnerDeaths": 2,
+        "allPlayersDeaths": 3,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Zombie Army Token",
+                "id": "409"
+              }
+            ],
+            "target": "Ai(2)-b3-15073736",
+            "turn": 19,
+            "line": 452
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "420"
+              },
+              {
+                "name": "Insect Token",
+                "id": "421"
+              },
+              {
+                "name": "Zombie Army Token",
+                "id": "426"
+              },
+              {
+                "name": "Insect Token",
+                "id": "430"
+              },
+              {
+                "name": "Insect Token",
+                "id": "431"
+              }
+            ],
+            "target": "Ai(2)-b3-15073736",
+            "turn": 28,
+            "line": 769
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Zombie Army Token",
+                "id": "426"
+              }
+            ],
+            "target": "Ai(3)-b3-9298397",
+            "turn": 30,
+            "line": 864
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Zombie Army Token",
+                "id": "426"
+              },
+              {
+                "name": "Insect Token",
+                "id": "421"
+              },
+              {
+                "name": "Insect Token",
+                "id": "430"
+              },
+              {
+                "name": "Insect Token",
+                "id": "431"
+              },
+              {
+                "name": "Insect Token",
+                "id": "477"
+              },
+              {
+                "name": "Insect Token",
+                "id": "478"
+              },
+              {
+                "name": "Insect Token",
+                "id": "501"
+              },
+              {
+                "name": "Insect Token",
+                "id": "502"
+              },
+              {
+                "name": "Warrior Token",
+                "id": "518"
+              },
+              {
+                "name": "Warrior Token",
+                "id": "519"
+              },
+              {
+                "name": "Warrior Token",
+                "id": "520"
+              },
+              {
+                "name": "Warrior Token",
+                "id": "521"
+              }
+            ],
+            "target": "Ai(3)-b3-9298397",
+            "turn": 32,
+            "line": 942
+          }
+        ],
+        "deaths": [
+          {
+            "card": "Zombie Army Token",
+            "id": "409",
+            "lastKnownController": 1,
+            "turn": 19,
+            "line": 459
+          },
+          {
+            "card": "Map Token",
+            "id": "475",
+            "lastKnownController": null,
+            "turn": 28,
+            "line": 805
+          },
+          {
+            "card": "Map Token",
+            "id": "499",
+            "lastKnownController": null,
+            "turn": 30,
+            "line": 886
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Dreadhorde Invasion": 1,
+          "Fellwar Stone": 1,
+          "Brainsurge": 1,
+          "Elspeth, Sun's Champion": 1,
+          "Jace, Multiverse Architect": 1,
+          "Serra's Emissary": 1,
+          "Dreamtide Whale": 1,
+          "Secure the Wastes": 1
+        },
+        "castEvents": [
+          {
+            "card": "Dreadhorde Invasion",
+            "turn": 8,
+            "round": 2,
+            "line": 142
+          },
+          {
+            "card": "Fellwar Stone",
+            "turn": 12,
+            "round": 3,
+            "line": 228
+          },
+          {
+            "card": "Brainsurge",
+            "turn": 17,
+            "round": 5,
+            "line": 402
+          },
+          {
+            "card": "Elspeth, Sun's Champion",
+            "turn": 19,
+            "round": 5,
+            "line": 468
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 22,
+            "round": 6,
+            "line": 579
+          },
+          {
+            "card": "Serra's Emissary",
+            "turn": 25,
+            "round": 7,
+            "line": 680
+          },
+          {
+            "card": "Dreamtide Whale",
+            "turn": 28,
+            "round": 7,
+            "line": 801
+          },
+          {
+            "card": "Secure the Wastes",
+            "turn": 31,
+            "round": 8,
+            "line": 915
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Path of Ancestry",
+            "id": "7",
+            "turn": 4,
+            "round": 1,
+            "line": 63
+          },
+          {
+            "card": "Underground River",
+            "id": "54",
+            "turn": 8,
+            "round": 2,
+            "line": 132
+          },
+          {
+            "card": "Caves of Koilos",
+            "id": "27",
+            "turn": 12,
+            "round": 3,
+            "line": 218
+          },
+          {
+            "card": "Room of Refuge",
+            "id": "64",
+            "turn": 16,
+            "round": 4,
+            "line": 338
+          },
+          {
+            "card": "Turbulent Wetlands",
+            "id": "79",
+            "turn": 19,
+            "round": 5,
+            "line": 449
+          },
+          {
+            "card": "Restless Anchorage",
+            "id": "73",
+            "turn": 22,
+            "round": 6,
+            "line": 571
+          },
+          {
+            "card": "Innovative Commons",
+            "id": "10",
+            "turn": 25,
+            "round": 7,
+            "line": 672
+          },
+          {
+            "card": "Sulfur Falls",
+            "id": "81",
+            "turn": 28,
+            "round": 7,
+            "line": 761
+          },
+          {
+            "card": "Battlefield Forge",
+            "id": "32",
+            "turn": 30,
+            "round": 8,
+            "line": 850
+          },
+          {
+            "card": "Sunken Ruins",
+            "id": "47",
+            "turn": 32,
+            "round": 8,
+            "line": 934
+          }
+        ],
+        "seenInHand": [
+          "Archon of Cruelty",
+          "Battlefield Forge",
+          "Brainsurge",
+          "Caves of Koilos",
+          "Darksteel Angel",
+          "Dreadhorde Invasion",
+          "Dreamtide Whale",
+          "Elspeth, Sun's Champion",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Fellwar Stone",
+          "Innovative Commons",
+          "Lich's Relic",
+          "Mountain",
+          "Path of Ancestry",
+          "Restless Anchorage",
+          "Room of Refuge",
+          "Secure the Wastes",
+          "Serra's Emissary",
+          "Sulfur Falls",
+          "Sunfall",
+          "Sunken Ruins",
+          "Theorist's Sanctum",
+          "Turbulent Wetlands",
+          "Underground River"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Archon of Cruelty",
+          "Darksteel Angel",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Lich's Relic",
+          "Mountain",
+          "Sunfall",
+          "Theorist's Sanctum"
+        ],
+        "lastRecordedHand": [
+          {
+            "id": "31",
+            "card": "Sunfall"
+          },
+          {
+            "id": "78",
+            "card": "Archon of Cruelty"
+          },
+          {
+            "id": "44",
+            "card": "Theorist's Sanctum"
+          },
+          {
+            "id": "19",
+            "card": "Exotic Orchard"
+          },
+          {
+            "id": "94",
+            "card": "Mountain"
+          },
+          {
+            "id": "86",
+            "card": "Fabled Passage"
+          }
+        ],
+        "lastNonemptySnapshot": {
+          "a": 912,
+          "hand": [
+            [
+              "31",
+              "Sunfall"
+            ],
+            [
+              "78",
+              "Archon of Cruelty"
+            ],
+            [
+              "44",
+              "Theorist's Sanctum"
+            ],
+            [
+              "19",
+              "Exotic Orchard"
+            ],
+            [
+              "94",
+              "Mountain"
+            ],
+            [
+              "86",
+              "Fabled Passage"
+            ]
+          ]
+        },
+        "handSnapshots": 48,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "Elf Warrior Token",
+            "amount": 4
+          },
+          {
+            "card": "Llanowar Elves",
+            "amount": 2
+          },
+          {
+            "card": "Elvish Archdruid",
+            "amount": 2
+          },
+          {
+            "card": "Caves of Koilos",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Overlord of the Mistmoors",
+            "amount": 24
+          },
+          {
+            "card": "Insect Token",
+            "amount": 22
+          },
+          {
+            "card": "Serra's Emissary",
+            "amount": 14
+          },
+          {
+            "card": "Zombie Army Token",
+            "amount": 11
+          },
+          {
+            "card": "Dreamtide Whale",
+            "amount": 7
+          },
+          {
+            "card": "Restless Anchorage",
+            "amount": 6
+          },
+          {
+            "card": "Warrior Token",
+            "amount": 4
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Insect Token",
+            "id": "477",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 972
+          },
+          {
+            "source": "Insect Token",
+            "id": "478",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 973
+          },
+          {
+            "source": "Insect Token",
+            "id": "501",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 974
+          },
+          {
+            "source": "Insect Token",
+            "id": "502",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 975
+          },
+          {
+            "source": "Warrior Token",
+            "id": "518",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 976
+          },
+          {
+            "source": "Warrior Token",
+            "id": "519",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 977
+          },
+          {
+            "source": "Warrior Token",
+            "id": "520",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 978
+          },
+          {
+            "source": "Warrior Token",
+            "id": "521",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(3)-b3-9298397",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 32,
+            "round": 8,
+            "line": 979
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "Llanowar Elves",
+            "id": "129",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 20,
+            "round": 5,
+            "line": 503
+          },
+          {
+            "source": "Elf Warrior Token",
+            "id": "407",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 20,
+            "round": 5,
+            "line": 504
+          },
+          {
+            "source": "Elvish Archdruid",
+            "id": "115",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 20,
+            "round": 5,
+            "line": 505
+          },
+          {
+            "source": "Elf Warrior Token",
+            "id": "412",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 20,
+            "round": 5,
+            "line": 506
+          },
+          {
+            "source": "Caves of Koilos",
+            "id": "27",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 22,
+            "round": 6,
+            "line": 575
+          }
+        ]
+      },
+      "jaceLoss": null,
+      "automatedReview": [
+        "Jace is the logged winner; casts and damage are evidence of activity, not proof of which card caused the win.",
+        "Largest logged damage to opponents from last-known Jace-controlled combat sources: Overlord of the Mistmoors 24; Insect Token 22; Serra's Emissary 14.",
+        "Largest logged damage to Jace: Elf Warrior Token 4; Llanowar Elves 2; Elvish Archdruid 2.",
+        "Jace -3 resolved 2 time(s). Revealed hits are unavailable in ordinary logs; candidates are not confirmations."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Sunfall",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        }
+      ],
+      "codexInterpretation": "Dreadhorde was cast at line 142. An earlier Army grew to 3 power, attacked into Craterhoof and died (lines 452\u2013459). A replacement Army (417) was exiled adjacent to Jace\u2019s -3 at lines 582\u2013584; Overlord\u2019s entry trigger followed (585\u2013586), a strong clue but not a confirmed reveal event in this ordinary log. The later board included more Armies/Insects and Jace won. This demonstrates the recurring-fodder role. The earlier attack is an AI decision to audit; the old KEEP_TOKENS rule protects only power<=2, and real Jace could instead use a grown Army as fodder."
+    },
+    {
+      "schemaVersion": 2,
+      "key": "v0.8-codex-owned-engine/2026-10-300254-smart-politics-keeptokens-100/pod20-g3.log",
+      "version": "v0.8-codex-owned-engine",
+      "run": "2026-10-300254-smart-politics-keeptokens-100",
+      "pod": "pod20",
+      "game": 3,
+      "source": "gauntlet/versions/jace/v0.8-codex-owned-engine/runs/2026-10-300254-smart-politics-keeptokens-100/logs/pod20-g3.log",
+      "sourceMtimeMs": 1793332621302.6663,
+      "sourceSize": 97897,
+      "sourceSha256": "b97dabf798edd67cbdd967efc010103bac5d4ec9190c22218b7a560dc79fc3c8",
+      "reviewedAt": "2026-10-30T03:57:53.723Z",
+      "resultLine": "Game Result: ended in 24440 ms. Ai(1)-jace-v0.8-codex-owned-engine has won!",
+      "winner": {
+        "seat": 1,
+        "deck": "jace-v0.8-codex-owned-engine"
+      },
+      "disposition": "jace_win",
+      "reportedWin": true,
+      "explicitDraw": false,
+      "runtimeMs": 24440,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 45,
+      "rounds": 12,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 3,
+        "recasts": 2,
+        "minus3Uses": 3,
+        "minus3": [
+          {
+            "turn": 29,
+            "round": 8,
+            "line": 745,
+            "exiled": [
+              {
+                "card": "Insect Token",
+                "id": "418",
+                "line": 741,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 40,
+            "round": 10,
+            "line": 1155,
+            "exiled": [
+              {
+                "card": "Myr Token",
+                "id": "446",
+                "line": 1152,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          },
+          {
+            "turn": 45,
+            "round": 12,
+            "line": 1447,
+            "exiled": [
+              {
+                "card": "Servo Token",
+                "id": "457",
+                "line": 1445,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [
+              {
+                "card": "Jhoira, Weatherlight Corsair",
+                "line": 1448,
+                "inference": "followup_trigger_or_entry_text_not_proof"
+              }
+            ],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          }
+        ]
+      },
+      "tokens": {
+        "attacks": 5,
+        "attackDeclarations": 1,
+        "blocks": 4,
+        "blockDeclarations": 3,
+        "knownControlledDeaths": 9,
+        "unknownOwnerDeaths": 7,
+        "allPlayersDeaths": 19,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Cadet",
+                "id": "410"
+              }
+            ],
+            "target": "Tyvar, the Pummeler (176)",
+            "turn": 22,
+            "line": 488
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "419"
+              },
+              {
+                "name": "Cadet",
+                "id": "422"
+              },
+              {
+                "name": "Cadet",
+                "id": "425"
+              },
+              {
+                "name": "Insect Token",
+                "id": "428"
+              },
+              {
+                "name": "Insect Token",
+                "id": "429"
+              }
+            ],
+            "target": "Ai(2)-b3-313935",
+            "turn": 37,
+            "line": 1000
+          },
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "436"
+              }
+            ],
+            "target": "Lord of Change (385)",
+            "turn": 39,
+            "line": 1104
+          },
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Insect Token",
+                "id": "435"
+              },
+              {
+                "name": "Golem Token",
+                "id": "441"
+              }
+            ],
+            "target": "Hidetsugu and Kairi (316)",
+            "turn": 39,
+            "line": 1105
+          }
+        ],
+        "deaths": [
+          {
+            "card": "Treasure Token",
+            "id": "407",
+            "lastKnownController": null,
+            "turn": 16,
+            "line": 319
+          },
+          {
+            "card": "Cadet",
+            "id": "410",
+            "lastKnownController": 1,
+            "turn": 22,
+            "line": 493
+          },
+          {
+            "card": "Orc Army Token",
+            "id": "412",
+            "lastKnownController": 3,
+            "turn": 27,
+            "line": 657
+          },
+          {
+            "card": "Treasure Token",
+            "id": "406",
+            "lastKnownController": null,
+            "turn": 27,
+            "line": 660
+          },
+          {
+            "card": "Treasure Token",
+            "id": "432",
+            "lastKnownController": null,
+            "turn": 35,
+            "line": 949
+          },
+          {
+            "card": "Cadet",
+            "id": "422",
+            "lastKnownController": 1,
+            "turn": 37,
+            "line": 1044
+          },
+          {
+            "card": "Insect Token",
+            "id": "435",
+            "lastKnownController": 1,
+            "turn": 39,
+            "line": 1121
+          },
+          {
+            "card": "Insect Token",
+            "id": "436",
+            "lastKnownController": 1,
+            "turn": 39,
+            "line": 1122
+          },
+          {
+            "card": "Golem Token",
+            "id": "441",
+            "lastKnownController": 1,
+            "turn": 39,
+            "line": 1123
+          },
+          {
+            "card": "Insect Token",
+            "id": "419",
+            "lastKnownController": 1,
+            "turn": 41,
+            "line": 1234
+          },
+          {
+            "card": "Cadet",
+            "id": "425",
+            "lastKnownController": 1,
+            "turn": 41,
+            "line": 1235
+          },
+          {
+            "card": "Insect Token",
+            "id": "428",
+            "lastKnownController": 1,
+            "turn": 41,
+            "line": 1236
+          },
+          {
+            "card": "Insect Token",
+            "id": "429",
+            "lastKnownController": 1,
+            "turn": 41,
+            "line": 1237
+          },
+          {
+            "card": "Golem Token",
+            "id": "442",
+            "lastKnownController": null,
+            "turn": 41,
+            "line": 1238
+          },
+          {
+            "card": "Myr Token",
+            "id": "447",
+            "lastKnownController": null,
+            "turn": 41,
+            "line": 1239
+          },
+          {
+            "card": "Orc Army Token",
+            "id": "449",
+            "lastKnownController": 3,
+            "turn": 41,
+            "line": 1250
+          },
+          {
+            "card": "Human Token",
+            "id": "464",
+            "lastKnownController": 4,
+            "turn": 43,
+            "line": 1368
+          },
+          {
+            "card": "Treasure Token",
+            "id": "431",
+            "lastKnownController": null,
+            "turn": 44,
+            "line": 1404
+          },
+          {
+            "card": "Jace Token",
+            "id": "487",
+            "lastKnownController": null,
+            "turn": 45,
+            "line": 1452
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Proteus Staff": 1,
+          "Tekuthal, Inquiry Dominus": 1,
+          "Jace, Multiverse Architect": 3,
+          "Ajani Unrelenting": 1,
+          "Sol Ring": 1,
+          "Nissa, Leyline Tamer": 1,
+          "Saheeli, Sublime Artificer": 1,
+          "Elspeth, Sun's Champion": 1,
+          "Occult Epiphany": 1,
+          "Stroke of Midnight": 1,
+          "Plan for All Outcomes": 1
+        },
+        "castEvents": [
+          {
+            "card": "Proteus Staff",
+            "turn": 9,
+            "round": 3,
+            "line": 161
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "turn": 13,
+            "round": 4,
+            "line": 254
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 17,
+            "round": 5,
+            "line": 355
+          },
+          {
+            "card": "Ajani Unrelenting",
+            "turn": 21,
+            "round": 6,
+            "line": 464
+          },
+          {
+            "card": "Sol Ring",
+            "turn": 25,
+            "round": 7,
+            "line": 587
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 29,
+            "round": 8,
+            "line": 738
+          },
+          {
+            "card": "Nissa, Leyline Tamer",
+            "turn": 33,
+            "round": 9,
+            "line": 885
+          },
+          {
+            "card": "Saheeli, Sublime Artificer",
+            "turn": 33,
+            "round": 9,
+            "line": 892
+          },
+          {
+            "card": "Elspeth, Sun's Champion",
+            "turn": 40,
+            "round": 10,
+            "line": 1165
+          },
+          {
+            "card": "Occult Epiphany",
+            "turn": 43,
+            "round": 11,
+            "line": 1321
+          },
+          {
+            "card": "Stroke of Midnight",
+            "turn": 43,
+            "round": 11,
+            "line": 1331
+          },
+          {
+            "card": "Plan for All Outcomes",
+            "turn": 43,
+            "round": 11,
+            "line": 1344
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 45,
+            "round": 12,
+            "line": 1435
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Sulfurous Springs",
+            "id": "28",
+            "turn": 1,
+            "round": 1,
+            "line": 13
+          },
+          {
+            "card": "Turbulent Shore",
+            "id": "39",
+            "turn": 5,
+            "round": 2,
+            "line": 77
+          },
+          {
+            "card": "Clifftop Retreat",
+            "id": "82",
+            "turn": 9,
+            "round": 3,
+            "line": 150
+          },
+          {
+            "card": "Glacial Fortress",
+            "id": "29",
+            "turn": 13,
+            "round": 4,
+            "line": 242
+          },
+          {
+            "card": "Plains",
+            "id": "95",
+            "turn": 17,
+            "round": 5,
+            "line": 336
+          },
+          {
+            "card": "Battlefield Forge",
+            "id": "32",
+            "turn": 21,
+            "round": 6,
+            "line": 444
+          },
+          {
+            "card": "Isolated Chapel",
+            "id": "17",
+            "turn": 25,
+            "round": 7,
+            "line": 563
+          },
+          {
+            "card": "Plains",
+            "id": "97",
+            "turn": 33,
+            "round": 9,
+            "line": 878
+          },
+          {
+            "card": "Drowned Catacomb",
+            "id": "37",
+            "turn": 37,
+            "round": 10,
+            "line": 993
+          },
+          {
+            "card": "Fabled Passage",
+            "id": "86",
+            "turn": 40,
+            "round": 10,
+            "line": 1151
+          },
+          {
+            "card": "Exotic Orchard",
+            "id": "19",
+            "turn": 43,
+            "round": 11,
+            "line": 1337
+          },
+          {
+            "card": "Plains",
+            "id": "96",
+            "turn": 45,
+            "round": 12,
+            "line": 1423
+          }
+        ],
+        "seenInHand": [
+          "Ajani Unrelenting",
+          "Archon of Cruelty",
+          "Avacyn, Angel of Hope",
+          "Avacyn, Angel of Horror",
+          "Azorius Signet",
+          "Battlefield Forge",
+          "Brainstorm",
+          "Chromatic Lantern",
+          "Clifftop Retreat",
+          "Command Tower",
+          "Contaminated Landscape",
+          "Dreadhorde Invasion",
+          "Dreamtide Whale",
+          "Drowned Catacomb",
+          "Elspeth, Sun's Champion",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Fellwar Stone",
+          "Fetid Heath",
+          "Galactus, Devourer of Worlds",
+          "Glacial Fortress",
+          "Haunted Ridge",
+          "Island",
+          "Isolated Chapel",
+          "Izzet Signet",
+          "Nissa, Leyline Tamer",
+          "Occult Epiphany",
+          "Plains",
+          "Plan for All Outcomes",
+          "Prairie Stream",
+          "Proteus Staff",
+          "Restless Anchorage",
+          "Room of Refuge",
+          "Saheeli, Sublime Artificer",
+          "Serra's Emissary",
+          "Sol Ring",
+          "Stroke of Midnight",
+          "Sulfurous Springs",
+          "Sunfall",
+          "Swords to Plowshares",
+          "Talisman of Creativity",
+          "Talisman of Dominance",
+          "Tekuthal, Inquiry Dominus",
+          "Turbulent Shore",
+          "White Sun's Twilight"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Archon of Cruelty",
+          "Avacyn, Angel of Hope",
+          "Avacyn, Angel of Horror",
+          "Azorius Signet",
+          "Brainstorm",
+          "Chromatic Lantern",
+          "Command Tower",
+          "Contaminated Landscape",
+          "Dreadhorde Invasion",
+          "Dreamtide Whale",
+          "Fellwar Stone",
+          "Fetid Heath",
+          "Galactus, Devourer of Worlds",
+          "Haunted Ridge",
+          "Island",
+          "Izzet Signet",
+          "Prairie Stream",
+          "Restless Anchorage",
+          "Room of Refuge",
+          "Serra's Emissary",
+          "Sunfall",
+          "Swords to Plowshares",
+          "Talisman of Creativity",
+          "Talisman of Dominance",
+          "White Sun's Twilight"
+        ],
+        "lastRecordedHand": [
+          {
+            "id": "56",
+            "card": "White Sun's Twilight"
+          },
+          {
+            "id": "35",
+            "card": "Brainstorm"
+          },
+          {
+            "id": "5",
+            "card": "Avacyn, Angel of Horror"
+          },
+          {
+            "id": "26",
+            "card": "Izzet Signet"
+          },
+          {
+            "id": "9",
+            "card": "Galactus, Devourer of Worlds"
+          },
+          {
+            "id": "31",
+            "card": "Sunfall"
+          },
+          {
+            "id": "90",
+            "card": "Swords to Plowshares"
+          },
+          {
+            "id": "75",
+            "card": "Serra's Emissary"
+          },
+          {
+            "id": "68",
+            "card": "Island"
+          },
+          {
+            "id": "67",
+            "card": "Command Tower"
+          },
+          {
+            "id": "99",
+            "card": "Chromatic Lantern"
+          },
+          {
+            "id": "74",
+            "card": "Talisman of Dominance"
+          },
+          {
+            "id": "30",
+            "card": "Talisman of Creativity"
+          }
+        ],
+        "lastNonemptySnapshot": {
+          "a": 1447,
+          "hand": [
+            [
+              "56",
+              "White Sun's Twilight"
+            ],
+            [
+              "35",
+              "Brainstorm"
+            ],
+            [
+              "5",
+              "Avacyn, Angel of Horror"
+            ],
+            [
+              "26",
+              "Izzet Signet"
+            ],
+            [
+              "9",
+              "Galactus, Devourer of Worlds"
+            ],
+            [
+              "31",
+              "Sunfall"
+            ],
+            [
+              "90",
+              "Swords to Plowshares"
+            ],
+            [
+              "75",
+              "Serra's Emissary"
+            ],
+            [
+              "68",
+              "Island"
+            ],
+            [
+              "67",
+              "Command Tower"
+            ],
+            [
+              "99",
+              "Chromatic Lantern"
+            ],
+            [
+              "74",
+              "Talisman of Dominance"
+            ],
+            [
+              "30",
+              "Talisman of Creativity"
+            ]
+          ]
+        },
+        "handSnapshots": 83,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "Yennett, Cryptic Sovereign",
+            "amount": 3
+          },
+          {
+            "card": "Orc Army Token",
+            "amount": 3
+          },
+          {
+            "card": "Battlefield Forge",
+            "amount": 2
+          },
+          {
+            "card": "Sulfurous Springs",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "amount": 25
+          },
+          {
+            "card": "Memnarch, the Warden",
+            "amount": 16
+          },
+          {
+            "card": "Archfiend of Despair",
+            "amount": 12
+          },
+          {
+            "card": "Triplicate Titan",
+            "amount": 9
+          },
+          {
+            "card": "Darksteel Angel",
+            "amount": 8
+          },
+          {
+            "card": "Overlord of the Mistmoors",
+            "amount": 6
+          },
+          {
+            "card": "Insect Token",
+            "amount": 6
+          },
+          {
+            "card": "Cadet",
+            "amount": 2
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Memnarch, the Warden",
+            "id": "12",
+            "amount": 8,
+            "combat": true,
+            "target": "Ai(4)-b3-4036",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 40,
+            "round": 10,
+            "line": 1192
+          },
+          {
+            "source": "Archfiend of Despair",
+            "id": "91",
+            "amount": 6,
+            "combat": true,
+            "target": "Ai(4)-b3-4036",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 43,
+            "round": 11,
+            "line": 1363
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(4)-b3-4036",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 43,
+            "round": 11,
+            "line": 1364
+          },
+          {
+            "source": "Tekuthal, Inquiry Dominus",
+            "id": "71",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(4)-b3-4036",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 43,
+            "round": 11,
+            "line": 1365
+          },
+          {
+            "source": "Memnarch, the Warden",
+            "id": "12",
+            "amount": 8,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 45,
+            "round": 12,
+            "line": 1474
+          },
+          {
+            "source": "Archfiend of Despair",
+            "id": "91",
+            "amount": 6,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 45,
+            "round": 12,
+            "line": 1475
+          },
+          {
+            "source": "Darksteel Angel",
+            "id": "42",
+            "amount": 4,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 45,
+            "round": 12,
+            "line": 1476
+          },
+          {
+            "source": "Tekuthal, Inquiry Dominus",
+            "id": "71",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(3)-b3-7817483",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 45,
+            "round": 12,
+            "line": 1477
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "Sulfurous Springs",
+            "id": "28",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 17,
+            "round": 5,
+            "line": 348
+          },
+          {
+            "source": "Battlefield Forge",
+            "id": "32",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 21,
+            "round": 6,
+            "line": 457
+          },
+          {
+            "source": "Battlefield Forge",
+            "id": "32",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 33,
+            "round": 9,
+            "line": 888
+          },
+          {
+            "source": "Yennett, Cryptic Sovereign",
+            "id": "403",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 4,
+            "turn": 39,
+            "round": 10,
+            "line": 1113
+          },
+          {
+            "source": "Orc Army Token",
+            "id": "449",
+            "amount": 3,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.8-codex-owned-engine",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 41,
+            "round": 11,
+            "line": 1228
+          }
+        ]
+      },
+      "jaceLoss": null,
+      "automatedReview": [
+        "Jace is the logged winner; casts and damage are evidence of activity, not proof of which card caused the win.",
+        "Largest logged damage to opponents from last-known Jace-controlled combat sources: Tekuthal, Inquiry Dominus 25; Memnarch, the Warden 16; Archfiend of Despair 12.",
+        "Largest logged damage to Jace: Yennett, Cryptic Sovereign 3; Orc Army Token 3; Battlefield Forge 2.",
+        "Jace -3 resolved 3 time(s). Revealed hits are unavailable in ordinary logs; candidates are not confirmations."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Sunfall",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        }
+      ],
+      "codexInterpretation": "Jace used three -3 abilities, with cost-adjacent evidence identifying an Insect, a Myr and a Servo. Four token blocking appearances also appear in the log. Jace won without either added owned card being recorded as cast. This shows the baseline token infrastructure can supply the engine in a winning candidate game; it does not show that the additions caused this particular win or that they were absent from all board activity."
+    },
+    {
+      "schemaVersion": 2,
+      "key": "v0.1-real/2026-10-30035804-rtcombo-smart-politics-keeptokens-10/pod01-g1.log",
+      "version": "v0.1-real",
+      "run": "2026-10-30035804-rtcombo-smart-politics-keeptokens-10",
+      "pod": "pod01",
+      "game": 1,
+      "source": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30035804-rtcombo-smart-politics-keeptokens-10/logs/pod01-g1.log",
+      "sourceMtimeMs": 1793332730399.3306,
+      "sourceSize": 76908,
+      "sourceSha256": "0853bcfb36301c1b34b7ada62ad2d460fc3e4f64377a3e129638a90ee3cdc6c3",
+      "reviewedAt": "2026-10-30T03:58:53.727Z",
+      "resultLine": "Game Result: ended in 37418 ms. Ai(2)-b3-313935 has won!",
+      "winner": {
+        "seat": 2,
+        "deck": "b3-313935"
+      },
+      "disposition": "jace_loss",
+      "reportedWin": false,
+      "explicitDraw": false,
+      "runtimeMs": 37418,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 44,
+      "rounds": 11,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 2,
+        "recasts": 1,
+        "minus3Uses": 1,
+        "minus3": [
+          {
+            "turn": 22,
+            "round": 6,
+            "line": 470,
+            "exiled": [
+              {
+                "card": "Illusion Token",
+                "id": "414",
+                "line": 468,
+                "attribution": "adjacent_cost_inference"
+              }
+            ],
+            "hit": null,
+            "hitCandidates": [
+              {
+                "card": "Silver Surfer, Galactus's Herald",
+                "line": 471,
+                "inference": "followup_trigger_or_entry_text_not_proof"
+              }
+            ],
+            "limitation": "Ordinary Forge text does not reliably log the revealed card. Hit stays null; follow-up triggers are clues only."
+          }
+        ]
+      },
+      "tokens": {
+        "attacks": 0,
+        "attackDeclarations": 0,
+        "blocks": 0,
+        "blockDeclarations": 0,
+        "knownControlledDeaths": 0,
+        "unknownOwnerDeaths": 0,
+        "allPlayersDeaths": 1,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [],
+        "deaths": [
+          {
+            "card": "Beast Token",
+            "id": "409",
+            "lastKnownController": 2,
+            "turn": 23,
+            "line": 505
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Path to Exile": 1,
+          "Brainstorm": 1,
+          "Chromatic Lantern": 1,
+          "The Theorist, Jace Beleren": 1,
+          "Jace, Multiverse Architect": 2,
+          "Despark": 1,
+          "Rakdos Signet": 1,
+          "Fellwar Stone": 1,
+          "Sol Ring": 1,
+          "Talisman of Progress": 1,
+          "Loyal Tutor": 1,
+          "Elspeth, Sun's Champion": 1,
+          "Saheeli, Sublime Artificer": 1,
+          "Avacyn, Angel of Hope": 1,
+          "Fatehold Charm": 1
+        },
+        "castEvents": [
+          {
+            "card": "Path to Exile",
+            "turn": 10,
+            "round": 3,
+            "line": 183
+          },
+          {
+            "card": "Brainstorm",
+            "turn": 11,
+            "round": 3,
+            "line": 205
+          },
+          {
+            "card": "Chromatic Lantern",
+            "turn": 14,
+            "round": 4,
+            "line": 262
+          },
+          {
+            "card": "The Theorist, Jace Beleren",
+            "turn": 18,
+            "round": 5,
+            "line": 351
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 22,
+            "round": 6,
+            "line": 465
+          },
+          {
+            "card": "Despark",
+            "turn": 26,
+            "round": 7,
+            "line": 587
+          },
+          {
+            "card": "Rakdos Signet",
+            "turn": 26,
+            "round": 7,
+            "line": 607
+          },
+          {
+            "card": "Fellwar Stone",
+            "turn": 26,
+            "round": 7,
+            "line": 611
+          },
+          {
+            "card": "Sol Ring",
+            "turn": 26,
+            "round": 7,
+            "line": 614
+          },
+          {
+            "card": "Talisman of Progress",
+            "turn": 26,
+            "round": 7,
+            "line": 617
+          },
+          {
+            "card": "Loyal Tutor",
+            "turn": 26,
+            "round": 7,
+            "line": 624
+          },
+          {
+            "card": "Elspeth, Sun's Champion",
+            "turn": 30,
+            "round": 8,
+            "line": 755
+          },
+          {
+            "card": "Saheeli, Sublime Artificer",
+            "turn": 30,
+            "round": 8,
+            "line": 765
+          },
+          {
+            "card": "Avacyn, Angel of Hope",
+            "turn": 34,
+            "round": 9,
+            "line": 902
+          },
+          {
+            "card": "Fatehold Charm",
+            "turn": 38,
+            "round": 10,
+            "line": 1027
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 38,
+            "round": 10,
+            "line": 1059
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Plains",
+            "id": "97",
+            "turn": 2,
+            "round": 1,
+            "line": 31
+          },
+          {
+            "card": "Restless Spire",
+            "id": "83",
+            "turn": 6,
+            "round": 2,
+            "line": 98
+          },
+          {
+            "card": "Fabled Passage",
+            "id": "86",
+            "turn": 10,
+            "round": 3,
+            "line": 171
+          },
+          {
+            "card": "Mystic Gate",
+            "id": "11",
+            "turn": 22,
+            "round": 6,
+            "line": 450
+          },
+          {
+            "card": "Underground River",
+            "id": "53",
+            "turn": 26,
+            "round": 7,
+            "line": 592
+          },
+          {
+            "card": "Command Tower",
+            "id": "67",
+            "turn": 30,
+            "round": 8,
+            "line": 737
+          },
+          {
+            "card": "Kher Keep",
+            "id": "76",
+            "turn": 34,
+            "round": 9,
+            "line": 876
+          },
+          {
+            "card": "Glacial Fortress",
+            "id": "29",
+            "turn": 38,
+            "round": 10,
+            "line": 1031
+          }
+        ],
+        "seenInHand": [
+          "Archfiend of Despair",
+          "Avacyn, Angel of Hope",
+          "Brainstorm",
+          "Chromatic Lantern",
+          "Command Tower",
+          "Despark",
+          "Dimir Signet",
+          "Elspeth, Sun's Champion",
+          "Fabled Passage",
+          "Fatehold Charm",
+          "Fellwar Stone",
+          "Galactus, Devourer of Worlds",
+          "Glacial Fortress",
+          "Kher Keep",
+          "Loyal Tutor",
+          "Mystic Gate",
+          "Nicol Bolas, Dragon-God",
+          "Path to Exile",
+          "Plains",
+          "Rakdos Signet",
+          "Restless Spire",
+          "Saheeli, Sublime Artificer",
+          "Serra's Emissary",
+          "Sol Ring",
+          "Swamp",
+          "Synthetic Destiny",
+          "Talisman of Progress",
+          "The Theorist, Jace Beleren",
+          "Turbulent Crater",
+          "Underground River",
+          "White Sun's Twilight"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Archfiend of Despair",
+          "Dimir Signet",
+          "Galactus, Devourer of Worlds",
+          "Nicol Bolas, Dragon-God",
+          "Serra's Emissary",
+          "Swamp",
+          "Synthetic Destiny",
+          "Turbulent Crater",
+          "White Sun's Twilight"
+        ],
+        "lastRecordedHand": [],
+        "lastNonemptySnapshot": {
+          "a": 1094,
+          "hand": [
+            [
+              "1",
+              "Nicol Bolas, Dragon-God"
+            ]
+          ]
+        },
+        "handSnapshots": 66,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "Ghalta, Primal Hunger",
+            "amount": 32
+          },
+          {
+            "card": "Kogla, the Titan Ape",
+            "amount": 9
+          },
+          {
+            "card": "Beast Token",
+            "amount": 6
+          },
+          {
+            "card": "Runadi, Behemoth Caller",
+            "amount": 2
+          },
+          {
+            "card": "Talisman of Progress",
+            "amount": 1
+          },
+          {
+            "card": "Human Token",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Avacyn, Angel of Hope",
+            "amount": 8
+          },
+          {
+            "card": "Restless Spire",
+            "amount": 2
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Restless Spire",
+            "id": "83",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 34,
+            "round": 9,
+            "line": 890
+          },
+          {
+            "source": "Avacyn, Angel of Hope",
+            "id": "85",
+            "amount": 8,
+            "combat": true,
+            "target": "Ai(2)-b3-313935",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 38,
+            "round": 10,
+            "line": 1048
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "Runadi, Behemoth Caller",
+            "id": "164",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 31,
+            "round": 8,
+            "line": 800
+          },
+          {
+            "source": "Ghalta, Primal Hunger",
+            "id": "201",
+            "amount": 12,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 35,
+            "round": 9,
+            "line": 941
+          },
+          {
+            "source": "Ghalta, Primal Hunger",
+            "id": "201",
+            "amount": 20,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1103
+          },
+          {
+            "source": "Kogla, the Titan Ape",
+            "id": "185",
+            "amount": 9,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1104
+          },
+          {
+            "source": "Beast Token",
+            "id": "419",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1105
+          },
+          {
+            "source": "Beast Token",
+            "id": "427",
+            "amount": 3,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1106
+          },
+          {
+            "source": "Runadi, Behemoth Caller",
+            "id": "164",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1107
+          },
+          {
+            "source": "Human Token",
+            "id": "442",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 39,
+            "round": 10,
+            "line": 1108
+          }
+        ]
+      },
+      "jaceLoss": {
+        "reason": "life total reached 0",
+        "line": 1307
+      },
+      "automatedReview": [
+        "Jace lost: life total reached 0.",
+        "Largest logged damage to Jace: Ghalta, Primal Hunger 32; Kogla, the Titan Ape 9; Beast Token 6.",
+        "Jace -3 resolved 1 time(s). Revealed hits are unavailable in ordinary logs; candidates are not confirmations."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Synthetic Destiny",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        }
+      ],
+      "codexInterpretation": "The final incoming combat included Ghalta for 20, Kogla for 9, two Beast hits of 3, plus other attackers (lines 1103\u20131108). Jace had been cast twice and used -3 once. This is a multi-threat combat loss, not evidence that a single removal spell was never drawn or would automatically have saved the game. The run is the newly labeled C7 Arm A calibration control, not a demonstrated combo-aware upgrade."
+    },
+    {
+      "schemaVersion": 2,
+      "key": "v0.1-real/2026-10-30035804-rtcombo-smart-politics-keeptokens-10/pod06-g1.log",
+      "version": "v0.1-real",
+      "run": "2026-10-30035804-rtcombo-smart-politics-keeptokens-10",
+      "pod": "pod06",
+      "game": 1,
+      "source": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30035804-rtcombo-smart-politics-keeptokens-10/logs/pod06-g1.log",
+      "sourceMtimeMs": 1793332780555.6748,
+      "sourceSize": 105174,
+      "sourceSha256": "a4e7d2a27f45d50f0cff20a9d96a0c44aafaafeb1198fa3c8f68d3a75e6c6b90",
+      "reviewedAt": "2026-10-30T03:59:53.728Z",
+      "resultLine": "Game Result: ended in 44913 ms. Ai(1)-jace-v0.1-real has won!",
+      "winner": {
+        "seat": 1,
+        "deck": "jace-v0.1-real"
+      },
+      "disposition": "jace_win",
+      "reportedWin": true,
+      "explicitDraw": false,
+      "runtimeMs": 44913,
+      "timeoutSuspected": false,
+      "multipleWinners": false,
+      "flags": [],
+      "turns": 54,
+      "rounds": 14,
+      "roundMethod": "ceil(global turn counter / 4), same as gauntlet.js; not exact personal turns after eliminations",
+      "jace": {
+        "casts": 1,
+        "recasts": 0,
+        "minus3Uses": 0,
+        "minus3": []
+      },
+      "tokens": {
+        "attacks": 37,
+        "attackDeclarations": 2,
+        "blocks": 8,
+        "blockDeclarations": 4,
+        "knownControlledDeaths": 1,
+        "unknownOwnerDeaths": 3,
+        "allPlayersDeaths": 7,
+        "limitation": "Token counts use named tokens and IDs visible in logs. Death ownership is known only after logged control evidence; no attack/block count proves power <=2. Counts are appearances/events, not unique creatures.",
+        "combat": [
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Illusion Token",
+                "id": "412"
+              }
+            ],
+            "target": "The Queen of Dale (120)",
+            "turn": 18,
+            "line": 342
+          },
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Cadet",
+                "id": "435"
+              }
+            ],
+            "target": "Goblin Electromancer (250)",
+            "turn": 44,
+            "line": 1123
+          },
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Soldier Token",
+                "id": "422"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "423"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "424"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "429"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "430"
+              }
+            ],
+            "target": "Orc Army Token (442)",
+            "turn": 44,
+            "line": 1125
+          },
+          {
+            "action": "block",
+            "tokens": [
+              {
+                "name": "Soldier Token",
+                "id": "422"
+              }
+            ],
+            "target": "Human Token (456)",
+            "turn": 48,
+            "line": 1286
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Cadet",
+                "id": "435"
+              },
+              {
+                "name": "Cadet",
+                "id": "439"
+              },
+              {
+                "name": "Cadet",
+                "id": "446"
+              },
+              {
+                "name": "Cadet",
+                "id": "452"
+              },
+              {
+                "name": "Cadet",
+                "id": "460"
+              },
+              {
+                "name": "Cadet",
+                "id": "466"
+              },
+              {
+                "name": "Cadet",
+                "id": "469"
+              },
+              {
+                "name": "Cadet",
+                "id": "476"
+              },
+              {
+                "name": "Cadet",
+                "id": "478"
+              },
+              {
+                "name": "Cadet",
+                "id": "483"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "422"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "423"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "424"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "429"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "430"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "431"
+              }
+            ],
+            "target": "Ai(3)-b3-7817483",
+            "turn": 52,
+            "line": 1481
+          },
+          {
+            "action": "attack",
+            "tokens": [
+              {
+                "name": "Cadet",
+                "id": "435"
+              },
+              {
+                "name": "Cadet",
+                "id": "439"
+              },
+              {
+                "name": "Cadet",
+                "id": "446"
+              },
+              {
+                "name": "Cadet",
+                "id": "452"
+              },
+              {
+                "name": "Cadet",
+                "id": "460"
+              },
+              {
+                "name": "Cadet",
+                "id": "466"
+              },
+              {
+                "name": "Cadet",
+                "id": "469"
+              },
+              {
+                "name": "Cadet",
+                "id": "476"
+              },
+              {
+                "name": "Cadet",
+                "id": "478"
+              },
+              {
+                "name": "Cadet",
+                "id": "483"
+              },
+              {
+                "name": "Cadet",
+                "id": "488"
+              },
+              {
+                "name": "Cadet",
+                "id": "491"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "422"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "423"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "424"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "429"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "430"
+              },
+              {
+                "name": "Soldier Token",
+                "id": "431"
+              },
+              {
+                "name": "Spirit Token",
+                "id": "493"
+              },
+              {
+                "name": "Spirit Token",
+                "id": "494"
+              },
+              {
+                "name": "Spirit Token",
+                "id": "495"
+              }
+            ],
+            "target": "Ai(4)-b3-4133378",
+            "turn": 54,
+            "line": 1604
+          }
+        ],
+        "deaths": [
+          {
+            "card": "Illusion Token",
+            "id": "412",
+            "lastKnownController": 1,
+            "turn": 18,
+            "line": 349
+          },
+          {
+            "card": "Orc Army Token",
+            "id": "442",
+            "lastKnownController": 3,
+            "turn": 44,
+            "line": 1144
+          },
+          {
+            "card": "Orc Army Token",
+            "id": "454",
+            "lastKnownController": 3,
+            "turn": 47,
+            "line": 1257
+          },
+          {
+            "card": "Human Token",
+            "id": "456",
+            "lastKnownController": 4,
+            "turn": 48,
+            "line": 1291
+          },
+          {
+            "card": "Orc Army Token",
+            "id": "462",
+            "lastKnownController": null,
+            "turn": 49,
+            "line": 1371
+          },
+          {
+            "card": "Jace Token",
+            "id": "417",
+            "lastKnownController": null,
+            "turn": 52,
+            "line": 1466
+          },
+          {
+            "card": "Jace Token",
+            "id": "485",
+            "lastKnownController": null,
+            "turn": 52,
+            "line": 1554
+          }
+        ]
+      },
+      "cards": {
+        "castCounts": {
+          "Flux Channeler": 1,
+          "The Theorist, Jace Beleren": 1,
+          "Tekuthal, Inquiry Dominus": 1,
+          "Fatehold Charm": 1,
+          "Plan for All Outcomes": 1,
+          "Jace, Multiverse Architect": 1,
+          "Saheeli, Sublime Artificer": 1,
+          "Elspeth, Sun's Champion": 1,
+          "Dreamtide Whale": 1,
+          "Swords to Plowshares": 1,
+          "Fellwar Stone": 1,
+          "Way of the Healer": 1,
+          "Nicol Bolas, Dragon-God": 1,
+          "Avacyn, Angel of Hope": 1,
+          "Staff of Compleation": 1,
+          "Stroke of Midnight": 1,
+          "Jhoira, Weatherlight Corsair": 1,
+          "Ajani Unrelenting": 1,
+          "Teferi, Hero of Dominaria": 1,
+          "Occult Epiphany": 1
+        },
+        "castEvents": [
+          {
+            "card": "Flux Channeler",
+            "turn": 13,
+            "round": 4,
+            "line": 239
+          },
+          {
+            "card": "The Theorist, Jace Beleren",
+            "turn": 17,
+            "round": 5,
+            "line": 316
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "turn": 21,
+            "round": 6,
+            "line": 426
+          },
+          {
+            "card": "Fatehold Charm",
+            "turn": 25,
+            "round": 7,
+            "line": 529
+          },
+          {
+            "card": "Plan for All Outcomes",
+            "turn": 28,
+            "round": 7,
+            "line": 637
+          },
+          {
+            "card": "Jace, Multiverse Architect",
+            "turn": 31,
+            "round": 8,
+            "line": 699
+          },
+          {
+            "card": "Saheeli, Sublime Artificer",
+            "turn": 31,
+            "round": 8,
+            "line": 708
+          },
+          {
+            "card": "Elspeth, Sun's Champion",
+            "turn": 34,
+            "round": 9,
+            "line": 795
+          },
+          {
+            "card": "Dreamtide Whale",
+            "turn": 34,
+            "round": 9,
+            "line": 808
+          },
+          {
+            "card": "Swords to Plowshares",
+            "turn": 37,
+            "round": 10,
+            "line": 865
+          },
+          {
+            "card": "Fellwar Stone",
+            "turn": 37,
+            "round": 10,
+            "line": 897
+          },
+          {
+            "card": "Way of the Healer",
+            "turn": 37,
+            "round": 10,
+            "line": 903
+          },
+          {
+            "card": "Nicol Bolas, Dragon-God",
+            "turn": 40,
+            "round": 10,
+            "line": 991
+          },
+          {
+            "card": "Avacyn, Angel of Hope",
+            "turn": 43,
+            "round": 11,
+            "line": 1095
+          },
+          {
+            "card": "Staff of Compleation",
+            "turn": 43,
+            "round": 11,
+            "line": 1102
+          },
+          {
+            "card": "Stroke of Midnight",
+            "turn": 46,
+            "round": 12,
+            "line": 1195
+          },
+          {
+            "card": "Jhoira, Weatherlight Corsair",
+            "turn": 46,
+            "round": 12,
+            "line": 1230
+          },
+          {
+            "card": "Ajani Unrelenting",
+            "turn": 49,
+            "round": 13,
+            "line": 1351
+          },
+          {
+            "card": "Teferi, Hero of Dominaria",
+            "turn": 52,
+            "round": 13,
+            "line": 1543
+          },
+          {
+            "card": "Occult Epiphany",
+            "turn": 52,
+            "round": 13,
+            "line": 1563
+          }
+        ],
+        "landsPlayed": [
+          {
+            "card": "Restless Spire",
+            "id": "83",
+            "turn": 1,
+            "round": 1,
+            "line": 18
+          },
+          {
+            "card": "Swamp",
+            "id": "79",
+            "turn": 5,
+            "round": 2,
+            "line": 80
+          },
+          {
+            "card": "Theorix Annex",
+            "id": "42",
+            "turn": 9,
+            "round": 3,
+            "line": 153
+          },
+          {
+            "card": "Sunken Ruins",
+            "id": "46",
+            "turn": 13,
+            "round": 4,
+            "line": 228
+          },
+          {
+            "card": "Shivan Reef",
+            "id": "56",
+            "turn": 17,
+            "round": 5,
+            "line": 304
+          },
+          {
+            "card": "Mountain",
+            "id": "94",
+            "turn": 21,
+            "round": 6,
+            "line": 414
+          },
+          {
+            "card": "Fabled Passage",
+            "id": "86",
+            "turn": 25,
+            "round": 7,
+            "line": 523
+          },
+          {
+            "card": "Theorist's Sanctum",
+            "id": "43",
+            "turn": 28,
+            "round": 7,
+            "line": 613
+          },
+          {
+            "card": "Turbulent Wetlands",
+            "id": "78",
+            "turn": 31,
+            "round": 8,
+            "line": 714
+          },
+          {
+            "card": "Exotic Orchard",
+            "id": "19",
+            "turn": 34,
+            "round": 9,
+            "line": 781
+          },
+          {
+            "card": "Drowned Catacomb",
+            "id": "37",
+            "turn": 49,
+            "round": 13,
+            "line": 1388
+          }
+        ],
+        "seenInHand": [
+          "Ajani Unrelenting",
+          "Aminatou, the Fateshifter",
+          "Avacyn, Angel of Hope",
+          "Brainsurge",
+          "Cursed Mirror",
+          "Dreamtide Whale",
+          "Drowned Catacomb",
+          "Elspeth, Sun's Champion",
+          "Exotic Orchard",
+          "Fabled Passage",
+          "Fatehold Charm",
+          "Fellwar Stone",
+          "Flux Channeler",
+          "Galactus, Devourer of Worlds",
+          "Jhoira, Weatherlight Corsair",
+          "Mountain",
+          "Nicol Bolas, Dragon-God",
+          "Occult Epiphany",
+          "Plan for All Outcomes",
+          "Restless Anchorage",
+          "Restless Spire",
+          "Saheeli, Sublime Artificer",
+          "Shivan Reef",
+          "Staff of Compleation",
+          "Stroke of Midnight",
+          "Sunken Ruins",
+          "Swamp",
+          "Swords to Plowshares",
+          "Synthetic Destiny",
+          "Teferi, Hero of Dominaria",
+          "Tekuthal, Inquiry Dominus",
+          "The Theorist, Jace Beleren",
+          "Theorist's Sanctum",
+          "Theorix Annex",
+          "Turbulent Wetlands",
+          "Way of the Healer",
+          "White Sun's Twilight"
+        ],
+        "seenNeverCastOrPlayed": [
+          "Aminatou, the Fateshifter",
+          "Brainsurge",
+          "Cursed Mirror",
+          "Galactus, Devourer of Worlds",
+          "Restless Anchorage",
+          "Synthetic Destiny",
+          "White Sun's Twilight"
+        ],
+        "lastRecordedHand": [
+          {
+            "id": "60",
+            "card": "Synthetic Destiny"
+          },
+          {
+            "id": "66",
+            "card": "Aminatou, the Fateshifter"
+          },
+          {
+            "id": "9",
+            "card": "Galactus, Devourer of Worlds"
+          }
+        ],
+        "lastNonemptySnapshot": {
+          "a": 1552,
+          "hand": [
+            [
+              "60",
+              "Synthetic Destiny"
+            ],
+            [
+              "66",
+              "Aminatou, the Fateshifter"
+            ],
+            [
+              "9",
+              "Galactus, Devourer of Worlds"
+            ]
+          ]
+        },
+        "handSnapshots": 71,
+        "malformedHandLines": 0,
+        "limitation": "Last recorded hand may precede elimination. Seen but uncast is not proof of being stranded or misplayed; cheats into play are not casts."
+      },
+      "damage": {
+        "biggestSourcesToJace": [
+          {
+            "card": "The Queen of Dale",
+            "amount": 2
+          },
+          {
+            "card": "Shivan Reef",
+            "amount": 2
+          },
+          {
+            "card": "Talisman of Indulgence",
+            "amount": 1
+          }
+        ],
+        "biggestKnownJaceSourcesToOpponents": [
+          {
+            "card": "Cadet",
+            "amount": 49
+          },
+          {
+            "card": "Avacyn, Angel of Hope",
+            "amount": 25
+          },
+          {
+            "card": "Soldier Token",
+            "amount": 18
+          },
+          {
+            "card": "Restless Spire",
+            "amount": 4
+          },
+          {
+            "card": "Tekuthal, Inquiry Dominus",
+            "amount": 3
+          },
+          {
+            "card": "Spirit Token",
+            "amount": 3
+          },
+          {
+            "card": "Flux Channeler",
+            "amount": 2
+          }
+        ],
+        "finalKnownOwnDamageEvents": [
+          {
+            "source": "Soldier Token",
+            "id": "423",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1658
+          },
+          {
+            "source": "Soldier Token",
+            "id": "424",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1659
+          },
+          {
+            "source": "Soldier Token",
+            "id": "429",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1660
+          },
+          {
+            "source": "Soldier Token",
+            "id": "430",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1661
+          },
+          {
+            "source": "Soldier Token",
+            "id": "431",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1662
+          },
+          {
+            "source": "Spirit Token",
+            "id": "493",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1663
+          },
+          {
+            "source": "Spirit Token",
+            "id": "494",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1664
+          },
+          {
+            "source": "Spirit Token",
+            "id": "495",
+            "amount": 1,
+            "combat": true,
+            "target": "Ai(4)-b3-4133378",
+            "toJacePlayer": false,
+            "sourceLastKnownController": 1,
+            "turn": 54,
+            "round": 14,
+            "line": 1665
+          }
+        ],
+        "finalIncomingEvents": [
+          {
+            "source": "The Queen of Dale",
+            "id": "120",
+            "amount": 2,
+            "combat": true,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": 2,
+            "turn": 14,
+            "round": 4,
+            "line": 255
+          },
+          {
+            "source": "Shivan Reef",
+            "id": "56",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 25,
+            "round": 7,
+            "line": 540
+          },
+          {
+            "source": "Shivan Reef",
+            "id": "56",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 28,
+            "round": 7,
+            "line": 631
+          },
+          {
+            "source": "Talisman of Indulgence",
+            "id": "216",
+            "amount": 1,
+            "combat": false,
+            "target": "Ai(1)-jace-v0.1-real",
+            "toJacePlayer": true,
+            "sourceLastKnownController": null,
+            "turn": 49,
+            "round": 13,
+            "line": 1345
+          }
+        ]
+      },
+      "jaceLoss": null,
+      "automatedReview": [
+        "Jace is the logged winner; casts and damage are evidence of activity, not proof of which card caused the win.",
+        "Largest logged damage to opponents from last-known Jace-controlled combat sources: Cadet 49; Avacyn, Angel of Hope 25; Soldier Token 18.",
+        "Largest logged damage to Jace: The Queen of Dale 2; Shivan Reef 2; Talisman of Indulgence 1.",
+        "No resolved Jace -3 detected; commander cast 1 time(s)."
+      ],
+      "aiReviewCandidates": [
+        {
+          "card": "Synthetic Destiny",
+          "issue": "seen_but_never_cast",
+          "confidence": "review_candidate_only",
+          "reason": "Known AI limitation; hand presence does not establish castability or a mistake."
+        }
+      ],
+      "codexInterpretation": "The current-deck control developed Flux Channeler, Tekuthal, token-producing walkers, Ajani and Avacyn, Angel of Hope. Late attacks carried numerous Cadets/Soldiers alongside Avacyn and Jhoira, and Jace won. No commander -3 resolved and the telemetry shows zero loop steps; this was not an Aminatou/Bolas infinite-combo win. Sisay was eliminated by poison from another player, so do not credit every opponent elimination to Jace\u2019s army."
+    }
+  ],
+  "sampleType": "six selected informative cases",
+  "matchedCleanPairs": 94,
+  "matchedWins": {
+    "baseline": 29,
+    "ownedEngine": 38
+  }
+}

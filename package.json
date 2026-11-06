@@ -1,0 +1,16 @@
+{
+  "name": "mtg-deck-builder",
+  "version": "1.0.0",
+  "description": "MTG Deck Builder: test and optimize Commander decks with Forge AI-vs-AI simulations, replays and agent-assisted reviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "scryfall-sdk": "^5.0.3"
+  }
+}

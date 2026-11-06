@@ -1,0 +1,98 @@
+card,games_drawn,games_cast,cast_rate_when_drawn,avg_round_cast,wr_drawn,wr_not_drawn,wr_cast,wr_drawn_not_cast
+Plains,8,6,0.75,6.8,0.125,0.500,0.167,0.000
+Mountain,4,4,1.00,6.0,0.250,0.167,0.250,
+Island,2,2,1.00,11.0,0.500,0.125,0.500,
+Swamp,6,3,0.50,7.0,0.167,0.250,0.333,0.000
+Command Tower,3,3,1.00,7.3,0.333,0.143,0.333,
+Restless Spire,5,5,1.00,3.6,0.400,0.000,0.400,
+Reflecting Pool,2,1,0.50,3.0,0.500,0.125,0.000,1.000
+Sunken Ruins,2,2,1.00,3.0,0.500,0.125,0.500,
+Contaminated Landscape,2,1,0.50,11.0,0.500,0.125,1.000,0.000
+Exotic Orchard,4,2,0.50,8.5,0.250,0.167,0.500,0.000
+Fetid Heath,2,2,1.00,6.5,0.000,0.250,0.000,
+Radiant Summit,2,1,0.50,3.0,0.000,0.250,0.000,0.000
+Perilous Landscape,2,1,0.50,7.0,0.000,0.250,0.000,0.000
+Innovative Commons,5,3,0.60,6.3,0.200,0.200,0.333,0.000
+Turbulent Shore,2,2,1.00,5.5,0.000,0.250,0.000,
+Underground River,5,5,1.00,3.6,0.000,0.400,0.000,
+Turbulent Wetlands,3,3,1.00,6.3,0.333,0.143,0.333,
+Restless Anchorage,5,3,0.60,9.3,0.200,0.200,0.333,0.000
+Isolated Chapel,3,3,1.00,2.7,0.333,0.143,0.333,
+Caves of Koilos,3,2,0.67,4.5,0.333,0.143,0.000,1.000
+Sulfur Falls,2,2,1.00,12.5,0.500,0.125,0.500,
+Room of Refuge,1,1,1.00,8.0,1.000,0.111,1.000,
+Clifftop Retreat,4,3,0.75,5.3,0.250,0.167,0.333,0.000
+Haunted Ridge,1,1,1.00,12.0,0.000,0.222,0.000,
+Kher Keep,3,3,1.00,4.7,0.000,0.286,0.000,
+Mystic Gate,4,4,1.00,9.3,0.250,0.167,0.250,
+Shivan Reef,2,2,1.00,4.5,0.500,0.125,0.500,
+Battlefield Forge,5,5,1.00,4.6,0.200,0.200,0.200,
+Fabled Passage,4,4,1.00,6.8,0.500,0.000,0.500,
+Theorix Annex,2,1,0.50,3.0,0.500,0.125,1.000,0.000
+Drowned Catacomb,2,0,0.00,,0.500,0.125,,0.500
+Theorist's Sanctum,4,4,1.00,3.5,0.500,0.000,0.500,
+Sulfurous Springs,3,2,0.67,3.5,0.000,0.286,0.000,0.000
+Glacial Fortress,4,2,0.50,11.5,0.250,0.167,0.500,0.000
+Path of Ancestry,1,1,1.00,5.0,0.000,0.222,0.000,
+Turbulent Crater,3,2,0.67,6.5,0.000,0.286,0.000,0.000
+Prairie Stream,3,3,1.00,1.7,0.000,0.286,0.000,
+Proteus Staff,2,1,0.50,4.0,0.000,0.250,0.000,0.000
+Staff of the Storyteller,2,1,0.50,4.0,0.000,0.250,0.000,0.000
+Fellwar Stone,4,3,0.75,8.0,0.250,0.167,0.333,0.000
+Arcane Signet,3,3,1.00,9.0,0.000,0.286,0.000,
+Cursed Mirror,2,1,0.50,4.0,1.000,0.000,1.000,1.000
+Lich's Relic,2,1,0.50,10.0,0.500,0.125,0.000,1.000
+Talisman of Indulgence,2,0,0.00,,0.000,0.250,,0.000
+Dimir Signet,3,2,0.67,3.5,0.000,0.286,0.000,0.000
+Talisman of Dominance,4,3,0.75,4.0,0.000,0.333,0.000,0.000
+Talisman of Creativity,3,2,0.67,11.0,0.333,0.143,0.500,0.000
+Sol Ring,4,3,0.75,6.3,0.000,0.333,0.000,0.000
+Staff of Compleation,4,3,0.75,9.7,0.250,0.167,0.333,0.000
+Chromatic Lantern,2,1,0.50,4.0,0.000,0.250,0.000,0.000
+Rakdos Signet,5,5,1.00,5.2,0.000,0.400,0.000,
+Azorius Signet,0,0,,,,0.200,,
+Talisman of Progress,4,3,0.75,6.3,0.000,0.333,0.000,0.000
+Izzet Signet,3,2,0.67,10.5,0.333,0.143,0.500,0.000
+Plan for All Outcomes,5,4,0.80,6.3,0.200,0.200,0.250,0.000
+Way of the Healer,1,1,1.00,10.0,1.000,0.111,1.000,
+Sunfall,2,0,0.00,,0.000,0.250,,0.000
+Overwrite the Multiverse,4,0,0.00,,0.250,0.167,,0.250
+Lingering Souls,2,1,0.50,6.0,0.000,0.250,0.000,0.000
+White Sun's Twilight,6,2,0.33,9.0,0.333,0.000,0.500,0.250
+Martial Coup,2,0,0.00,,0.500,0.125,,0.500
+Occult Epiphany,4,3,0.75,7.7,0.250,0.167,0.333,0.000
+Fatehold Charm,5,3,0.60,6.7,0.200,0.200,0.333,0.000
+Swords to Plowshares,1,1,1.00,10.0,1.000,0.111,1.000,
+Theorix Charm,2,1,0.50,10.0,0.000,0.250,0.000,0.000
+Stroke of Midnight,4,3,0.75,9.0,0.250,0.167,0.333,0.000
+Flawless Maneuver,2,1,0.50,7.0,0.500,0.125,0.000,1.000
+Synthetic Destiny,6,1,0.17,14.0,0.333,0.000,0.000,0.400
+Secure the Wastes,4,1,0.25,9.0,0.250,0.167,0.000,0.333
+Brainstorm,2,2,1.00,2.0,0.000,0.250,0.000,
+Brainsurge,2,1,0.50,13.0,1.000,0.000,1.000,1.000
+Loyal Tutor,4,3,0.75,9.3,0.250,0.167,0.333,0.000
+Despark,6,4,0.67,7.5,0.167,0.250,0.000,0.500
+Grand Crescendo,4,0,0.00,,0.250,0.167,,0.250
+Path to Exile,2,2,1.00,3.5,0.000,0.250,0.000,
+"Memnarch, the Warden",1,0,0.00,,0.000,0.222,,0.000
+"Tekuthal, Inquiry Dominus",4,3,0.75,4.7,0.500,0.000,0.667,0.000
+"Galactus, Devourer of Worlds",7,2,0.29,10.0,0.286,0.000,0.500,0.200
+"Avacyn, Angel of Horror",2,0,0.00,,0.500,0.125,,0.500
+Archon of Cruelty,2,0,0.00,,0.500,0.125,,0.500
+"Teferi, Hero of Dominaria",2,1,0.50,14.0,0.500,0.125,1.000,0.000
+"Nissa, Leyline Tamer",3,2,0.67,11.0,0.333,0.143,0.000,1.000
+"Aminatou, the Fateshifter",2,1,0.50,3.0,0.500,0.125,0.000,1.000
+"Elspeth, Sun's Champion",7,5,0.71,7.6,0.286,0.000,0.400,0.000
+"Saheeli, Sublime Artificer",5,3,0.60,8.3,0.200,0.200,0.333,0.000
+Dreamtide Whale,2,1,0.50,9.0,0.500,0.125,1.000,0.000
+Overlord of the Mistmoors,4,2,0.50,9.5,0.250,0.167,0.500,0.000
+"Nicol Bolas, Dragon-God",5,2,0.40,10.0,0.400,0.000,0.500,0.333
+Ajani Unrelenting,3,3,1.00,11.7,0.667,0.000,0.667,
+"Silver Surfer, Galactus's Herald",3,2,0.67,9.5,0.333,0.143,0.500,0.000
+"The Theorist, Jace Beleren",6,5,0.83,5.8,0.333,0.000,0.400,0.000
+"Avacyn, Angel of Hope",6,3,0.50,9.0,0.333,0.000,0.333,0.333
+"Jhoira, Weatherlight Corsair",6,2,0.33,9.5,0.167,0.250,0.500,0.000
+Triplicate Titan,1,0,0.00,,1.000,0.111,,1.000
+Serra's Emissary,3,0,0.00,,0.000,0.286,,0.000
+Archfiend of Despair,4,2,0.50,8.5,0.000,0.333,0.000,0.000
+Flux Channeler,5,4,0.80,6.0,0.200,0.200,0.250,0.000

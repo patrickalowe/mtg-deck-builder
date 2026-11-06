@@ -1,0 +1,198 @@
+{
+ "description": "C16 baseline batch 4 of 5: distinct opponent group (no deck shared with other batches), 20 balanced pods, own seeds. Built 2026-10-30.",
+ "decks": {
+  "13631413": "Chatterfang, Squirrel General",
+  "12909909": "Aragorn, the Uniter",
+  "19195170": "Ashling, the Limitless",
+  "24662123": "Thranduil, the Elvenking",
+  "3811989": "Jon Irenicus, Shattered One",
+  "8376777": "Zimone, Mystery Unraveler",
+  "2154401": "Tovolar, Dire Overlord",
+  "15073736": "Lathril, Blade of the Elves",
+  "9115716": "Malfegor",
+  "4567200": "Pia Nalaar, Consul of Revival",
+  "3047743": "Krenko, Mob Boss"
+ },
+ "pods": [
+  {
+   "id": "b4pod01",
+   "opponents": [
+    "12909909",
+    "2154401",
+    "3047743"
+   ],
+   "seed": 3401000
+  },
+  {
+   "id": "b4pod02",
+   "opponents": [
+    "13631413",
+    "19195170",
+    "9115716"
+   ],
+   "seed": 3402000
+  },
+  {
+   "id": "b4pod03",
+   "opponents": [
+    "3811989",
+    "4567200",
+    "8376777"
+   ],
+   "seed": 3403000
+  },
+  {
+   "id": "b4pod04",
+   "opponents": [
+    "12909909",
+    "24662123",
+    "8376777"
+   ],
+   "seed": 3404000
+  },
+  {
+   "id": "b4pod05",
+   "opponents": [
+    "19195170",
+    "3811989",
+    "4567200"
+   ],
+   "seed": 3405000
+  },
+  {
+   "id": "b4pod06",
+   "opponents": [
+    "13631413",
+    "3047743",
+    "9115716"
+   ],
+   "seed": 3406000
+  },
+  {
+   "id": "b4pod07",
+   "opponents": [
+    "15073736",
+    "2154401",
+    "24662123"
+   ],
+   "seed": 3407000
+  },
+  {
+   "id": "b4pod08",
+   "opponents": [
+    "13631413",
+    "3047743",
+    "4567200"
+   ],
+   "seed": 3408000
+  },
+  {
+   "id": "b4pod09",
+   "opponents": [
+    "2154401",
+    "3811989",
+    "8376777"
+   ],
+   "seed": 3409000
+  },
+  {
+   "id": "b4pod10",
+   "opponents": [
+    "12909909",
+    "15073736",
+    "24662123"
+   ],
+   "seed": 3410000
+  },
+  {
+   "id": "b4pod11",
+   "opponents": [
+    "15073736",
+    "4567200",
+    "9115716"
+   ],
+   "seed": 3411000
+  },
+  {
+   "id": "b4pod12",
+   "opponents": [
+    "19195170",
+    "24662123",
+    "3811989"
+   ],
+   "seed": 3412000
+  },
+  {
+   "id": "b4pod13",
+   "opponents": [
+    "12909909",
+    "15073736",
+    "8376777"
+   ],
+   "seed": 3413000
+  },
+  {
+   "id": "b4pod14",
+   "opponents": [
+    "13631413",
+    "19195170",
+    "2154401"
+   ],
+   "seed": 3414000
+  },
+  {
+   "id": "b4pod15",
+   "opponents": [
+    "12909909",
+    "3047743",
+    "9115716"
+   ],
+   "seed": 3415000
+  },
+  {
+   "id": "b4pod16",
+   "opponents": [
+    "19195170",
+    "24662123",
+    "9115716"
+   ],
+   "seed": 3416000
+  },
+  {
+   "id": "b4pod17",
+   "opponents": [
+    "15073736",
+    "3811989",
+    "8376777"
+   ],
+   "seed": 3417000
+  },
+  {
+   "id": "b4pod18",
+   "opponents": [
+    "13631413",
+    "2154401",
+    "3047743"
+   ],
+   "seed": 3418000
+  },
+  {
+   "id": "b4pod19",
+   "opponents": [
+    "15073736",
+    "3811989",
+    "4567200"
+   ],
+   "seed": 3419000
+  },
+  {
+   "id": "b4pod20",
+   "opponents": [
+    "13631413",
+    "2154401",
+    "4567200"
+   ],
+   "seed": 3420000
+  }
+ ]
+}

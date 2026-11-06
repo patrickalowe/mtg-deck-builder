@@ -1,0 +1,831 @@
+{
+ "jace-original.txt": {
+  "validation": {
+   "totalCards": 100,
+   "isValid": true,
+   "errors": []
+  },
+  "stats": {
+   "manaCurve": {
+    "0": 0,
+    "1": 8,
+    "2": 18,
+    "3": 11,
+    "4": 4,
+    "5": 5,
+    "6+": 15
+   },
+   "averageCmcNonLand": 3.77,
+   "typeDistribution": {
+    "Creature": 15,
+    "Instant": 13,
+    "Sorcery": 5,
+    "Artifact": 17,
+    "Enchantment": 3,
+    "Planeswalker": 8,
+    "Land": 39,
+    "Battle": 0,
+    "Other": 0
+   },
+   "manaBase": {
+    "landTotal": 39,
+    "basicLands": 10,
+    "nonbasicLands": 29,
+    "sourcesByColor": {
+     "W": 22,
+     "U": 23,
+     "B": 15,
+     "R": 13,
+     "G": 7
+    },
+    "manaRocksCount": 10,
+    "rampSpellsCount": 0
+   },
+   "pipsVsSources": {
+    "W": {
+     "pips": 32,
+     "sources": 22,
+     "warning": false
+    },
+    "U": {
+     "pips": 20,
+     "sources": 23,
+     "warning": false
+    },
+    "B": {
+     "pips": 21,
+     "sources": 15,
+     "warning": false
+    },
+    "R": {
+     "pips": 7,
+     "sources": 13,
+     "warning": false
+    },
+    "G": {
+     "pips": 0,
+     "sources": 7,
+     "warning": false
+    }
+   },
+   "edhrecTopRanked": [
+    "Sol Ring (#1)",
+    "Command Tower (#2)",
+    "Arcane Signet (#3)",
+    "Exotic Orchard (#9)",
+    "Swords to Plowshares (#11)",
+    "Path of Ancestry (#14)",
+    "Path to Exile (#15)",
+    "Fellwar Stone (#17)",
+    "Fabled Passage (#41)",
+    "Brainstorm (#72)"
+   ],
+   "edhrecBottomOrUnranked": [
+    "Plains (unranked)",
+    "Island (unranked)",
+    "Swamp (unranked)",
+    "Mountain (unranked)",
+    "Theorix Charm (19230)",
+    "Way of the Healer (16261)",
+    "Silver Surfer, Galactus's Herald (15845)",
+    "Plan for All Outcomes (13581)",
+    "Jhoira, Weatherlight Corsair (13481)",
+    "Overwrite the Multiverse (13173)"
+   ]
+  },
+  "combos": {
+   "included": [],
+   "almostIncludedOneCardAway": [
+    {
+     "cards": [
+      "Astral Dragon",
+      "Cursed Mirror"
+     ],
+     "missing": [
+      "Astral Dragon"
+     ],
+     "results": [
+      "Infinite copies of noncreature permanents you control",
+      "Infinite creature tokens with haste",
+      "Infinite creature ETB"
+     ],
+     "popularity": 11040
+    },
+    {
+     "cards": [
+      "Aminatou, the Fateshifter",
+      "Nicol Bolas, Dragon-God",
+      "Oath of Teferi"
+     ],
+     "missing": [
+      "Oath of Teferi"
+     ],
+     "results": [
+      "Exile all of your opponents' permanents and hands",
+      "Infinite card draw",
+      "Infinite creature ETB",
+      "Infinite creature LTB"
+     ],
+     "popularity": 9466
+    },
+    {
+     "cards": [
+      "Aminatou, the Fateshifter",
+      "Felidar Guardian"
+     ],
+     "missing": [
+      "Felidar Guardian"
+     ],
+     "results": [
+      "Infinite creature ETB",
+      "Infinite creature LTB"
+     ],
+     "popularity": 6506
+    },
+    {
+     "cards": [
+      "Avacyn, Angel of Hope",
+      "Worldslayer"
+     ],
+     "missing": [
+      "Worldslayer"
+     ],
+     "results": [
+      "Destroy all permanents opponents control each turn",
+      "Lock",
+      "Mass Land Denial"
+     ],
+     "popularity": 4602
+    },
+    {
+     "cards": [
+      "Avacyn, Angel of Hope",
+      "Nevinyrral's Disk"
+     ],
+     "missing": [
+      "Nevinyrral's Disk"
+     ],
+     "results": [
+      "Destroy all creatures, artifacts, and enchantments opponents control on each of your turns"
+     ],
+     "popularity": 4575
+    },
+    {
+     "cards": [
+      "Unstoppable Slasher",
+      "Archfiend of Despair"
+     ],
+     "missing": [
+      "Unstoppable Slasher"
+     ],
+     "results": [
+      "Target opponent loses the game",
+      "Infinite lifeloss for target opponent"
+     ],
+     "popularity": 3811
+    },
+    {
+     "cards": [
+      "Nicol Bolas, Dragon-God",
+      "Aminatou, the Fateshifter",
+      "The Chain Veil"
+     ],
+     "missing": [
+      "The Chain Veil"
+     ],
+     "results": [
+      "Exile all permanents opponents control",
+      "Infinite planeswalker activations",
+      "Infinite card draw",
+      "Infinite draw triggers"
+     ],
+     "popularity": 3714
+    },
+    {
+     "cards": [
+      "Felidar Guardian",
+      "Cursed Mirror"
+     ],
+     "missing": [
+      "Felidar Guardian"
+     ],
+     "results": [
+      "Infinite creature ETB",
+      "Infinite creature LTB"
+     ],
+     "popularity": 3431
+    }
+   ],
+   "almostIncludedTotal": 40
+  }
+ },
+ "jace-updated.txt": {
+  "validation": {
+   "totalCards": 100,
+   "isValid": true,
+   "errors": []
+  },
+  "stats": {
+   "manaCurve": {
+    "0": 0,
+    "1": 7,
+    "2": 16,
+    "3": 9,
+    "4": 6,
+    "5": 6,
+    "6+": 17
+   },
+   "averageCmcNonLand": 4.02,
+   "typeDistribution": {
+    "Creature": 15,
+    "Instant": 15,
+    "Sorcery": 5,
+    "Artifact": 14,
+    "Enchantment": 4,
+    "Planeswalker": 8,
+    "Land": 39,
+    "Battle": 0,
+    "Other": 0
+   },
+   "manaBase": {
+    "landTotal": 39,
+    "basicLands": 10,
+    "nonbasicLands": 29,
+    "sourcesByColor": {
+     "W": 20,
+     "U": 21,
+     "B": 13,
+     "R": 11,
+     "G": 5
+    },
+    "manaRocksCount": 10,
+    "rampSpellsCount": 0
+   },
+   "pipsVsSources": {
+    "W": {
+     "pips": 29,
+     "sources": 20,
+     "warning": false
+    },
+    "U": {
+     "pips": 22,
+     "sources": 21,
+     "warning": false
+    },
+    "B": {
+     "pips": 23,
+     "sources": 13,
+     "warning": false
+    },
+    "R": {
+     "pips": 10,
+     "sources": 11,
+     "warning": false
+    },
+    "G": {
+     "pips": 0,
+     "sources": 5,
+     "warning": false
+    }
+   },
+   "edhrecTopRanked": [
+    "Sol Ring (#1)",
+    "Command Tower (#2)",
+    "Arcane Signet (#3)",
+    "Exotic Orchard (#9)",
+    "Swords to Plowshares (#11)",
+    "Path of Ancestry (#14)",
+    "Path to Exile (#15)",
+    "Fabled Passage (#41)",
+    "Cyclonic Rift (#58)",
+    "Brainstorm (#72)"
+   ],
+   "edhrecBottomOrUnranked": [
+    "Plains (unranked)",
+    "Island (unranked)",
+    "Swamp (unranked)",
+    "Mountain (unranked)",
+    "Way of the Healer (16261)",
+    "Silver Surfer, Galactus's Herald (15845)",
+    "Plan for All Outcomes (13581)",
+    "Jhoira, Weatherlight Corsair (13481)",
+    "Overwrite the Multiverse (13173)",
+    "Lich's Relic (12223)"
+   ]
+  },
+  "combos": {
+   "included": [],
+   "almostIncludedOneCardAway": [
+    {
+     "cards": [
+      "Astral Dragon",
+      "Cursed Mirror"
+     ],
+     "missing": [
+      "Astral Dragon"
+     ],
+     "results": [
+      "Infinite copies of noncreature permanents you control",
+      "Infinite creature tokens with haste",
+      "Infinite creature ETB"
+     ],
+     "popularity": 11040
+    },
+    {
+     "cards": [
+      "Aminatou, the Fateshifter",
+      "Nicol Bolas, Dragon-God",
+      "Oath of Teferi"
+     ],
+     "missing": [
+      "Oath of Teferi"
+     ],
+     "results": [
+      "Exile all of your opponents' permanents and hands",
+      "Infinite card draw",
+      "Infinite creature ETB",
+      "Infinite creature LTB"
+     ],
+     "popularity": 9466
+    },
+    {
+     "cards": [
+      "Aminatou, the Fateshifter",
+      "Felidar Guardian"
+     ],
+     "missing": [
+      "Felidar Guardian"
+     ],
+     "results": [
+      "Infinite creature ETB",
+      "Infinite creature LTB"
+     ],
+     "popularity": 6506
+    },
+    {
+     "cards": [
+      "Blightsteel Colossus",
+      "Chandra's Ignition"
+     ],
+     "missing": [
+      "Blightsteel Colossus"
+     ],
+     "results": [
+      "Each opponent loses the game"
+     ],
+     "popularity": 6390
+    },
+    {
+     "cards": [
+      "Avacyn, Angel of Hope",
+      "Worldslayer"
+     ],
+     "missing": [
+      "Worldslayer"
+     ],
+     "results": [
+      "Destroy all permanents opponents control each turn",
+      "Lock",
+      "Mass Land Denial"
+     ],
+     "popularity": 4602
+    },
+    {
+     "cards": [
+      "Avacyn, Angel of Hope",
+      "Nevinyrral's Disk"
+     ],
+     "missing": [
+      "Nevinyrral's Disk"
+     ],
+     "results": [
+      "Destroy all creatures, artifacts, and enchantments opponents control on each of your turns"
+     ],
+     "popularity": 4575
+    },
+    {
+     "cards": [
+      "Unstoppable Slasher",
+      "Archfiend of Despair"
+     ],
+     "missing": [
+      "Unstoppable Slasher"
+     ],
+     "results": [
+      "Target opponent loses the game",
+      "Infinite lifeloss for target opponent"
+     ],
+     "popularity": 3811
+    },
+    {
+     "cards": [
+      "Nicol Bolas, Dragon-God",
+      "Aminatou, the Fateshifter",
+      "The Chain Veil"
+     ],
+     "missing": [
+      "The Chain Veil"
+     ],
+     "results": [
+      "Exile all permanents opponents control",
+      "Infinite planeswalker activations",
+      "Infinite card draw",
+      "Infinite draw triggers"
+     ],
+     "popularity": 3714
+    }
+   ],
+   "almostIncludedTotal": 46
+  }
+ },
+ "wakanda-current.txt": {
+  "validation": {
+   "totalCards": 100,
+   "isValid": true,
+   "errors": []
+  },
+  "stats": {
+   "manaCurve": {
+    "0": 0,
+    "1": 4,
+    "2": 15,
+    "3": 7,
+    "4": 20,
+    "5": 11,
+    "6+": 5
+   },
+   "averageCmcNonLand": 3.74,
+   "typeDistribution": {
+    "Creature": 24,
+    "Instant": 7,
+    "Sorcery": 5,
+    "Artifact": 24,
+    "Enchantment": 2,
+    "Planeswalker": 0,
+    "Land": 38,
+    "Battle": 0,
+    "Other": 0
+   },
+   "manaBase": {
+    "landTotal": 38,
+    "basicLands": 24,
+    "nonbasicLands": 14,
+    "sourcesByColor": {
+     "W": 18,
+     "U": 4,
+     "B": 4,
+     "R": 4,
+     "G": 23
+    },
+    "manaRocksCount": 1,
+    "rampSpellsCount": 1
+   },
+   "pipsVsSources": {
+    "W": {
+     "pips": 27,
+     "sources": 18,
+     "warning": false
+    },
+    "U": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "B": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "R": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "G": {
+     "pips": 27,
+     "sources": 23,
+     "warning": false
+    }
+   },
+   "edhrecTopRanked": [
+    "Sol Ring (#1)",
+    "Command Tower (#2)",
+    "Arcane Signet (#3)",
+    "Swords to Plowshares (#11)",
+    "Swiftfoot Boots (#12)",
+    "Path of Ancestry (#14)",
+    "Evolving Wilds (#19)",
+    "Beast Within (#25)",
+    "Nature's Lore (#26)",
+    "Heroic Intervention (#28)"
+   ],
+   "edhrecBottomOrUnranked": [
+    "Plains (unranked)",
+    "Forest (unranked)",
+    "Traxos, Scourge Eternal (21678)",
+    "Black Panther, Vanguard (21118)",
+    "T'Chaka, Venerable King (20141)",
+    "Nakia, Wakandan Operative (19069)",
+    "M'Baku, Jabari Chieftain (19058)",
+    "W'Kabi, Shield of the Nation (18013)",
+    "Queen Mother Ramonda (17825)",
+    "Wakanda Forever! (17410)"
+   ]
+  },
+  "combos": {
+   "included": [],
+   "almostIncludedOneCardAway": [
+    {
+     "cards": [
+      "Swords to Plowshares",
+      "Jumbo Cactuar"
+     ],
+     "missing": [
+      "Jumbo Cactuar"
+     ],
+     "results": [
+      "Near-infinite lifegain"
+     ],
+     "popularity": 11921
+    },
+    {
+     "cards": [
+      "Loyal Retainers",
+      "Saffi Eriksdotter"
+     ],
+     "missing": [
+      "Saffi Eriksdotter"
+     ],
+     "results": [
+      "Infinite death triggers",
+      "Infinite creature ETB",
+      "Infinite creature LTB",
+      "Infinite creature sacrifice triggers"
+     ],
+     "popularity": 1619
+    },
+    {
+     "cards": [
+      "Apex Altisaur",
+      "Hammer of Nazahn"
+     ],
+     "missing": [
+      "Apex Altisaur"
+     ],
+     "results": [
+      "Infinite damage to most creatures"
+     ],
+     "popularity": 809
+    },
+    {
+     "cards": [
+      "Rosie Cotton of South Lane",
+      "Invisible Woman, Sue Storm"
+     ],
+     "missing": [
+      "Rosie Cotton of South Lane"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature",
+      "Infinite creature ETB",
+      "Infinite creature tokens"
+     ],
+     "popularity": 174
+    },
+    {
+     "cards": [
+      "Enduring Scalelord",
+      "Helm of the Host"
+     ],
+     "missing": [
+      "Enduring Scalelord"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature token with haste",
+      "Infinite +1/+1 counters on a creature"
+     ],
+     "popularity": 173
+    },
+    {
+     "cards": [
+      "Invisible Woman, Sue Storm",
+      "Bloodline Pretender"
+     ],
+     "missing": [
+      "Bloodline Pretender"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature",
+      "Infinite creature ETB",
+      "Infinite creature tokens"
+     ],
+     "popularity": 112
+    }
+   ],
+   "almostIncludedTotal": 6
+  }
+ },
+ "wakanda-proposed.txt": {
+  "validation": {
+   "totalCards": 100,
+   "isValid": true,
+   "errors": []
+  },
+  "stats": {
+   "manaCurve": {
+    "0": 0,
+    "1": 6,
+    "2": 13,
+    "3": 9,
+    "4": 21,
+    "5": 7,
+    "6+": 5
+   },
+   "averageCmcNonLand": 3.59,
+   "typeDistribution": {
+    "Creature": 22,
+    "Instant": 9,
+    "Sorcery": 6,
+    "Artifact": 22,
+    "Enchantment": 3,
+    "Planeswalker": 0,
+    "Land": 38,
+    "Battle": 0,
+    "Other": 0
+   },
+   "manaBase": {
+    "landTotal": 39,
+    "basicLands": 24,
+    "nonbasicLands": 15,
+    "sourcesByColor": {
+     "W": 19,
+     "U": 4,
+     "B": 4,
+     "R": 4,
+     "G": 23
+    },
+    "manaRocksCount": 1,
+    "rampSpellsCount": 1
+   },
+   "pipsVsSources": {
+    "W": {
+     "pips": 26,
+     "sources": 19,
+     "warning": false
+    },
+    "U": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "B": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "R": {
+     "pips": 0,
+     "sources": 4,
+     "warning": false
+    },
+    "G": {
+     "pips": 24,
+     "sources": 23,
+     "warning": false
+    }
+   },
+   "edhrecTopRanked": [
+    "Sol Ring (#1)",
+    "Command Tower (#2)",
+    "Arcane Signet (#3)",
+    "Swords to Plowshares (#11)",
+    "Swiftfoot Boots (#12)",
+    "Path of Ancestry (#14)",
+    "Path to Exile (#15)",
+    "Evolving Wilds (#19)",
+    "Beast Within (#25)",
+    "Nature's Lore (#26)"
+   ],
+   "edhrecBottomOrUnranked": [
+    "Plains (unranked)",
+    "Forest (unranked)",
+    "Traxos, Scourge Eternal (21678)",
+    "Black Panther, Vanguard (21118)",
+    "W'Kabi, Shield of the Nation (18013)",
+    "Wakanda Forever! (17410)",
+    "Zuri, Warrior of Wakanda (16900)",
+    "Shuri, the Black Panther (16069)",
+    "Okoye, Mighty and Adored (15957)",
+    "King Solomon's Frogs (15454)"
+   ]
+  },
+  "combos": {
+   "included": [],
+   "almostIncludedOneCardAway": [
+    {
+     "cards": [
+      "Sensei's Divining Top",
+      "Foundry Inspector",
+      "Mystic Forge"
+     ],
+     "missing": [
+      "Sensei's Divining Top"
+     ],
+     "results": [
+      "Infinite card draw",
+      "Near-infinite storm count",
+      "Infinite draw triggers"
+     ],
+     "popularity": 59116
+    },
+    {
+     "cards": [
+      "Swords to Plowshares",
+      "Jumbo Cactuar"
+     ],
+     "missing": [
+      "Jumbo Cactuar"
+     ],
+     "results": [
+      "Near-infinite lifegain"
+     ],
+     "popularity": 11921
+    },
+    {
+     "cards": [
+      "Loyal Retainers",
+      "Saffi Eriksdotter"
+     ],
+     "missing": [
+      "Saffi Eriksdotter"
+     ],
+     "results": [
+      "Infinite death triggers",
+      "Infinite creature ETB",
+      "Infinite creature LTB",
+      "Infinite creature sacrifice triggers"
+     ],
+     "popularity": 1619
+    },
+    {
+     "cards": [
+      "Apex Altisaur",
+      "Hammer of Nazahn"
+     ],
+     "missing": [
+      "Apex Altisaur"
+     ],
+     "results": [
+      "Infinite damage to most creatures"
+     ],
+     "popularity": 809
+    },
+    {
+     "cards": [
+      "Rosie Cotton of South Lane",
+      "Invisible Woman, Sue Storm"
+     ],
+     "missing": [
+      "Rosie Cotton of South Lane"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature",
+      "Infinite creature ETB",
+      "Infinite creature tokens"
+     ],
+     "popularity": 174
+    },
+    {
+     "cards": [
+      "Enduring Scalelord",
+      "Helm of the Host"
+     ],
+     "missing": [
+      "Enduring Scalelord"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature token with haste",
+      "Infinite +1/+1 counters on a creature"
+     ],
+     "popularity": 173
+    },
+    {
+     "cards": [
+      "Invisible Woman, Sue Storm",
+      "Bloodline Pretender"
+     ],
+     "missing": [
+      "Bloodline Pretender"
+     ],
+     "results": [
+      "Infinite +1/+1 counters on a creature",
+      "Infinite creature ETB",
+      "Infinite creature tokens"
+     ],
+     "popularity": 112
+    }
+   ],
+   "almostIncludedTotal": 9
+  }
+ }
+}

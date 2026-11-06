@@ -1,0 +1,37 @@
+{
+  "deck": "jace",
+  "version": "v1.1-protection-concealment",
+  "run": "2026-10-30191534-rtcombo-jacereal-jacecombo-safewalkers-pilotv3-smart-politics-commanderfirst-keeptokens-10",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": true,
+  "keepTokens": true,
+  "runtime": "combo",
+  "jaceRealRules": true,
+  "jaceComboAi": true,
+  "safeWalkers": true,
+  "pilotV3": true,
+  "gauntlet": "main",
+  "build": {
+    "app": "app-jace-real",
+    "classes": "../replaysim/classes-v3",
+    "classesSha": "54338cc7ad38b8b8",
+    "cardsSha": "7ccc339dd1f04e00",
+    "deckSha": "38127c993e198e22"
+  },
+  "games": 10,
+  "wins": 3,
+  "rawWins": 4,
+  "suspect": 2,
+  "draws": 2,
+  "winRate": 0.3,
+  "ci95": [
+    0.10778928748621182,
+    0.6032267800204347
+  ],
+  "avgRounds": 12.4,
+  "baselineNote": "4-player pods: 25% = even share"
+}

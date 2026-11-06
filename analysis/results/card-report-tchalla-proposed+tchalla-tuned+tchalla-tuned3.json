@@ -1,0 +1,555 @@
+[
+  {
+    "c": "Fateful Absence",
+    "drawn": 15,
+    "castRate": 0.9333333333333333,
+    "early": 10,
+    "delta": 0.1885245901639344
+  },
+  {
+    "c": "Loyal Retainers",
+    "drawn": 8,
+    "castRate": 0.5,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Storm, Queen of Wakanda",
+    "drawn": 10,
+    "castRate": 0.7,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Path of Ancestry",
+    "drawn": 10,
+    "castRate": 0.9,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Birds of Paradise",
+    "drawn": 15,
+    "castRate": 0.4666666666666667,
+    "early": 12,
+    "delta": 0.008333333333333304
+  },
+  {
+    "c": "Sungrass Prairie",
+    "drawn": 10,
+    "castRate": 1,
+    "early": 10,
+    "delta": 0.1885245901639344
+  },
+  {
+    "c": "Traxos, Scourge Eternal",
+    "drawn": 15,
+    "castRate": 0.6,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Vibranium Mining Mech",
+    "drawn": 10,
+    "castRate": 0.5,
+    "early": 8,
+    "delta": 0.052419354838709686
+  },
+  {
+    "c": "Arcane Signet",
+    "drawn": 9,
+    "castRate": 0.8888888888888888,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Vanquish the Horde",
+    "drawn": 12,
+    "castRate": 0.5833333333333334,
+    "early": 8,
+    "delta": -0.08064516129032256
+  },
+  {
+    "c": "Ghostly Prison",
+    "drawn": 9,
+    "castRate": 0.5555555555555556,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Foundry Inspector",
+    "drawn": 13,
+    "castRate": 0.7692307692307693,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Command Tower",
+    "drawn": 12,
+    "castRate": 0.6666666666666666,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "King Solomon's Frogs",
+    "drawn": 15,
+    "castRate": 0.8,
+    "early": 10,
+    "delta": 0.08032786885245902
+  },
+  {
+    "c": "Panther Habit",
+    "drawn": 8,
+    "castRate": 0.75,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Throne of the High City",
+    "drawn": 7,
+    "castRate": 1,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Sword of the Animist",
+    "drawn": 9,
+    "castRate": 0.7777777777777778,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Kutzil, Malamet Exemplar",
+    "drawn": 10,
+    "castRate": 0.9,
+    "early": 8,
+    "delta": 0.052419354838709686
+  },
+  {
+    "c": "Evolving Wilds",
+    "drawn": 10,
+    "castRate": 0.8,
+    "early": 8,
+    "delta": 0.052419354838709686
+  },
+  {
+    "c": "Bast, Panther Goddess",
+    "drawn": 10,
+    "castRate": 0.7,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Vibranium Strike Gauntlets",
+    "drawn": 13,
+    "castRate": 0.9230769230769231,
+    "early": 10,
+    "delta": 0.08032786885245902
+  },
+  {
+    "c": "Okoye, Mighty and Adored",
+    "drawn": 9,
+    "castRate": 0.7777777777777778,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Vigorbloom Charm",
+    "drawn": 13,
+    "castRate": 0.6923076923076923,
+    "early": 11,
+    "delta": 0.23966942148760328
+  },
+  {
+    "c": "Akroma's Will",
+    "drawn": 15,
+    "castRate": 0.6666666666666666,
+    "early": 11,
+    "delta": 0.14049586776859502
+  },
+  {
+    "c": "Wrath of God",
+    "drawn": 12,
+    "castRate": 0.5,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Kimoyo Beads",
+    "drawn": 12,
+    "castRate": 0.5833333333333334,
+    "early": 9,
+    "delta": 0.008130081300812997
+  },
+  {
+    "c": "Bountiful Promenade",
+    "drawn": 11,
+    "castRate": 0.8181818181818182,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Council's Judgment",
+    "drawn": 13,
+    "castRate": 0.7692307692307693,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Trading Post",
+    "drawn": 11,
+    "castRate": 0,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Path to Exile",
+    "drawn": 15,
+    "castRate": 0.8,
+    "early": 9,
+    "delta": -0.23035230352303526
+  },
+  {
+    "c": "Canopy Vista",
+    "drawn": 11,
+    "castRate": 0.9090909090909091,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Invisible Woman, Sue Storm",
+    "drawn": 12,
+    "castRate": 0.5,
+    "early": 9,
+    "delta": 0.1273712737127371
+  },
+  {
+    "c": "Ancestral Communion",
+    "drawn": 6,
+    "castRate": 0.8333333333333334,
+    "early": 3,
+    "delta": null
+  },
+  {
+    "c": "Overwhelming Stampede",
+    "drawn": 12,
+    "castRate": 0.4166666666666667,
+    "early": 8,
+    "delta": -0.08064516129032256
+  },
+  {
+    "c": "Shuri, the Black Panther",
+    "drawn": 13,
+    "castRate": 0.5384615384615384,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Wurmcoil Engine",
+    "drawn": 12,
+    "castRate": 0.5833333333333334,
+    "early": 8,
+    "delta": 0.052419354838709686
+  },
+  {
+    "c": "Idol of Oblivion",
+    "drawn": 9,
+    "castRate": 0.7777777777777778,
+    "early": 9,
+    "delta": 0.24661246612466126
+  },
+  {
+    "c": "Heroic Intervention",
+    "drawn": 13,
+    "castRate": 0.7692307692307693,
+    "early": 10,
+    "delta": 0.08032786885245902
+  },
+  {
+    "c": "Everett K. Ross, Hapless Attaché",
+    "drawn": 9,
+    "castRate": 1,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Beast Within",
+    "drawn": 12,
+    "castRate": 0,
+    "early": 9,
+    "delta": -0.1111111111111111
+  },
+  {
+    "c": "Razorverge Thicket",
+    "drawn": 12,
+    "castRate": 1,
+    "early": 10,
+    "delta": 0.1885245901639344
+  },
+  {
+    "c": "Loyal Guardian",
+    "drawn": 8,
+    "castRate": 0.75,
+    "early": 3,
+    "delta": null
+  },
+  {
+    "c": "Zuri, Warrior of Wakanda",
+    "drawn": 5,
+    "castRate": 1,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Conduit of Worlds",
+    "drawn": 8,
+    "castRate": 0.375,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Panther Robot",
+    "drawn": 7,
+    "castRate": 0.5714285714285714,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Swords to Plowshares",
+    "drawn": 14,
+    "castRate": 0.9285714285714286,
+    "early": 8,
+    "delta": 0.18548387096774194
+  },
+  {
+    "c": "Dispatch",
+    "drawn": 10,
+    "castRate": 0,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Shuri's Fabricator",
+    "drawn": 10,
+    "castRate": 0.8,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Solemn Simulacrum",
+    "drawn": 12,
+    "castRate": 0.8333333333333334,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Metalwork Colossus",
+    "drawn": 11,
+    "castRate": 0.7272727272727273,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Nettlecyst",
+    "drawn": 13,
+    "castRate": 0.7692307692307693,
+    "early": 11,
+    "delta": 0.23966942148760328
+  },
+  {
+    "c": "Settle the Wreckage",
+    "drawn": 9,
+    "castRate": 0,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Forsaken Monument",
+    "drawn": 8,
+    "castRate": 0.875,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "W'Kabi, Shield of the Nation",
+    "drawn": 9,
+    "castRate": 0.6666666666666666,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Thran Dynamo",
+    "drawn": 11,
+    "castRate": 0.45454545454545453,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Winds of Abandon",
+    "drawn": 17,
+    "castRate": 0.7647058823529411,
+    "early": 14,
+    "delta": 0.03510895883777243
+  },
+  {
+    "c": "Scavenger Grounds",
+    "drawn": 11,
+    "castRate": 1,
+    "early": 9,
+    "delta": 0.008130081300812997
+  },
+  {
+    "c": "Get Lost",
+    "drawn": 13,
+    "castRate": 0.9230769230769231,
+    "early": 9,
+    "delta": -0.1111111111111111
+  },
+  {
+    "c": "Mystic Forge",
+    "drawn": 13,
+    "castRate": 0.6153846153846154,
+    "early": 10,
+    "delta": 0.1885245901639344
+  },
+  {
+    "c": "Mirrorworks",
+    "drawn": 9,
+    "castRate": 0.7777777777777778,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Thousand Moons Smithy",
+    "drawn": 10,
+    "castRate": 0.7,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Wakanda Forever!",
+    "drawn": 12,
+    "castRate": 0.8333333333333334,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Bronze Guardian",
+    "drawn": 10,
+    "castRate": 0.7,
+    "early": 9,
+    "delta": 0.24661246612466126
+  },
+  {
+    "c": "Nature's Lore",
+    "drawn": 13,
+    "castRate": 0.9230769230769231,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Scattered Groves",
+    "drawn": 13,
+    "castRate": 0.6153846153846154,
+    "early": 10,
+    "delta": 0.08032786885245902
+  },
+  {
+    "c": "Kenrith's Transformation",
+    "drawn": 8,
+    "castRate": 0,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "Hammer of Nazahn",
+    "drawn": 6,
+    "castRate": 0.6666666666666666,
+    "early": 1,
+    "delta": null
+  },
+  {
+    "c": "Helm of the Host",
+    "drawn": 11,
+    "castRate": 0.8181818181818182,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Generous Gift",
+    "drawn": 8,
+    "castRate": 0.875,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Black Panther, Vanguard",
+    "drawn": 15,
+    "castRate": 0.7333333333333333,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Fortified Village",
+    "drawn": 8,
+    "castRate": 1,
+    "early": 5,
+    "delta": null
+  },
+  {
+    "c": "The Great Mound",
+    "drawn": 8,
+    "castRate": 0.875,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Sunpetal Grove",
+    "drawn": 11,
+    "castRate": 1,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Sol Ring",
+    "drawn": 11,
+    "castRate": 0.9090909090909091,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Terramorphic Expanse",
+    "drawn": 9,
+    "castRate": 0.7777777777777778,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Austere Command",
+    "drawn": 3,
+    "castRate": 0.6666666666666666,
+    "early": 3,
+    "delta": null
+  },
+  {
+    "c": "Oblivion Ring",
+    "drawn": 3,
+    "castRate": 1,
+    "early": 2,
+    "delta": null
+  },
+  {
+    "c": "Conclave Tribunal",
+    "drawn": 3,
+    "castRate": 0.6666666666666666,
+    "early": 3,
+    "delta": null
+  },
+  {
+    "c": "Whirlwind",
+    "drawn": 1,
+    "castRate": 0,
+    "early": 1,
+    "delta": null
+  }
+]

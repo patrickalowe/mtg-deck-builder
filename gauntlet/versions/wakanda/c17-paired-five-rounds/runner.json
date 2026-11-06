@@ -1,0 +1,21 @@
+{
+  "runner": "gauntlet/c17-round.py",
+  "runnerSha256": "ae37d38643cc55746f97064cfc26270f9c52d9c1ae52efe33b420521088d3d27",
+  "wallSeconds": 610,
+  "gamesAtOnce": {
+    "before": 2,
+    "installed": 2
+  },
+  "flags": [
+    "--smart",
+    "--politics"
+  ],
+  "trialFiles": {
+    "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b1.json": "b2f329aca3f5199250171f1326c0c8d8f12e32a06f586cb6ba0e023c1072d740",
+    "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b2.json": "55b905ace3de5081575e4d9846fd8307252cb009a7c2054e7c4597f5989ea921",
+    "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b3.json": "8b7925b349ef3a93844d28e15146d6378991990401cf5aa3c5271afa46ed6e42",
+    "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b4.json": "e0f79cf4ef4730bdb901c292a330999b8a19438f0347259022a1388994841cf8",
+    "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b5.json": "40078a1ca5742a83b3bd1a2774e894f6fa5c609c65f91883fffb68edfe89bf82"
+  },
+  "recorded": "2026-11-04T15:37:52-08:00"
+}

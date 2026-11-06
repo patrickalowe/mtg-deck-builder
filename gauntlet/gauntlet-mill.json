@@ -1,0 +1,56 @@
+{
+  "description": "Separate mill test series (RESUME C10, Patrick approved 2026-10-30). Hope Estheim + two familiar opponents per pod. Never pool with gauntlet.json results.",
+  "decks": {
+    "4036": "Yennett (control)",
+    "171880": "Sidisi (zombies, self-mill)",
+    "313935": "Ghalta (big green stompy)",
+    "3047743": "Krenko (goblin tokens)",
+    "4133378": "Arcades (walls, toughness)",
+    "7817483": "Sauron (spellslinger)",
+    "9298397": "Meren (graveyard recursion)",
+    "11619336": "Captain Sisay (legends toolbox)",
+    "11650077": "Giada (angels, fliers)",
+    "13631413": "Chatterfang (squirrel aristocrats)",
+    "15073736": "Lathril (elf tokens)",
+    "24662123": "Thranduil (elves, infinite combo)",
+    "13344339": "Hope Estheim (lifegain mill, Archidekt 13344339)"
+  },
+  "pods": [
+    {
+      "id": "mill01",
+      "opponents": [
+        "13344339",
+        "313935",
+        "4036"
+      ],
+      "seed": 2100000
+    },
+    {
+      "id": "mill02",
+      "opponents": [
+        "13344339",
+        "9298397",
+        "11650077"
+      ],
+      "seed": 2200000
+    },
+    {
+      "id": "mill03",
+      "opponents": [
+        "13344339",
+        "15073736",
+        "3047743"
+      ],
+      "seed": 2300000
+    },
+    {
+      "id": "mill04",
+      "opponents": [
+        "13344339",
+        "4133378",
+        "7817483"
+      ],
+      "seed": 2400000
+    }
+  ]
+}

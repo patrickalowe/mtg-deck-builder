@@ -1,0 +1,1 @@
+ABORTED: Patrick asked for different opponents per batch (not just new seeds); restarted with 5 distinct pod sets (2026-10-30).

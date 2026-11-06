@@ -1,0 +1,19 @@
+{
+  "batch": 3,
+  "imported": {
+    "before": 100,
+    "installed": 98
+  },
+  "excluded": [
+    {
+      "arm": "installed",
+      "trial": "b3pod07-c3",
+      "reason": "suspect/timeout"
+    },
+    {
+      "arm": "installed",
+      "trial": "b3pod19-c5",
+      "reason": "suspect/timeout"
+    }
+  ]
+}

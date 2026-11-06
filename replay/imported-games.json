@@ -1,0 +1,1982 @@
+{
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod01-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c1-g1.log",
+    "sha256": "15f3b586b4834fa3f956b1b0c0bd45b32a30743f2f06d55ccc6d2314e5b95ec4"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod01-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c2-g1.log",
+    "sha256": "b2447910989a0d4911821c16adafbc6be00401beb4b09f936cc948c9a3ec7f24"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod01-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c3-g1.log",
+    "sha256": "e95d81159f978cb3ffa3d9183f5aa1afd3b1676d41dd23f764658babb07fc194"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod01-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c4-g1.log",
+    "sha256": "7b8cfa36893edcd4983918b550576d019ccff7173a8772cb23e66a5dd1ec6065"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod01-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c5-g1.log",
+    "sha256": "dcf6f7ef35bc831d785e6081c263c6b51e6a856b2dc2007c57860723976a2273"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod02-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-17474539",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c1-g1.log",
+    "sha256": "646492dc7d3e9daa3e83fbab567832e4819cc504bdcaf5fe19a6fb66fce9f2b3"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod02-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c2-g1.log",
+    "sha256": "f689251f3b3107ef5b182f8cf8329e1421f673c135733d63f0c6eaf06f2971d8"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod02-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c3-g1.log",
+    "sha256": "3311062a0036aa3332f4e718d28c4afa30e0ac2b6f736ae5a542d0535bc8819d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod02-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c4-g1.log",
+    "sha256": "17f00a00faa911ea0ecfd08dfdafb9a1cb49e63e6946147fa730a5ccf8abadca"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod02-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c5-g1.log",
+    "sha256": "fe3193f48aa73ff63f77cb09b9e1fe78a676411883361cbd4bd840262ab4693c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod03-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c1-g1.log",
+    "sha256": "a3a8221c65eb867fc5dae5a1b1fc955bd706ef8d43506f63a885a8407521b25f"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod03-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c2-g1.log",
+    "sha256": "363f1f3b082ff56d0d86e0e1596155af606fb8482bed3273aadcfe57cbe3fdfc"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod03-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c3-g1.log",
+    "sha256": "73e9a29ad964c3c30f6440fe0fcacbdd81eb428da49d69d9921e2faaae3b1fc4"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod03-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c4-g1.log",
+    "sha256": "70d200a227f733325befbdd00b09f75b6609ea557a3413af1e750eaf74008635"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod03-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c5-g1.log",
+    "sha256": "52d7d5d9000b71720b5146d1412190f5b4236e95f900755597e9f8505a337437"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod04-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c1-g1.log",
+    "sha256": "fdc0631e393eb33e3a659dd9d4d623bef4f7175035567ff3ecd330de021d2775"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod04-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c2-g1.log",
+    "sha256": "1166c8c9ad28e8a878194d3dff2ba0793170eade192babae1a058078ea65b0cc"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod04-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c3-g1.log",
+    "sha256": "d045f7c21c16188972cfa3342729c62d249274e2d81d3d3748c7c1d0e68e6c41"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod04-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c4-g1.log",
+    "sha256": "120c37908ba1400e787a1eaa397160c7020564b9e83e15817593e59db9169018"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod04-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c5-g1.log",
+    "sha256": "9ed9676b20aecb8e4a1ee722b9d4e97f5b22f016ea1f25de1c38bcdff82a567c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod05-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c1-g1.log",
+    "sha256": "28b772d663d5207e04eb942d98e088b4201d070570ea260268ead5f9928eb09c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod05-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c2-g1.log",
+    "sha256": "3075e1b820f8a86c66d1929307f41b724dec90ebafdb6282fa43dd33e5e34929"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod05-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c3-g1.log",
+    "sha256": "ee8ca9ee940bf622bffc47255e5f4ed1fc6f62856d58ade6dca317cf0daa37c8"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod05-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c4-g1.log",
+    "sha256": "098fc798d5c8483dfa07ff2a74c6bc465a6f0499de5043ecb8fb9dd5eb45ba6d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod05-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c5-g1.log",
+    "sha256": "24ad0cd324fbd4e3b691b7d697c458363d4d67fb9116bf6da0891379b85b055a"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod06-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c1-g1.log",
+    "sha256": "747a40fa9286462a01c49ab5a920391d9542e541fdea92e60b431412662de358"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod06-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c2-g1.log",
+    "sha256": "c094b007b53ab14a7bca2571323aed2e4bcce571543f3697ce9a32080807475c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod06-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c3-g1.log",
+    "sha256": "e64263aad333eff260b71039a65a682d1ab0926395d16720b0d5c08a7f098fee"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod06-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c4-g1.log",
+    "sha256": "23b4075290d2864d98e74b7d542ba1328bdc6bb08cc3054dc2f7ca55b3b3e5ad"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod06-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c5-g1.log",
+    "sha256": "9f88a23954d757badf01867c5d2d49e0239267db8b310a840ea3ea483ede1e75"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod07-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c1-g1.log",
+    "sha256": "f4692213f948b0397dd5e854dd56aaa35e7d3597463a2ad8496c4565c1d1a27a"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod07-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c2-g1.log",
+    "sha256": "75404c992cd2d4ea16f6a5fca17a758476ea24719434dd8352d6d7d166f7beaf"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod07-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c3-g1.log",
+    "sha256": "c83a169552ca2750cab98aac21a416c7aaa96ca8402e808fff354b2fe5e4fb9a"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod07-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c4-g1.log",
+    "sha256": "d152358bb98f4b39300675cb7c21a09f34725fbdd8de0082e6a2cce9fbe16468"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod07-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c5-g1.log",
+    "sha256": "65b8df485a13d5f0f92d04f5f5286c7d7dc6deb868e08a152f2b0918e8c0b7f3"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod08-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c1-g1.log",
+    "sha256": "8bb56d0d6292c44c78225b0447f43cbe673e7fb4b8c8b02a1c5396939e84c367"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod08-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c2-g1.log",
+    "sha256": "0b5540f8bce64648af3936652e569f4cf2e9c8508e855a62ddb0d0f390553657"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod08-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c3-g1.log",
+    "sha256": "d96be202d1ab58024df66646f4ac2d4b327934cc1629c80e5014a46bc13623b8"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod08-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c4-g1.log",
+    "sha256": "0d3aa6ae7b014123d80cdb1aa06704e3dc4a6151403a9690b9da333c564d5669"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod08-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c5-g1.log",
+    "sha256": "f6d71805e611b957e5de892f517357c7b6c4c507b698aac811898965c3885989"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod09-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c1-g1.log",
+    "sha256": "1af2363e340b283ea5d41d841a0d0d96d4834d3b671bd3ee924ac4c4956ad500"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod09-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c2-g1.log",
+    "sha256": "d705cf4b4c9f835297a8ecfdb22aa751daf7b5735d63f6e68b6d43e0848925e3"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod09-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c3-g1.log",
+    "sha256": "98c1c045e623a73c847ad9388d74955afa9ab456b598a5a053695e9bda624ff5"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod09-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c4-g1.log",
+    "sha256": "4f0685644bdfe49fca65c8f7009a7182f29ace1f3b04b22e5a7759ac90e9cb16"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod09-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c5-g1.log",
+    "sha256": "9aade59ecbd10d9e02af8310f22a0bc4f1b6fb22b35067d69d0b47eac2fe371d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod10-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c1-g1.log",
+    "sha256": "45215fe1c1d86b383a89ffc4156dc7ce906349c003b0300600a60cf1721b7260"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod10-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c2-g1.log",
+    "sha256": "b6af869f3b7bd80e961217419c82e65369b76febc8433485b2725d6d40866bfb"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod10-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c3-g1.log",
+    "sha256": "f1a6f686610123a54e9fe1a67a566957b9f1111071c5acd0e22c930c4ad4f159"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod10-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c4-g1.log",
+    "sha256": "e6c4e791817e0f10a9a9445c5d595d815b81d5d1133940e43e35d070c9a3ef8c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod10-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c5-g1.log",
+    "sha256": "d1ec403591950d214382d70843a9389f974febfa603ca7296b310e76049997ea"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod11-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c1-g1.log",
+    "sha256": "5ebab7cba3b72fbd696a4fdeb1c9ff292047c398e2c0da0cdf18995f16b06933"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod11-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c2-g1.log",
+    "sha256": "bdd9eaf4b94f5d6df09bec341054ab9caf9d68b6c48216a9cc46fd75736451bb"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod11-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c3-g1.log",
+    "sha256": "5dd66d4e13ad975feffdfa64bf3296c973cc52bfc0d08167bb119f14e2eaaf47"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod11-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c4-g1.log",
+    "sha256": "b1f8c2f7fefe29462472168610f1a9f92b3aacacf45a17ffca80f11ae113f8a7"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod11-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c5-g1.log",
+    "sha256": "711a0e0d28d3523ebede3dc82d6a920a7feaf92d53ce2255c3d248f11bd30a75"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod12-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c1-g1.log",
+    "sha256": "795c5a757429103d1709d41c3573475b09cacd9c6b5e548c4ef21c8e2ad7c471"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod12-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c2-g1.log",
+    "sha256": "4448033b84832a567aa214b7878aae6dd9cc7c80fd217a63b96f3199b103395d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod12-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c3-g1.log",
+    "sha256": "dc40873c96538f330e98cc8cc5f6408fa1d5e0f7b1f143f505785417a05ec4af"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod12-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c4-g1.log",
+    "sha256": "fb5c1c1b33ba25f145ff1650503384a2be0de6519d381c849ec6997342122f50"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod12-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c5-g1.log",
+    "sha256": "798fcf848feed085e64bdfd8d4860e82d39366b1b232d1b98eb692c7866c703d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod13-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c1-g1.log",
+    "sha256": "e8e8bb08615963699c7fe782dfd84727e70a7fbfdafe65abe361603d50dcc3db"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod13-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c2-g1.log",
+    "sha256": "19281bf6b87a81a20ddb061ea3638821aba9df959416a13ff471641ca35c5309"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod13-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c3-g1.log",
+    "sha256": "509955fdaac0315604e7c8418fff0d8c42766e929bd1d0289abbbacededb5dfc"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod13-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c4-g1.log",
+    "sha256": "a263646fde11267f0672e2a3aeaf8b6ce88fb2f5681f77c812909da6ab59cbec"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod13-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c5-g1.log",
+    "sha256": "d2b31a5326606984784056773ce441f466788a7c80b0325ba0e71d9a0bc31f6f"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod14-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c1-g1.log",
+    "sha256": "aa8dfbe81054f0036a4b5f5704f4b82fb82e64306bfb1eef011dd5f0a136cf2c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod14-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c2-g1.log",
+    "sha256": "e19bf37387f68445693563dcd84db86a08eb5a7afba5c7bfe56efb89ac771433"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod14-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c3-g1.log",
+    "sha256": "4864ce5993f615b629bbf6be900d469c0ef486e95e7190088a9455d2ea05a3b7"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod14-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c4-g1.log",
+    "sha256": "3c98679bb9912809f6c6bcb57f9318497b5d62f0a67c99706e5f2992b268d096"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod14-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c5-g1.log",
+    "sha256": "b7d245dc48f4b17e0774be5ac1fe4f9ded1576d27d3229aa880da2fe41b035d2"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod15-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c1-g1.log",
+    "sha256": "e85780d3577117fbe460a699b4706f7a558e1726ae29e04b7fff05641a019f80"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod15-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c2-g1.log",
+    "sha256": "57bb9ea15473b9a7a825ed4143707802dd8d307e0f2ad4c5e6204745800aa22e"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod15-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c3-g1.log",
+    "sha256": "164b441cb006c7f716b06612e65cf80530ebda2eb263c7ea6f74601bd0b16ae5"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod15-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c4-g1.log",
+    "sha256": "03a4d5f6ecfdb29656048534b7bfe008c6204a8012abd22c69c2edf390badb6e"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod15-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c5-g1.log",
+    "sha256": "ae517e55cd1a2b4fa065ffdb949cd073746be8ac8592047d72982a7147facc62"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod16-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c1-g1.log",
+    "sha256": "0a7ff87f104884f237b562489d895ebb1e69700bf59e46ccf8d4adf3202bff9e"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod16-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c2-g1.log",
+    "sha256": "d58d2c9eec10fc1b7c9425b195ad7506acede339206af75eb406b7e53459d2bc"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod16-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c3-g1.log",
+    "sha256": "554bbafbec8770b2da4c5945f7994a5024deb3bc73b18812ee77e5be57b8a5e4"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod16-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c4-g1.log",
+    "sha256": "feb39a7053868da3b08e8b5537e4f99292798e1e77714773106cdf6f12452774"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod16-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c5-g1.log",
+    "sha256": "2fd90be5954b46ff4dc520b67fff49f6817f3dcb9389981fe9a99db1b55e28a4"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod17-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c1-g1.log",
+    "sha256": "cda1a9663c68d6a150e4995a5ff059a6db6b7086c74d63b4326b766f4b2a256c"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod17-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c2-g1.log",
+    "sha256": "6b91267154328c76e05899259046c63c24022428ba476ab7602779e0d0efcce4"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod17-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c3-g1.log",
+    "sha256": "56773c80326b37c37995917efd1aa6421c09ad7246f212a543c43f56eb4847b1"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod17-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c4-g1.log",
+    "sha256": "a324e447c4d5d4b891c09f275e431def3f986de7721b8f507c6e08c5e4edc9ba"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod17-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c5-g1.log",
+    "sha256": "ed15338b2e2156c61c2bc441840658fdf72e04c962d93cc1678a64b92b54557a"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod18-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c1-g1.log",
+    "sha256": "0a61acb8e8ee821d193178184b43907d5f451b461841f87725a61c91b19df0b2"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod18-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c2-g1.log",
+    "sha256": "a58ea3faea1b3d4c9c9bfc1faf14c866a37f19c2831a29b98bc363f141a35d81"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod18-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c3-g1.log",
+    "sha256": "72ced0c64533c49601f22d2ea3f3714fe1b2e72d5a844899b872d57453648371"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod18-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c4-g1.log",
+    "sha256": "9a403ee2b30f043ace68b2894829f43ff8295b7c098950649b5b7df0c0ffa171"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod18-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c5-g1.log",
+    "sha256": "eb28a7be4e477202b5f44d962beeed802002e47348391f8daab79b0ee0860dc3"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod19-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(3)-b3-13511774",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c1-g1.log",
+    "sha256": "a013bc72cef5f56a6c165f360a9cec200985774ebbc04942245146a2332b2794"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod19-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c2-g1.log",
+    "sha256": "ac1c598be4bde6c1a43fc9328c9e5da530b7d0fdf8dd47ecfbff6ed3bf8e57bd"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod19-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c3-g1.log",
+    "sha256": "737e5b569f808cc7276d32f354762a10ce7c8d04c467b25950898bcb5a054800"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod19-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c4-g1.log",
+    "sha256": "50445969a277fc27ba6447d170349bfce153974083e6c6e98e77a163c5dd29af"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod19-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c5-g1.log",
+    "sha256": "266383a4c31ad60ed9eb42c9e504bc0e73c3dfec5bd66924de7b69ed0a61ffe5"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod20-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c1",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c1-g1.log",
+    "sha256": "65fd4b05ed26b8db88dbc529893a7fdda8d92a9c3a823ad3bc0b800d2e612427"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod20-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c2",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(2)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c2-g1.log",
+    "sha256": "4ba85a20b01d42200a999df2ec71f2fe4d1461e725bc8fd8e5b81dc8e943b47d"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod20-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c3",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c3-g1.log",
+    "sha256": "ea943011df5d08a1cc198979c2bca46528af7ac6a1e429c16679abdb7bd46645"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod20-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c4",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c4-g1.log",
+    "sha256": "b92bf07997ed232251385b236d52668ff00d684ceb52f9951839c429d030fe1a"
+  },
+  "wakanda-v1.7-c17-before-smart-politics-c17r3-b3pod20-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c5",
+    "arm": "before",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Before swaps",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c5-g1.log",
+    "sha256": "0f0787e20d8cef1528e0e7f2306186930b185955d98093dc0c33c253a5488f45"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod01-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c1-g1.log",
+    "sha256": "e2c433a40261e2068176089d4498c2f6543c56b8eaedc65ca3046f148111f1c4"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod01-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c2-g1.log",
+    "sha256": "5d25ba7ed325e447a63d21833306a301281bf7aefd0d7895d2f415a874447aae"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod01-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c3-g1.log",
+    "sha256": "0d75793c8e1db4e9050a55e1158bb811f2277862eb5541d2ae4208562fc28b55"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod01-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c4-g1.log",
+    "sha256": "d79a741be863fead6c4f56981065442053e2134aab9990367d4074209c3a62c7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod01-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod01-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod01-c5-g1.log",
+    "sha256": "a2bab6ba3c61df9acd6de0d9ca3aa171c716237c07f738f351fc522c895850c3"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod02-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c1-g1.log",
+    "sha256": "4d8f8d72525d43c44c55d2e114f2becc87ebc27b57f3e9584eb7b20418624c6e"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod02-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c2-g1.log",
+    "sha256": "57a4cc565772c8fdf79eb1f1246ce8d7075eaf0495bb7be89000cb450c1e6e62"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod02-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c3-g1.log",
+    "sha256": "5be321ca5f66e9051625e54d37b7ccaa360eadd8c945586c4e6e40c7a4e8afe7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod02-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c4-g1.log",
+    "sha256": "aec8ba61a73159edbabad9066fc8b237d2a3033692eba78e22f86fcccd8668d7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod02-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod02-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod02-c5-g1.log",
+    "sha256": "a7932c81a17add4087d89c7ac95d9a51dc0a7e512fe241529c2c2a456030aa73"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod03-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c1-g1.log",
+    "sha256": "ef2143a50b4a4aa5ab99528a08a69db11bdaa3e382f17b0c0c8a5a79862c7d49"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod03-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c2-g1.log",
+    "sha256": "af1cd0b04c66948094e56d8aff83365fde8a094d350e8e19598ab8a86b23dfd7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod03-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c3-g1.log",
+    "sha256": "10f2e452927015f31bc40ebfa5b3501002b46d6d52e173802998595fd4698e28"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod03-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c4-g1.log",
+    "sha256": "e68e1531c8c4af43e0541c8e7e9735b99b952f02832e4ffde977897ecf2d96c9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod03-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod03-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod03-c5-g1.log",
+    "sha256": "f2748249fe974072ca4b5d50cb525841b55c022b7258bb1008d7399a8085c563"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod04-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c1-g1.log",
+    "sha256": "1a229a5709f1f33bb2932e3148521be7969d4aeb42b223fa34058585b6124e5d"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod04-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c2-g1.log",
+    "sha256": "08a08aec8613e55f7a9195ae891dd7d3a3257f1468cc64368de4cdcbe1e14f5c"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod04-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c3-g1.log",
+    "sha256": "2ebd7e772041b6f485fc04321b5654f1a536c62152e0307c24764c3a03f41524"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod04-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c4-g1.log",
+    "sha256": "6431d5d31a3f44b220535e286ed718193c0683b55e5984383ee17c2b8569eb05"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod04-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod04-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod04-c5-g1.log",
+    "sha256": "a04e873cca0370d23521b8516c996c2e2090cfd4a3f88659dc90c1e485d2e29a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod05-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c1-g1.log",
+    "sha256": "307fb0431cb737faec2e8767492f85d8e2093bc916db82e3c12a7de32112a8d2"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod05-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c2-g1.log",
+    "sha256": "2dc38a67fc5d074bcf7a8831e25dac36db2b954a71841fa401c52014bcebc088"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod05-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c3-g1.log",
+    "sha256": "cf5eeb5000f121f6d731e5d3cf4bb60526c32c3ecb80cec4f1033fc009d7569a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod05-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c4-g1.log",
+    "sha256": "7d1e3921713bdf07dfb8485df4e8bb3d1c099e17ee04ea4dc9b0a2fb9eae5f60"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod05-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod05-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod05-c5-g1.log",
+    "sha256": "d4f9b6bd33a0d1153361f590287fa09d6d47ae7ad29c46ede95e4c1200abf538"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod06-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c1-g1.log",
+    "sha256": "95a7048168c74dcee411aec3f7d655f6774f83b7c281dc93b1adae71cd952b14"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod06-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c2-g1.log",
+    "sha256": "f9c57617ac0444ca917bbb89835b53b5032500aab8be9b7b5183b0d4fe839fc4"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod06-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c3-g1.log",
+    "sha256": "fe60b36f4495919543b8a092207d00d80d7c632fc62fc333b8ec4b6f5916fefc"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod06-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c4-g1.log",
+    "sha256": "08c750d1222c848c6e8b4628f6d82dcaf5ab376e27027437e9802c1ceb3d9fb0"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod06-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod06-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod06-c5-g1.log",
+    "sha256": "65924d2d068be57e172a101efd740185ef500af3036178ead9a132b63ce04276"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod07-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c1-g1.log",
+    "sha256": "9c4eff7cce36657a33ca2df491a6b5c224d4306c5e5de5dd2ba53caaad02eee7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod07-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c2-g1.log",
+    "sha256": "b7247c63f7fe2e03bfbeaec5080f96a7fe4d497f951a308574bcb72c7246bac9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod07-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c4-g1.log",
+    "sha256": "09159d52a09753093430f9cd73808f8ecbf2bf045b4d95a1b37c685fe05487cf"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod07-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod07-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod07-c5-g1.log",
+    "sha256": "584b3d447ec162beb8d202f4989828ba54973b4f16dda162cd30379e0e60af62"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod08-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c1-g1.log",
+    "sha256": "8447943db753122d1d4ab8bee00026f0dd653ffc6e7295b67107e4622ee227c2"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod08-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c2-g1.log",
+    "sha256": "130ebdf27dadd6e410c3eddc86557f8f044288263adc3b7e60f5414aca73cd3c"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod08-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c3-g1.log",
+    "sha256": "e1cc418f3ece162e43b8f246aaa505fd9d3f4451b5824c49507016c86f7aa71c"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod08-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c4-g1.log",
+    "sha256": "ceb73e84ec011e18224a66e6cdaf3856cce009b38a3a5bc5916f113c4165dcf6"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod08-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod08-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod08-c5-g1.log",
+    "sha256": "ccbb3a68c31828fdcacefcfe54e6e9042a45a591c49d1a8cc48bf62989c6425c"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod09-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c1-g1.log",
+    "sha256": "bc15e34b1b27971048bd3bc0cde0a0b710ebd99d638d50733bb8b0c240115560"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod09-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c2-g1.log",
+    "sha256": "3565ebe0cf002c06c165cdbb3a667236a316b505955394540171b186d3e96a7f"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod09-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c3-g1.log",
+    "sha256": "3d962c2e5cdfa976cdd9bfe5fdee35b76681eb7646a6a243ce2cd4fc683717dc"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod09-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c4-g1.log",
+    "sha256": "09221fc0040c77aafc6dd10a9dc383ba20d2fd4143d22d7240a3b442d62dce76"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod09-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod09-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod09-c5-g1.log",
+    "sha256": "7567f40045813d368f1d502129ed75454b170752f5c7b2a446b143c264fa6439"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod10-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c1-g1.log",
+    "sha256": "0a8dfa54ff75520ea89443f0c4b904525cb6d3cf44a29db2120efcc2f9fbc2b4"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod10-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c2-g1.log",
+    "sha256": "c97a9030452b2c64494f724d73dd2ad5e87ba16af5f56a5b2c392a1580619fbd"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod10-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c3-g1.log",
+    "sha256": "2c0b2b3d3cdb53bb130bd91c370b8daf0a4444172cba8f7aac0fe8ca021f9f79"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod10-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c4-g1.log",
+    "sha256": "b998f4f3eb9d36e562dc36770295ff9a94c8346bec44f4775bfffe6812643156"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod10-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod10-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod10-c5-g1.log",
+    "sha256": "935bd14c09c154b69b5e89fcd506b426c169196f2f713a0516d5d8d9e5fcf786"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod11-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c1-g1.log",
+    "sha256": "88b4743e9ca57a224fe9d27f736e0d8e45baf7026e366a747bfae5ad93f732c9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod11-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c2-g1.log",
+    "sha256": "cb982ff43dd830e63852f7b8c71a5cd4f71f4fde02f71c8e3f3316d927989f75"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod11-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c3-g1.log",
+    "sha256": "2960f904f5150a1c9e3719d908a71fa45eb688fc29b86d2f8da91fef49cc14e3"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod11-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c4-g1.log",
+    "sha256": "1b72e0a0b6fa95f9042d837625d1d42cf78ac9094cd013300ea688be41ff471d"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod11-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod11-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod11-c5-g1.log",
+    "sha256": "766cec6da8f8753448ea301e98392983adf0003147922dae1abe583c932a98f9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod12-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c1-g1.log",
+    "sha256": "c93b56fac71a1393e820f3e943500a12cfda277848e42f4d7eb27b40cf36614a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod12-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c2-g1.log",
+    "sha256": "b489f8abd4e66e4674d3cb9c348e0b5a3a9f84041d746d6c4ea57bc0c573a3f7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod12-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c3-g1.log",
+    "sha256": "a255f4df992090c4e08061e5913b623eaeffa8b11d900919dc8a3f9903b5ed1f"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod12-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c4-g1.log",
+    "sha256": "b4ed3bde412a9157deba147018be7eb97b71bec255091d1999dc57b635333c52"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod12-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod12-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod12-c5-g1.log",
+    "sha256": "64d7790e7f8958cb71f78154961caf517cfad398336f45024d9972294e4ed936"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod13-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c1-g1.log",
+    "sha256": "e8a5a03676dfd37520089df7b91319c55c8a930ece23044cfef6487becf6482e"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod13-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-13511774",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c2-g1.log",
+    "sha256": "e9b1f48081bbb082f795c3426d14dde95e97592f1dcc819bb00d8f9b8ab1aca7"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod13-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c3-g1.log",
+    "sha256": "a403e09c58c991fae9282a21e6b2820b48039c2e587e8d4d42f9eaea65c13bbb"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod13-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c4-g1.log",
+    "sha256": "d51902d56d2513d23630e73a1d1c3741babea5d851ced5c088ddeb70864ffd0a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod13-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod13-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-313935",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod13-c5-g1.log",
+    "sha256": "8bbf1580f6e7d72ac5ab5c082e4fc34f349e1dfad0510cda15472fd8d1923644"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod14-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c1-g1.log",
+    "sha256": "c6135ff04a36e4cee752d6d5db2a10d4ba2c129f1cff0acf2482799ae2f16c23"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod14-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c2-g1.log",
+    "sha256": "01fd19b28c1e171016c833436c36fdafaec066581b7c4057f4decf735b08c1ea"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod14-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c3-g1.log",
+    "sha256": "d0813df88ca5757360f0d978e3c7a5730eee4bef6b0d4c734511e9c41e5ddd1f"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod14-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c4-g1.log",
+    "sha256": "9f693dfd2de567f3a1faf8f499cec81cbfcd51c59616d6693e6a9412f084f63a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod14-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod14-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod14-c5-g1.log",
+    "sha256": "e1632c4891303d0c7ffc9fbbad193f552a488e5e076358bd4623ea73ace03c59"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod15-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-13511774",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c1-g1.log",
+    "sha256": "8a6d01ea80fcdf792863da77e3876073a81c6a952d1ed00ba4aa5de524d019aa"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod15-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c2-g1.log",
+    "sha256": "ea43dfef6454b08b61bb977899f6628cfd714b7e7f94536a95d61b8f0b4636b9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod15-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c3-g1.log",
+    "sha256": "e09102e8fe5d69161df98802d1a03a90ceb5eccf17a707895dc895ae45109805"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod15-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c4-g1.log",
+    "sha256": "03d3c5d7ebb284fa3e1cfb7edc39e72dd20de4f279c9a7f6f5fccbbb8d498ff5"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod15-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod15-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod15-c5-g1.log",
+    "sha256": "960f63595e8d4ef28e1516750db90d427c4a3d3c3288a02acaff8df92d4c7a9b"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod16-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c1-g1.log",
+    "sha256": "092db4935a75c91c788d573224e543694c27ea1ce60215141778dc89bbe6d9c2"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod16-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c2-g1.log",
+    "sha256": "2e08fd9efd54c5ae485e8b508fdb22dc3c505f7ef2ed10457ec03a37a98420fb"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod16-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-311582",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c3-g1.log",
+    "sha256": "e22647ce64ec5fcfb8b253b095c940f85b5ca002469c8d59dcee3c49d5c5c9d9"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod16-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-1909492",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c4-g1.log",
+    "sha256": "d1d41cc28b1e7d26da8b6225910986240f21c75c372a140cb785718dc5918d37"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod16-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod16-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod16-c5-g1.log",
+    "sha256": "9ccf49fd316f659d10b535728ad8c12bfb0a0685fb3d5e5b357df14beae71f7b"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod17-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c1-g1.log",
+    "sha256": "afe337562f6be0079d5f053cef5e246b339014f3b5a62d74f1d0f7417f541fcc"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod17-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-4133378",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c2-g1.log",
+    "sha256": "6528e39a74e3c800ffcf6a6f56c85eec91e156aad21fe3644a4d3691ee59ece4"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod17-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c3-g1.log",
+    "sha256": "29f93820e2ebff88b82fb6f32774ff6bfdab438ba0dd6a4f5eb2fb0cf28c160a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod17-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-913410",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c4-g1.log",
+    "sha256": "d1e50ae707567e183d458ca49d0b568632c8ad2b36f2c391e63abb1fe9275a4a"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod17-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod17-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod17-c5-g1.log",
+    "sha256": "77d53d4be94b389a18f357495f37e5bb00aa1b56a68b33feb38dbb7ec38928dc"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod18-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c1-g1.log",
+    "sha256": "12f186b6e19f3ed5ae16a8b0cf9dade13d6c66b411048ba716e9fd0f309e793e"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod18-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c2-g1.log",
+    "sha256": "ad8a929ccccbe63cc3858fc8e4a21353906c6e1af64fed87116140aadcef4e87"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod18-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-1536181",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c3-g1.log",
+    "sha256": "dcb0ce8911439bacbeaa9346c1589457ea98fbc95c8aeecbf0bbaa044d10a947"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod18-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c4-g1.log",
+    "sha256": "69f1ad2206fb1ec657904bf4fc0db7e6abb5dee34ca4d1b38bf43b7f258b5f45"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod18-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod18-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod18-c5-g1.log",
+    "sha256": "91dcff71c27f285d5f5800a3da9fc178c64b063c9ff216adf049462090b9d744"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod19-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c1-g1.log",
+    "sha256": "3c658e2571b8eeb08073ab34767ac68f42adeca14278f1718c19502e217f3c62"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod19-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c2-g1.log",
+    "sha256": "22f9a99282032f84818dd6fd1144cbcee4b422335c0259d8d01adcc4a71b4fdc"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod19-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "P",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c3-g1.log",
+    "sha256": "7f7671069361e656301c812093527650337cdb785f9852efc51275de2c12db8c"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod19-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod19-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-12153075",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod19-c4-g1.log",
+    "sha256": "f135886a9a96b6d6b445c6180e9fea9a30e7d3289edb95afd49e8d5671602efe"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod20-c1-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c1",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c1-g1.log",
+    "sha256": "19e56f81c9328f4f0e9796342b2de7e97bce3b3c07a86eab5935444e69e89bb1"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod20-c2-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c2",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c2-g1.log",
+    "sha256": "22ac7a06923d8a7bac1e8bd6634d4d814255cc6ea38d940420a6cd8f95c0a522"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod20-c3-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c3",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(2)-b3-4290428",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c3-g1.log",
+    "sha256": "6f2b843acf33b0793386d050df3c57ae2c980ad3d31be26203cce54e8074c7fd"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod20-c4-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c4",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(4)-b3-7545966",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c4-g1.log",
+    "sha256": "697874ce61c0fc8f0d0782d1d5c448fb297cb50e8d2fb57aab2dfdd396f61647"
+  },
+  "wakanda-v1.8-c17-installed-smart-politics-c17r3-b3pod20-c5-g1.log": {
+    "series": "tchalla-c17",
+    "batch": 3,
+    "trial": "b3pod20-c5",
+    "arm": "installed",
+    "label": "T\u2019Challa \u00b7 C17 batch 3 \u00b7 Installed 11 upgrades",
+    "winner": "Ai(3)-b3-6482039",
+    "source": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04175757-c17-round3-b3-smart-politics-100/logs/b3pod20-c5-g1.log",
+    "sha256": "4e183edebafbbb60e61933559746e5ba8ff992b52969b9b2dbb0aed71f44e7a6"
+  }
+}

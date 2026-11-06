@@ -1,0 +1,67 @@
+{
+  "mainCount": 100,
+  "commander": [
+    "Hope Estheim"
+  ],
+  "gameChangers": [
+    "Rhystic Study",
+    "Smothering Tithe",
+    "The One Ring"
+  ],
+  "illegal": [],
+  "offColor": [],
+  "extraTurns": [],
+  "massLandDestructionTextFlags": [],
+  "v06LegendaryPermanentsIncludingCommander": [
+    "Jace, Multiverse Architect",
+    "Kher Keep",
+    "Way of the Healer",
+    "Oath of Gideon",
+    "Memnarch, the Warden",
+    "Tekuthal, Inquiry Dominus",
+    "Galactus, Devourer of Worlds",
+    "Avacyn, Angel of Horror",
+    "Teferi, Hero of Dominaria",
+    "Nissa, Leyline Tamer",
+    "Aminatou, the Fateshifter",
+    "Elspeth, Sun's Champion",
+    "Saheeli, Sublime Artificer",
+    "Nicol Bolas, Dragon-God",
+    "Ajani Unrelenting",
+    "Silver Surfer, Galactus's Herald",
+    "The Theorist, Jace Beleren",
+    "Avacyn, Angel of Hope",
+    "Jhoira, Weatherlight Corsair"
+  ],
+  "v06NonlegendaryCreatures": [
+    "Darksteel Angel",
+    "Massacre Wurm",
+    "Archon of Cruelty",
+    "Dreamtide Whale",
+    "Overlord of the Mistmoors",
+    "Triplicate Titan",
+    "Serra's Emissary",
+    "Archfiend of Despair",
+    "Flux Channeler"
+  ],
+  "aiRemoveAll": [
+    "Martyr of Sands",
+    "Renounce",
+    "Thespian's Stage",
+    "Crystal Vein",
+    "Riot Control",
+    "Gemstone Caverns",
+    "Strionic Resonator",
+    "Springleaf Drum"
+  ],
+  "aiRemoveRandom": [
+    "Temple of the False God",
+    "Illusions of Grandeur",
+    "Mystic Remora",
+    "Serra Ascendant",
+    "Loran of the Third Path",
+    "Strionic Resonator",
+    "Relic of Legends",
+    "Defense Grid"
+  ]
+}

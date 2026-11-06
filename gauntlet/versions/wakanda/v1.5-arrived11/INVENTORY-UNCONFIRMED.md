@@ -1,0 +1,1 @@
+Patrick reports no Mind’s Eye / Divine Visitation, November4. Panther Idol is Mind’s Eye under its Marvel printed name; its presence is unresolved. Two proposed cut slots need reconciliation. The modeled deck is preserved as a proposal and does not represent confirmed installed cards.

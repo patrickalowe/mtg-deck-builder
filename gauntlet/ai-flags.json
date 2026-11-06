@@ -1,0 +1,172 @@
+[
+ {
+  "card": "Aminatou, the Fateshifter",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ Aminatou"
+ },
+ {
+  "card": "Arcane Signet",
+  "ai_flags": "RemoveDeck:NonCommander",
+  "ai_hints": ""
+ },
+ {
+  "card": "Azorius Signet",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Beast Within",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Cauldron of Souls",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Chandra's Ignition",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ PowerDmg"
+ },
+ {
+  "card": "Command Tower",
+  "ai_flags": "RemoveDeck:NonCommander",
+  "ai_hints": ""
+ },
+ {
+  "card": "Conduit of Worlds",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ NeedsChosenCard"
+ },
+ {
+  "card": "Dimir Signet",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Dispatch",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Elspeth, Sun's Champion",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ Always"
+ },
+ {
+  "card": "Everett K. Ross, Hapless Attach\u00e9",
+  "ai_flags": "",
+  "ai_hints": "PlayMain1:TRUE"
+ },
+ {
+  "card": "Fetid Heath",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Forsaken Monument",
+  "ai_flags": "",
+  "ai_hints": "PlayMain1:TRUE"
+ },
+ {
+  "card": "Greater Good",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Izzet Signet",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Lim-D\u00fbl's Vault",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Massacre Wurm",
+  "ai_flags": "",
+  "ai_hints": "PlayMain1:TRUE"
+ },
+ {
+  "card": "Metalwork Colossus",
+  "ai_flags": "",
+  "ai_hints": "AIPreference:SacCost$Artifact.token,Artifact.cmcEQ1,Artifact.cmcEQ2"
+ },
+ {
+  "card": "Mystic Forge",
+  "ai_flags": "RemoveDeck:Random",
+  "ai_hints": ""
+ },
+ {
+  "card": "Mystic Gate",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Nicol Bolas, Dragon-God",
+  "ai_flags": "RemoveDeck:Random",
+  "ai_hints": ""
+ },
+ {
+  "card": "Path of Ancestry",
+  "ai_flags": "RemoveDeck:NonCommander",
+  "ai_hints": ""
+ },
+ {
+  "card": "Proteus Staff",
+  "ai_flags": "RemoveDeck:All, RemoveDeck:Random",
+  "ai_hints": "AILogic$ Polymorph"
+ },
+ {
+  "card": "Rakdos Signet",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Reconnaissance",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Scavenger Grounds",
+  "ai_flags": "RemoveDeck:Random",
+  "ai_hints": "AILogic$ ExileGraveyards"
+ },
+ {
+  "card": "Serra's Emissary",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ ProtectionFromType; PlayMain1:TRUE"
+ },
+ {
+  "card": "Sungrass Prairie",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Sunken Ruins",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Synthetic Destiny",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ },
+ {
+  "card": "Teferi, Hero of Dominaria",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ Always"
+ },
+ {
+  "card": "Tekuthal, Inquiry Dominus",
+  "ai_flags": "",
+  "ai_hints": "AILogic$ DoubleLife"
+ },
+ {
+  "card": "Trading Post",
+  "ai_flags": "RemoveDeck:All",
+  "ai_hints": ""
+ }
+]

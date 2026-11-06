@@ -1,0 +1,199 @@
+{
+  "description": "Fixed bracket-3 gauntlet: 12 Archidekt decks, 20 fixed 4-player pods, each deck in exactly 5 pods. Every deck version plays the same pods with the same seeds.",
+  "decks": {
+    "4036": "Yennett (control)",
+    "171880": "Sidisi (zombies, self-mill)",
+    "313935": "Ghalta (big green stompy)",
+    "3047743": "Krenko (goblin tokens)",
+    "4133378": "Arcades (walls, toughness)",
+    "7817483": "Sauron (spellslinger)",
+    "9298397": "Meren (graveyard recursion)",
+    "11619336": "Captain Sisay (legends toolbox)",
+    "11650077": "Giada (angels, fliers)",
+    "13631413": "Chatterfang (squirrel aristocrats)",
+    "15073736": "Lathril (elf tokens)",
+    "24662123": "Thranduil (elves, infinite combo)"
+  },
+  "pods": [
+    {
+      "id": "pod01",
+      "opponents": [
+        "313935",
+        "4036",
+        "24662123"
+      ],
+      "seed": 100000
+    },
+    {
+      "id": "pod02",
+      "opponents": [
+        "3047743",
+        "15073736",
+        "4036"
+      ],
+      "seed": 200000
+    },
+    {
+      "id": "pod03",
+      "opponents": [
+        "15073736",
+        "313935",
+        "3047743"
+      ],
+      "seed": 300000
+    },
+    {
+      "id": "pod04",
+      "opponents": [
+        "24662123",
+        "4133378",
+        "3047743"
+      ],
+      "seed": 400000
+    },
+    {
+      "id": "pod05",
+      "opponents": [
+        "11619336",
+        "3047743",
+        "4133378"
+      ],
+      "seed": 500000
+    },
+    {
+      "id": "pod06",
+      "opponents": [
+        "11619336",
+        "7817483",
+        "4133378"
+      ],
+      "seed": 600000
+    },
+    {
+      "id": "pod07",
+      "opponents": [
+        "15073736",
+        "11650077",
+        "171880"
+      ],
+      "seed": 700000
+    },
+    {
+      "id": "pod08",
+      "opponents": [
+        "11650077",
+        "13631413",
+        "171880"
+      ],
+      "seed": 800000
+    },
+    {
+      "id": "pod09",
+      "opponents": [
+        "9298397",
+        "4133378",
+        "24662123"
+      ],
+      "seed": 900000
+    },
+    {
+      "id": "pod10",
+      "opponents": [
+        "7817483",
+        "9298397",
+        "13631413"
+      ],
+      "seed": 1000000
+    },
+    {
+      "id": "pod11",
+      "opponents": [
+        "4036",
+        "7817483",
+        "13631413"
+      ],
+      "seed": 1100000
+    },
+    {
+      "id": "pod12",
+      "opponents": [
+        "24662123",
+        "4036",
+        "7817483"
+      ],
+      "seed": 1200000
+    },
+    {
+      "id": "pod13",
+      "opponents": [
+        "171880",
+        "11619336",
+        "13631413"
+      ],
+      "seed": 1300000
+    },
+    {
+      "id": "pod14",
+      "opponents": [
+        "24662123",
+        "11650077",
+        "313935"
+      ],
+      "seed": 1400000
+    },
+    {
+      "id": "pod15",
+      "opponents": [
+        "171880",
+        "11619336",
+        "3047743"
+      ],
+      "seed": 1500000
+    },
+    {
+      "id": "pod16",
+      "opponents": [
+        "9298397",
+        "15073736",
+        "11619336"
+      ],
+      "seed": 1600000
+    },
+    {
+      "id": "pod17",
+      "opponents": [
+        "11650077",
+        "313935",
+        "4133378"
+      ],
+      "seed": 1700000
+    },
+    {
+      "id": "pod18",
+      "opponents": [
+        "9298397",
+        "13631413",
+        "171880"
+      ],
+      "seed": 1800000
+    },
+    {
+      "id": "pod19",
+      "opponents": [
+        "15073736",
+        "9298397",
+        "11650077"
+      ],
+      "seed": 1900000
+    },
+    {
+      "id": "pod20",
+      "opponents": [
+        "313935",
+        "7817483",
+        "4036"
+      ],
+      "seed": 2000000
+    }
+  ]
+}

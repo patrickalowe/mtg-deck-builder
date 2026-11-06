@@ -1,0 +1,24 @@
+{
+  "deck": "jace",
+  "version": "v0.8-codex-survival",
+  "run": "2026-10-300230-smart-politics-keeptokens-10",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "keepTokens": true,
+  "games": 10,
+  "wins": 2,
+  "rawWins": 2,
+  "suspect": 0,
+  "draws": 0,
+  "winRate": 0.2,
+  "ci95": [
+    0.05668094798069332,
+    0.5098431532792765
+  ],
+  "avgRounds": 11.9,
+  "baselineNote": "4-player pods: 25% = even share"
+}

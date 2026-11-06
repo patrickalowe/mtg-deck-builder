@@ -1,0 +1,60 @@
+{
+  "games": 1,
+  "wins": {
+    "Captain America": 1
+  },
+  "results": [
+    {
+      "game": 1,
+      "winner": "Captain America",
+      "rounds": 11,
+      "timeout": false,
+      "patrickSeat": 1,
+      "patrickFinish": "out R9 (Dina)",
+      "log": [
+        "R1 Patrick (T'Challa) casts Sol Ring",
+        "R1 Dina casts Sol Ring",
+        "R1 Dina casts Stensian Sanguinist // Exsanguinate",
+        "R2 Patrick (T'Challa) casts T'Challa, the Black Panther",
+        "R2 Dina casts Dina, Essence Brewer",
+        "R2 Ghalta casts Kenrith's Transformation",
+        "R3 Patrick (T'Challa) casts Hammer of Nazahn",
+        "R3 Dina casts Eccentric Pestfinder // Turn Stones",
+        "R3 Captain America casts Tome of Legends",
+        "R4 Patrick (T'Challa) casts Black Panther, Vanguard",
+        "R4 Patrick (T'Challa) casts T'Chaka, Venerable King",
+        "R4 Dina casts Ominous Harvest",
+        "R4 Dina casts Awakening Zone",
+        "R4 Captain America casts Captain America, Team Leader",
+        "R5 Patrick (T'Challa) casts Shuri's Fabricator",
+        "R5 Dina casts Casualties of War",
+        "R5 Dina removes T'Challa, the Black Panther",
+        "R5 Ghalta eliminated (life by Dina)",
+        "R5 Captain America casts Captain America, Living Legend",
+        "R6 Patrick (T'Challa) casts T'Challa, the Black Panther",
+        "R6 Dina casts Morbid Opportunist",
+        "R6 Dina casts Yahenni, Undying Partisan",
+        "R6 Captain America casts Black Widow, Agile Avenger",
+        "R6 Captain America casts Jarvis, Earth's Mightiest Butler",
+        "R7 Patrick (T'Challa) casts Swords to Plowshares",
+        "R7 Patrick (T'Challa) removes Captain America, Team Leader",
+        "R7 Patrick (T'Challa) casts Kimoyo Beads",
+        "R7 Dina casts Springbloom Druid",
+        "R7 Captain America casts Captain America, Team Leader",
+        "R8 Patrick (T'Challa) casts Royal Talon Fighter Jet",
+        "R8 Dina casts Infernal Grasp",
+        "R8 Dina removes Captain America, Team Leader",
+        "R8 Captain America casts Professor Hulk",
+        "R9 Patrick (T'Challa) eliminated (life by Dina)",
+        "R9 Captain America casts Raise the Palisade",
+        "R10 Dina casts Dina, Essence Brewer",
+        "R10 Dina casts Merchant of Venom",
+        "R10 Captain America casts Hawkeye, Avenging Archer",
+        "R10 Captain America casts Metallic Mimic",
+        "R11 Captain America casts Jocasta, Automaton Avenger",
+        "R11 Captain America casts Relic of Legends",
+        "R11 Dina eliminated (life by Captain America)"
+      ]
+    }
+  ]
+}

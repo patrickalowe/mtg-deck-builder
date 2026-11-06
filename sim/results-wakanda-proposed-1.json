@@ -1,0 +1,60 @@
+{
+  "games": 1,
+  "wins": {
+    "Patrick (T'Challa)": 1
+  },
+  "results": [
+    {
+      "game": 1,
+      "winner": "Patrick (T'Challa)",
+      "rounds": 12,
+      "timeout": false,
+      "patrickSeat": 1,
+      "patrickFinish": "won",
+      "log": [
+        "R1 Ghalta casts Birds of Paradise",
+        "R2 Patrick (T'Challa) casts Shuri, the Black Panther",
+        "R2 Captain America casts Metallic Mimic",
+        "R3 Patrick (T'Challa) casts T'Challa, the Black Panther",
+        "R3 Ghalta casts Bite Down",
+        "R3 Ghalta removes T'Challa, the Black Panther",
+        "R3 Captain America casts Captain America, Team Leader",
+        "R3 Dina casts Dina, Essence Brewer",
+        "R4 Patrick (T'Challa) casts Bast, Panther Goddess",
+        "R4 Ghalta casts Garruk's Packleader",
+        "R4 Captain America casts Photon, Mighty Marvel",
+        "R4 Dina casts Infernal Grasp",
+        "R4 Dina removes Captain America, Team Leader",
+        "R5 Patrick (T'Challa) casts Forsaken Monument",
+        "R5 Ghalta casts Whiptongue Hydra",
+        "R5 Captain America casts Captain America, Team Leader",
+        "R5 Dina casts Dina, Essence Brewer",
+        "R6 Patrick (T'Challa) casts T'Challa, the Black Panther",
+        "R6 Ghalta casts Unnatural Growth",
+        "R6 Captain America casts War Machine, Avenging Arsenal",
+        "R6 Dina casts Blossoming Bogbeast",
+        "R7 Patrick (T'Challa) casts Black Panther, Vanguard",
+        "R7 Ghalta casts Pugnacious Hammerskull",
+        "R7 Captain America casts Quicksilver, Speedster",
+        "R7 Dina casts Mycoloth",
+        "R8 Patrick (T'Challa) casts Greater Good",
+        "R8 Ghalta casts Ghalta, Primal Hunger",
+        "R8 Captain America casts Scarlet Witch, Chaotic Avenger",
+        "R8 Captain America casts Captain America, Living Legend",
+        "R8 Dina eliminated (life by Captain America)",
+        "R9 Patrick (T'Challa) casts Panther Habit",
+        "R9 Ghalta casts Ripjaw Raptor",
+        "R9 Captain America casts Captain America, Team Leader",
+        "R10 Patrick (T'Challa) casts Wurmcoil Engine",
+        "R10 Ghalta casts Dungrove Elder",
+        "R10 Captain America eliminated (life by Ghalta)",
+        "R11 Patrick (T'Challa) casts Solemn Simulacrum",
+        "R11 Patrick (T'Challa) casts Swiftfoot Boots",
+        "R12 Patrick (T'Challa) casts Okoye, Mighty and Adored",
+        "R12 Patrick (T'Challa) casts Thran Dynamo",
+        "R12 Patrick (T'Challa) casts Arcane Signet",
+        "R12 Ghalta eliminated (life by Patrick (T'Challa))"
+      ]
+    }
+  ]
+}

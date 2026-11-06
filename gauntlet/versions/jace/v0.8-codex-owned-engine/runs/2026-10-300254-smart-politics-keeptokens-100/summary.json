@@ -1,0 +1,24 @@
+{
+  "deck": "jace",
+  "version": "v0.8-codex-owned-engine",
+  "run": "2026-10-300254-smart-politics-keeptokens-100",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "keepTokens": true,
+  "games": 100,
+  "wins": 40,
+  "rawWins": 40,
+  "suspect": 3,
+  "draws": 3,
+  "winRate": 0.4,
+  "ci95": [
+    0.3093997461136029,
+    0.4979992153815976
+  ],
+  "avgRounds": 11.55,
+  "baselineNote": "4-player pods: 25% = even share"
+}

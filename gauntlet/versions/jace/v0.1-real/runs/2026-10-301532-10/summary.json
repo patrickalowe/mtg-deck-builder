@@ -1,0 +1,35 @@
+{
+  "deck": "jace",
+  "version": "v0.1-real",
+  "run": "2026-10-301532-10",
+  "smart": false,
+  "politics": false,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "keepTokens": false,
+  "runtime": "default",
+  "jaceRealRules": false,
+  "jaceComboAi": false,
+  "safeWalkers": false,
+  "build": {
+    "app": "app",
+    "classes": "../replaysim/classes",
+    "classesSha": "601627412546ce7c",
+    "cardsSha": "ac26ccbe2a9c015b",
+    "deckSha": "df7a4a3fefd8106f"
+  },
+  "games": 10,
+  "wins": 2,
+  "rawWins": 2,
+  "suspect": 0,
+  "draws": 0,
+  "winRate": 0.2,
+  "ci95": [
+    0.05668094798069332,
+    0.5098431532792765
+  ],
+  "avgRounds": 13.2,
+  "baselineNote": "4-player pods: 25% = even share"
+}

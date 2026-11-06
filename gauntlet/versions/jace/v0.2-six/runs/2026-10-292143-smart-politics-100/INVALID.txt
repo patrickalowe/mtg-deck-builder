@@ -1,0 +1,1 @@
+INVALID: Jace -3 rule bug (planeswalker-fodder change), see forge/custom/CHANGELOG.md

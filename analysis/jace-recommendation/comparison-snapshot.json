@@ -1,0 +1,1230 @@
+{
+  "v0.1-real": {
+    "games": {
+      "pod10-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod12-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod02-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod02-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod10-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod12-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod12-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 7
+      },
+      "pod10-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 3
+      },
+      "pod02-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod02-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 4
+      },
+      "pod10-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 0
+      },
+      "pod10-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod12-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod02-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod12-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 4
+      },
+      "pod14-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 3
+      },
+      "pod06-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod18-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 1
+      },
+      "pod18-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod06-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod14-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod04-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod08-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod20-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod16-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod16-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod18-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 0
+      },
+      "pod20-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod06-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod08-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod04-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod14-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod14-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod06-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 3
+      },
+      "pod20-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod18-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod18-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod16-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 3
+      },
+      "pod08-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 5,
+        "minus3": 5
+      },
+      "pod06-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod04-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 2
+      },
+      "pod14-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod04-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod08-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod20-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 5
+      },
+      "pod16-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod16-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod20-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod08-g2": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod04-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod13-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod01-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod01-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod13-g2": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod03-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 2
+      },
+      "pod11-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod11-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod01-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod03-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod13-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod13-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod01-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod11-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod01-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 6,
+        "minus3": 3
+      },
+      "pod03-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod13-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod03-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 2
+      },
+      "pod11-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod11-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod03-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod07-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod09-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod17-g4": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod19-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 0
+      },
+      "pod15-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod05-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod05-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod17-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod09-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod07-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 3
+      },
+      "pod19-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod15-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 4
+      },
+      "pod15-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 2
+      },
+      "pod19-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod07-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod09-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod17-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod05-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod05-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 3
+      },
+      "pod17-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 5
+      },
+      "pod09-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod09-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 2
+      },
+      "pod07-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod19-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod17-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod15-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod05-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 0
+      },
+      "pod15-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod19-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 3
+      },
+      "pod07-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      }
+    },
+    "completed": 100,
+    "rawWins": 30,
+    "suspects": 3,
+    "cleanWins": 30,
+    "noCommanderCast": 14,
+    "noMinus3": 44
+  },
+  "v0.6-precon-engine": {
+    "games": {
+      "pod10-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod12-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod02-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod02-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod10-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod12-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod12-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod10-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod02-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod02-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod10-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod10-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 4
+      },
+      "pod12-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod02-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod12-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 1
+      },
+      "pod14-g3": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 3,
+        "minus3": 4
+      },
+      "pod06-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod18-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod18-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 6,
+        "minus3": 1
+      },
+      "pod06-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod14-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod04-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 3
+      },
+      "pod08-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 4
+      },
+      "pod20-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod16-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod16-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod18-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod20-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 3
+      },
+      "pod06-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod08-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod04-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod14-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod14-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 0
+      },
+      "pod06-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 3
+      },
+      "pod20-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 0
+      },
+      "pod18-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod18-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 0
+      },
+      "pod16-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod08-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod06-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod04-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod14-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod04-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod08-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod20-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod16-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod16-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod20-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod08-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod04-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod13-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod01-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod01-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod13-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod03-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 4,
+        "minus3": 0
+      },
+      "pod11-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod11-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod01-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 1
+      },
+      "pod03-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod13-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod13-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod01-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod11-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod01-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod03-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod13-g4": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod03-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod11-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod11-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod03-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod07-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod09-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod17-g4": {
+        "win": false,
+        "suspect": true,
+        "jaceCasts": 4,
+        "minus3": 1
+      },
+      "pod19-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod15-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod05-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod05-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 0
+      },
+      "pod17-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 2
+      },
+      "pod09-g5": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod07-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod19-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod15-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod15-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod19-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod07-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 1
+      },
+      "pod09-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod17-g2": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod05-g2": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 3
+      },
+      "pod05-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 3
+      },
+      "pod17-g3": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 2
+      },
+      "pod09-g3": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 2,
+        "minus3": 0
+      },
+      "pod09-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 1
+      },
+      "pod07-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 0
+      },
+      "pod19-g4": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod17-g1": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      },
+      "pod15-g4": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 4
+      },
+      "pod05-g1": {
+        "win": true,
+        "suspect": false,
+        "jaceCasts": 1,
+        "minus3": 2
+      },
+      "pod15-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 1
+      },
+      "pod19-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 3,
+        "minus3": 2
+      },
+      "pod07-g5": {
+        "win": false,
+        "suspect": false,
+        "jaceCasts": 0,
+        "minus3": 0
+      }
+    },
+    "completed": 100,
+    "rawWins": 31,
+    "suspects": 3,
+    "cleanWins": 31,
+    "noCommanderCast": 24,
+    "noMinus3": 47
+  },
+  "paired": {
+    "completedCommon": 100,
+    "cleanPairs": 95,
+    "baselineWins": 30,
+    "v06Wins": 31,
+    "baselineOnlyWins": 18,
+    "v06OnlyWins": 19
+  }
+}

@@ -1,0 +1,199 @@
+{
+ "description": "C16 baseline batch 3 of 5: distinct opponent group (no deck shared with other batches), 20 balanced pods, own seeds. Built 2026-10-30.",
+ "decks": {
+  "913410": "Thalisse, Reverent Medium",
+  "1536181": "Glissa, the Traitor",
+  "311582": "Omnath, Locus of Rage",
+  "6482039": "Tom, Bert, and William",
+  "7545966": "Shilgengar, Sire of Famine",
+  "4290428": "Liesa, Shroud of Dusk",
+  "313935": "Ghalta, Primal Hunger",
+  "13511774": "Lyse Hext",
+  "1909492": "Wilhelt, the Rotcleaver",
+  "17474539": "Iroh, Grand Lotus",
+  "12153075": "Zurgo Stormrender",
+  "4133378": "Arcades, the Strategist"
+ },
+ "pods": [
+  {
+   "id": "b3pod01",
+   "opponents": [
+    "311582",
+    "313935",
+    "6482039"
+   ],
+   "seed": 3301000
+  },
+  {
+   "id": "b3pod02",
+   "opponents": [
+    "1536181",
+    "17474539",
+    "913410"
+   ],
+   "seed": 3302000
+  },
+  {
+   "id": "b3pod03",
+   "opponents": [
+    "12153075",
+    "1909492",
+    "4133378"
+   ],
+   "seed": 3303000
+  },
+  {
+   "id": "b3pod04",
+   "opponents": [
+    "13511774",
+    "7545966",
+    "913410"
+   ],
+   "seed": 3304000
+  },
+  {
+   "id": "b3pod05",
+   "opponents": [
+    "13511774",
+    "4133378",
+    "4290428"
+   ],
+   "seed": 3305000
+  },
+  {
+   "id": "b3pod06",
+   "opponents": [
+    "17474539",
+    "1909492",
+    "311582"
+   ],
+   "seed": 3306000
+  },
+  {
+   "id": "b3pod07",
+   "opponents": [
+    "1536181",
+    "6482039",
+    "7545966"
+   ],
+   "seed": 3307000
+  },
+  {
+   "id": "b3pod08",
+   "opponents": [
+    "1909492",
+    "313935",
+    "4290428"
+   ],
+   "seed": 3308000
+  },
+  {
+   "id": "b3pod09",
+   "opponents": [
+    "12153075",
+    "4290428",
+    "6482039"
+   ],
+   "seed": 3309000
+  },
+  {
+   "id": "b3pod10",
+   "opponents": [
+    "17474539",
+    "311582",
+    "4133378"
+   ],
+   "seed": 3310000
+  },
+  {
+   "id": "b3pod11",
+   "opponents": [
+    "313935",
+    "7545966",
+    "913410"
+   ],
+   "seed": 3311000
+  },
+  {
+   "id": "b3pod12",
+   "opponents": [
+    "12153075",
+    "17474539",
+    "4290428"
+   ],
+   "seed": 3312000
+  },
+  {
+   "id": "b3pod13",
+   "opponents": [
+    "13511774",
+    "1536181",
+    "313935"
+   ],
+   "seed": 3313000
+  },
+  {
+   "id": "b3pod14",
+   "opponents": [
+    "1536181",
+    "1909492",
+    "6482039"
+   ],
+   "seed": 3314000
+  },
+  {
+   "id": "b3pod15",
+   "opponents": [
+    "13511774",
+    "311582",
+    "7545966"
+   ],
+   "seed": 3315000
+  },
+  {
+   "id": "b3pod16",
+   "opponents": [
+    "12153075",
+    "1909492",
+    "311582"
+   ],
+   "seed": 3316000
+  },
+  {
+   "id": "b3pod17",
+   "opponents": [
+    "4133378",
+    "4290428",
+    "913410"
+   ],
+   "seed": 3317000
+  },
+  {
+   "id": "b3pod18",
+   "opponents": [
+    "1536181",
+    "17474539",
+    "6482039"
+   ],
+   "seed": 3318000
+  },
+  {
+   "id": "b3pod19",
+   "opponents": [
+    "12153075",
+    "13511774",
+    "913410"
+   ],
+   "seed": 3319000
+  },
+  {
+   "id": "b3pod20",
+   "opponents": [
+    "4290428",
+    "6482039",
+    "7545966"
+   ],
+   "seed": 3320000
+  }
+ ]
+}

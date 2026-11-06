@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "properties": {
+    "reviewed": {
+      "type": "boolean"
+    },
+    "round": {
+      "type": "integer"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "continue",
+        "needs-fix"
+      ]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "beforeSummary": {
+      "type": "string"
+    },
+    "installedSummary": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "reviewed",
+    "round",
+    "decision",
+    "summary",
+    "findings",
+    "beforeSummary",
+    "installedSummary"
+  ],
+  "additionalProperties": false
+}

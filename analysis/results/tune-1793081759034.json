@@ -1,0 +1,169 @@
+{
+  "N": 20,
+  "configs": [
+    {
+      "deck": "jace-updated",
+      "profile": "Default"
+    },
+    {
+      "deck": "jace-updated",
+      "profile": "Cautious"
+    },
+    {
+      "deck": "jace-updated",
+      "profile": "Reckless"
+    },
+    {
+      "deck": "jace-updated",
+      "profile": "Experimental"
+    }
+  ],
+  "opps": [
+    "171880",
+    "15073736",
+    "313935",
+    "9298397",
+    "11650077",
+    "4036",
+    "3370911",
+    "6482039"
+  ],
+  "table": {
+    "jace-updated:Default": {
+      "4036": {
+        "wins": 10,
+        "games": 20
+      },
+      "171880": {
+        "wins": 11,
+        "games": 20
+      },
+      "313935": {
+        "wins": 6,
+        "games": 20
+      },
+      "3370911": {
+        "wins": 6,
+        "games": 20
+      },
+      "6482039": {
+        "wins": 10,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 11,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 8,
+        "games": 20
+      },
+      "15073736": {
+        "wins": 7,
+        "games": 20
+      }
+    },
+    "jace-updated:Cautious": {
+      "4036": {
+        "wins": 8,
+        "games": 20
+      },
+      "171880": {
+        "wins": 9,
+        "games": 20
+      },
+      "313935": {
+        "wins": 4,
+        "games": 20
+      },
+      "3370911": {
+        "wins": 6,
+        "games": 20
+      },
+      "6482039": {
+        "wins": 6,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 15,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 9,
+        "games": 20
+      },
+      "15073736": {
+        "wins": 5,
+        "games": 20
+      }
+    },
+    "jace-updated:Reckless": {
+      "4036": {
+        "wins": 9,
+        "games": 20
+      },
+      "171880": {
+        "wins": 10,
+        "games": 20
+      },
+      "313935": {
+        "wins": 7,
+        "games": 20
+      },
+      "3370911": {
+        "wins": 6,
+        "games": 20
+      },
+      "6482039": {
+        "wins": 8,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 8,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 2,
+        "games": 20
+      },
+      "15073736": {
+        "wins": 5,
+        "games": 20
+      }
+    },
+    "jace-updated:Experimental": {
+      "4036": {
+        "wins": 6,
+        "games": 20
+      },
+      "171880": {
+        "wins": 12,
+        "games": 20
+      },
+      "313935": {
+        "wins": 8,
+        "games": 20
+      },
+      "3370911": {
+        "wins": 3,
+        "games": 20
+      },
+      "6482039": {
+        "wins": 14,
+        "games": 20
+      },
+      "9298397": {
+        "wins": 13,
+        "games": 20
+      },
+      "11650077": {
+        "wins": 3,
+        "games": 20
+      },
+      "15073736": {
+        "wins": 8,
+        "games": 20
+      }
+    }
+  }
+}

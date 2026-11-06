@@ -1,0 +1,7 @@
+{
+  "completed": true,
+  "round": 1,
+  "beforeSummary": "gauntlet/versions/wakanda/v1.7-c17-before/runs/2026-11-04153752-c17-round1-b1-smart-politics-100/summary.json",
+  "installedSummary": "gauntlet/versions/wakanda/v1.8-c17-installed/runs/2026-11-04153752-c17-round1-b1-smart-politics-100/summary.json",
+  "note": "Round 1 (group b1): before 25/100 clean (raw 27, suspect 2, timeouts 0); installed 26/100 clean (raw 28, suspect 3, timeouts 0). Runner c17-round.py sha ae37d38643cc."
+}

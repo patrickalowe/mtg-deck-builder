@@ -1,0 +1,16 @@
+{
+  "deck": "wakanda",
+  "version": "v1-bought14",
+  "run": "2026-10-271953-500",
+  "smart": false,
+  "games": 500,
+  "wins": 56,
+  "draws": 0,
+  "winRate": 0.112,
+  "ci95": [
+    0.0872623972834597,
+    0.1426543066965213
+  ],
+  "avgRounds": 11.062,
+  "baselineNote": "4-player pods: 25% = even share"
+}

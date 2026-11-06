@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Aetherize",
+    "usd": 0.31,
+    "finish": "nonfoil",
+    "set": "fdc",
+    "set_name": "Foundations Commander",
+    "collector_number": "59",
+    "url": "https://scryfall.com/card/fdc/59/aetherize",
+    "id": "55c94e96-6563-43d5-8787-17868846e010",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.31,
+      "set": "fdc",
+      "collector_number": "59",
+      "url": "https://scryfall.com/card/fdc/59/aetherize"
+    },
+    "printings_checked": 15
+  },
+  {
+    "name": "Anguished Unmaking",
+    "usd": 1.76,
+    "finish": "nonfoil",
+    "set": "pip",
+    "set_name": "Fallout",
+    "collector_number": "209",
+    "url": "https://scryfall.com/card/pip/209/anguished-unmaking",
+    "id": "272e0f42-a881-4ee2-94a5-2c740863aa74",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 1.76,
+      "set": "pip",
+      "collector_number": "209",
+      "url": "https://scryfall.com/card/pip/209/anguished-unmaking"
+    },
+    "printings_checked": 20
+  },
+  {
+    "name": "Austere Command",
+    "usd": 0.33,
+    "finish": "nonfoil",
+    "set": "fdc",
+    "set_name": "Foundations Commander",
+    "collector_number": "18",
+    "url": "https://scryfall.com/card/fdc/18/austere-command",
+    "id": "a47d6756-400c-4d45-8708-8a8e95c926c8",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.33,
+      "set": "fdc",
+      "collector_number": "18",
+      "url": "https://scryfall.com/card/fdc/18/austere-command"
+    },
+    "printings_checked": 26
+  },
+  {
+    "name": "Chandra's Ignition",
+    "usd": 3.57,
+    "finish": "nonfoil",
+    "set": "fdc",
+    "set_name": "Foundations Commander",
+    "collector_number": "145",
+    "url": "https://scryfall.com/card/fdc/145/chandras-ignition",
+    "id": "d9f011c7-6d90-4db8-a4b7-65010130762c",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 3.57,
+      "set": "fdc",
+      "collector_number": "145",
+      "url": "https://scryfall.com/card/fdc/145/chandras-ignition"
+    },
+    "printings_checked": 10
+  },
+  {
+    "name": "Clever Concealment",
+    "usd": 3.44,
+    "finish": "nonfoil",
+    "set": "fic",
+    "set_name": "Final Fantasy Commander",
+    "collector_number": "236",
+    "url": "https://scryfall.com/card/fic/236/clever-concealment",
+    "id": "4836e220-5c89-49fc-8918-a51adf026ab4",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 3.44,
+      "set": "fic",
+      "collector_number": "236",
+      "url": "https://scryfall.com/card/fic/236/clever-concealment"
+    },
+    "printings_checked": 6
+  },
+  {
+    "name": "Cyclonic Rift",
+    "usd": 30.54,
+    "finish": "nonfoil",
+    "set": "2xm",
+    "set_name": "Double Masters",
+    "collector_number": "47",
+    "url": "https://scryfall.com/card/2xm/47/cyclonic-rift",
+    "id": "ff08e5ed-f47b-4d8e-8b8b-41675dccef8b",
+    "game_changer": true,
+    "nonfoil": {
+      "usd": 30.54,
+      "set": "2xm",
+      "collector_number": "47",
+      "url": "https://scryfall.com/card/2xm/47/cyclonic-rift"
+    },
+    "printings_checked": 15
+  },
+  {
+    "name": "Fateful Absence",
+    "usd": 0.24,
+    "finish": "nonfoil",
+    "set": "fdc",
+    "set_name": "Foundations Commander",
+    "collector_number": "30",
+    "url": "https://scryfall.com/card/fdc/30/fateful-absence",
+    "id": "168a41be-fa21-4d09-baf8-af3afd516d9b",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.24,
+      "set": "fdc",
+      "collector_number": "30",
+      "url": "https://scryfall.com/card/fdc/30/fateful-absence"
+    },
+    "printings_checked": 7
+  },
+  {
+    "name": "Infernal Grasp",
+    "usd": 0.29,
+    "finish": "nonfoil",
+    "set": "soc",
+    "set_name": "Secrets of Strixhaven Commander",
+    "collector_number": "216",
+    "url": "https://scryfall.com/card/soc/216/infernal-grasp",
+    "id": "f67b323d-0dda-45f8-84b7-d883ce5045a8",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.29,
+      "set": "soc",
+      "collector_number": "216",
+      "url": "https://scryfall.com/card/soc/216/infernal-grasp"
+    },
+    "printings_checked": 14
+  },
+  {
+    "name": "Massacre Wurm",
+    "usd": 1.95,
+    "finish": "foil",
+    "set": "fdn",
+    "set_name": "Foundations",
+    "collector_number": "714",
+    "url": "https://scryfall.com/card/fdn/714/massacre-wurm",
+    "id": "39be2675-986c-4812-9448-99737e797671",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 2.68,
+      "set": "fdn",
+      "collector_number": "754",
+      "url": "https://scryfall.com/card/fdn/754/massacre-wurm"
+    },
+    "printings_checked": 11
+  },
+  {
+    "name": "Oath of Gideon",
+    "usd": 0.32,
+    "finish": "nonfoil",
+    "set": "ogw",
+    "set_name": "Oath of the Gatewatch",
+    "collector_number": "30",
+    "url": "https://scryfall.com/card/ogw/30/oath-of-gideon",
+    "id": "97976ade-c6ec-4068-be6b-953255b86a79",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.32,
+      "set": "ogw",
+      "collector_number": "30",
+      "url": "https://scryfall.com/card/ogw/30/oath-of-gideon"
+    },
+    "printings_checked": 3
+  },
+  {
+    "name": "Spectral Procession",
+    "usd": 0.17,
+    "finish": "nonfoil",
+    "set": "plst",
+    "set_name": "The List",
+    "collector_number": "SHM-23",
+    "url": "https://scryfall.com/card/plst/SHM-23/spectral-procession",
+    "id": "5e1ae45c-ac55-468d-8e27-e72b5954ce94",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.17,
+      "set": "plst",
+      "collector_number": "SHM-23",
+      "url": "https://scryfall.com/card/plst/SHM-23/spectral-procession"
+    },
+    "printings_checked": 6
+  },
+  {
+    "name": "Sram's Expertise",
+    "usd": 0.63,
+    "finish": "nonfoil",
+    "set": "aer",
+    "set_name": "Aether Revolt",
+    "collector_number": "24",
+    "url": "https://scryfall.com/card/aer/24/srams-expertise",
+    "id": "7c6d47b0-4c19-4c19-9e21-54cd87a5e34d",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 0.63,
+      "set": "aer",
+      "collector_number": "24",
+      "url": "https://scryfall.com/card/aer/24/srams-expertise"
+    },
+    "printings_checked": 2
+  },
+  {
+    "name": "Toxic Deluge",
+    "usd": 5.31,
+    "finish": "nonfoil",
+    "set": "msc",
+    "set_name": "Marvel Super Heroes Commander",
+    "collector_number": "161",
+    "url": "https://scryfall.com/card/msc/161/toxic-deluge",
+    "id": "de5afccc-8d42-4bd6-b068-b9ea2361655e",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 5.31,
+      "set": "msc",
+      "collector_number": "161",
+      "url": "https://scryfall.com/card/msc/161/toxic-deluge"
+    },
+    "printings_checked": 17
+  },
+  {
+    "name": "Wrath of God",
+    "usd": 3.23,
+    "finish": "nonfoil",
+    "set": "dmr",
+    "set_name": "Dominaria Remastered",
+    "collector_number": "279",
+    "url": "https://scryfall.com/card/dmr/279/wrath-of-god",
+    "id": "f8603c3b-9a10-4a04-b417-284a8e3925a9",
+    "game_changer": false,
+    "nonfoil": {
+      "usd": 3.23,
+      "set": "dmr",
+      "collector_number": "279",
+      "url": "https://scryfall.com/card/dmr/279/wrath-of-god"
+    },
+    "printings_checked": 50
+  }
+]

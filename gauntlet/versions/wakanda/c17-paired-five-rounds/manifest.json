@@ -1,0 +1,102 @@
+{
+  "series": "tchalla-c17-2026-11-04",
+  "deckKey": "wakanda",
+  "rounds": 5,
+  "gamesPerArmPerRound": 100,
+  "totalGames": 1000,
+  "flags": [
+    "--smart",
+    "--politics"
+  ],
+  "assumptions": [
+    "Divine Visitation present in both arms: explicitly authorized by Patrick",
+    "Forsaken Monument removes Panther Idol/Mind\u2019s Eye: original-plan assumption; actual cut unknown"
+  ],
+  "arms": {
+    "before": {
+      "version": "v1.7-c17-before",
+      "deck": "gauntlet/versions/wakanda/v1.7-c17-before/deck.dck",
+      "sha256": "d3c32242da7f8dd145ff480d28d6d706f944a8c33ffc9bd385e8b0d8c45c3523",
+      "cards": 100,
+      "lands": 37
+    },
+    "installed": {
+      "version": "v1.8-c17-installed",
+      "deck": "gauntlet/versions/wakanda/v1.8-c17-installed/deck.dck",
+      "sha256": "62eb8e5eb854344eeeabf200cf49cdc039646a99f3afece900e455fc5988e716",
+      "cards": 100,
+      "lands": 37
+    }
+  },
+  "groups": [
+    {
+      "round": 1,
+      "file": "gauntlet/gauntlet-b1.json",
+      "sha256": "92d6d6d5d09260c7bb54138b63c6128ce7330b166a2afb933ab412e7246e35ab",
+      "trialsFile": "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b1.json",
+      "trialsSha256": "b2f329aca3f5199250171f1326c0c8d8f12e32a06f586cb6ba0e023c1072d740"
+    },
+    {
+      "round": 2,
+      "file": "gauntlet/gauntlet-b2.json",
+      "sha256": "d9949446d0955bc347a9079d2ed37131403d09f86a61604a7f7e91361490f219",
+      "trialsFile": "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b2.json",
+      "trialsSha256": "55b905ace3de5081575e4d9846fd8307252cb009a7c2054e7c4597f5989ea921"
+    },
+    {
+      "round": 3,
+      "file": "gauntlet/gauntlet-b3.json",
+      "sha256": "7ff2c601ee6373866af94036b8e542967a78c07461e63d26bbacf4c8f0ef709e",
+      "trialsFile": "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b3.json",
+      "trialsSha256": "8b7925b349ef3a93844d28e15146d6378991990401cf5aa3c5271afa46ed6e42"
+    },
+    {
+      "round": 4,
+      "file": "gauntlet/gauntlet-b4.json",
+      "sha256": "de99c7f23c25f33c7b39d53130f7cc6d85c6685a2ee3ff5261020c1592bacb8c",
+      "trialsFile": "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b4.json",
+      "trialsSha256": "e0f79cf4ef4730bdb901c292a330999b8a19438f0347259022a1388994841cf8"
+    },
+    {
+      "round": 5,
+      "file": "gauntlet/gauntlet-b5.json",
+      "sha256": "714b9e8cb6086b15a776598529f35579da868fcad40a0eaf19d7b497446b158b",
+      "trialsFile": "gauntlet/versions/wakanda/c17-paired-five-rounds/trials-b5.json",
+      "trialsSha256": "40078a1ca5742a83b3bd1a2774e894f6fa5c609c65f91883fffb68edfe89bf82"
+    }
+  ],
+  "frozenFiles": {
+    "forge/replaysim/classes/forge/view/PodSim$1.class": "5dc59142eac45d622b8bbe5ab8ad142fc27626ed5ceb01fa7d55e2a3790fa483",
+    "forge/replaysim/classes/forge/view/PodSim$HandTracker.class": "144ac1a14c4a7dcfdda8e043197e1d018eeeeda59bb23fa593074644236e3ebc",
+    "forge/replaysim/classes/forge/view/PodSim$RuleController.class": "8605b7e5428cf3fe44e77f5795dafc1c4175c682538811251624226a4207d9c8",
+    "forge/replaysim/classes/forge/view/PodSim$RuleLobbyPlayer.class": "6ffd2cce557c9a5f83e843a6f205bba281bd93de583518ad0dc0d3d9e095af4a",
+    "forge/replaysim/classes/forge/view/PodSim.class": "bc379934187302ccf3a1267baff2a0962525bdfbad1e6ce364afab1403439837",
+    "forge/replaysim/classes/forge/view/ReplayRecorder$Tracker.class": "19921cdb6b67dcb90a5f90c4beaca3ced54111846acb92f52bb8804c675def33",
+    "forge/replaysim/classes/forge/view/ReplayRecorder.class": "07fc9fecf03550d1e54790b07f643673b900f7f37e1a3aa2ef8fe34164a8f25a",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartAttach.class": "d741a94ee26184db0b8288c81d75d9ec7b1b61bef8d3d5922f245736e8912cbd",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartChangeZoneAll.class": "86f54c1b815ebeb7d74c20324d34725d303ee2a5b191fd61cc149b8a276cb20f",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartDraw.class": "019f1e9b5671bc815c7bb2adace831fe7d27a599784675e18e39ab4a90ef9c96",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPeek.class": "6de29f9708aa69efd870eb79c6520f8b9d5704247ebf57e472441061438b6bf3",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPermanentCreature.class": "fa9dbad142d8944c6ebf4877995e0f061daed17f1930f77113163fd75b2d8a66",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPermanentNoncreature.class": "c782e367b184ca4955416af05771f8c18399b67e2f9f8dad46ce28fca38d0a92",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPhases.class": "8fc66a50cd67cef99acbff664661ddb67d7c282bee91e35e23f9aef075520b93",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartRemoveFromCombat.class": "e8375b6220c00753fddf52625a43b41bac50fec65f4b0cad6365b9ab72420419",
+    "forge/replaysim/classes/forge/view/SmartAi.class": "02564ef98c4d67461b179779d62232581d4ae4f1a85dcddd85602defc8b017e9",
+    "forge/replaysim/classes/forge/view/SmartSim.class": "b68c8373e425465c17c44c63ab284c184e8cf9ab4a02ab53cf7867d3b989b726",
+    "forge/app-custom/res/cardsfolder/cardsfolder.zip": "02c2b0e93031edd8b609e90bc9dc26aea7e9eb450491130ed409afee426c71e3",
+    "forge/app-custom/forge-gui-desktop-2.0.15-jar-with-dependencies.jar": "85a4c31e07d4d5621a84bb03b6d75fd08e9f4ba289e575c870579b49c0033766",
+    "gauntlet/gauntlet.js": "dc6d04e20a55a3bb2b7739ddfba726ed4820326b47a023c5216fbf395cebda42"
+  },
+  "validation": {
+    "count": "100 per arm",
+    "lands": "37 per arm; same land multiset",
+    "localForgeCards": "all found",
+    "offColorCachedIdentities": [],
+    "fullOnlineBracketComboAudit": "not performed; do not claim certified"
+  },
+  "status": "ready-for-preflight",
+  "expectedBuild": {
+    "classesSha": "601627412546ce7c",
+    "cardsSha": "02c2b0e93031edd8"
+  }
+}

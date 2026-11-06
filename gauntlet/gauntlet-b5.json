@@ -1,0 +1,198 @@
+{
+ "description": "C16 baseline batch 5 of 5: distinct opponent group (no deck shared with other batches), 20 balanced pods, own seeds. Built 2026-10-30.",
+ "decks": {
+  "9298397": "Meren of Clan Nel Toth",
+  "16489002": "Raffine, Scheming Seer",
+  "11619336": "Captain Sisay",
+  "9539857": "Winter, Cynical Opportunist",
+  "1585124": "Baba Lysaga, Night Witch",
+  "4593151": "Octavia, Living Thesis",
+  "4594920": "Mangara, the Diplomat",
+  "7933656": "C\u00edrdan the Shipwright",
+  "13868857": "Vincent, Vengeful Atoner",
+  "4036": "Yennett, Cryptic Sovereign",
+  "1932156": "Tetsuko Umezawa, Fugitive"
+ },
+ "pods": [
+  {
+   "id": "b5pod01",
+   "opponents": [
+    "11619336",
+    "1585124",
+    "16489002"
+   ],
+   "seed": 3501000
+  },
+  {
+   "id": "b5pod02",
+   "opponents": [
+    "4036",
+    "4593151",
+    "9539857"
+   ],
+   "seed": 3502000
+  },
+  {
+   "id": "b5pod03",
+   "opponents": [
+    "13868857",
+    "4594920",
+    "9298397"
+   ],
+   "seed": 3503000
+  },
+  {
+   "id": "b5pod04",
+   "opponents": [
+    "11619336",
+    "1932156",
+    "7933656"
+   ],
+   "seed": 3504000
+  },
+  {
+   "id": "b5pod05",
+   "opponents": [
+    "7933656",
+    "9298397",
+    "9539857"
+   ],
+   "seed": 3505000
+  },
+  {
+   "id": "b5pod06",
+   "opponents": [
+    "13868857",
+    "16489002",
+    "4594920"
+   ],
+   "seed": 3506000
+  },
+  {
+   "id": "b5pod07",
+   "opponents": [
+    "1585124",
+    "16489002",
+    "4593151"
+   ],
+   "seed": 3507000
+  },
+  {
+   "id": "b5pod08",
+   "opponents": [
+    "1932156",
+    "4036",
+    "4593151"
+   ],
+   "seed": 3508000
+  },
+  {
+   "id": "b5pod09",
+   "opponents": [
+    "1585124",
+    "1932156",
+    "4594920"
+   ],
+   "seed": 3509000
+  },
+  {
+   "id": "b5pod10",
+   "opponents": [
+    "13868857",
+    "9298397",
+    "9539857"
+   ],
+   "seed": 3510000
+  },
+  {
+   "id": "b5pod11",
+   "opponents": [
+    "1932156",
+    "4036",
+    "7933656"
+   ],
+   "seed": 3511000
+  },
+  {
+   "id": "b5pod12",
+   "opponents": [
+    "11619336",
+    "9298397",
+    "9539857"
+   ],
+   "seed": 3512000
+  },
+  {
+   "id": "b5pod13",
+   "opponents": [
+    "1585124",
+    "4036",
+    "4594920"
+   ],
+   "seed": 3513000
+  },
+  {
+   "id": "b5pod14",
+   "opponents": [
+    "13868857",
+    "4593151",
+    "7933656"
+   ],
+   "seed": 3514000
+  },
+  {
+   "id": "b5pod15",
+   "opponents": [
+    "11619336",
+    "16489002",
+    "9298397"
+   ],
+   "seed": 3515000
+  },
+  {
+   "id": "b5pod16",
+   "opponents": [
+    "13868857",
+    "1932156",
+    "9539857"
+   ],
+   "seed": 3516000
+  },
+  {
+   "id": "b5pod17",
+   "opponents": [
+    "1585124",
+    "4593151",
+    "4594920"
+   ],
+   "seed": 3517000
+  },
+  {
+   "id": "b5pod18",
+   "opponents": [
+    "11619336",
+    "16489002",
+    "7933656"
+   ],
+   "seed": 3518000
+  },
+  {
+   "id": "b5pod19",
+   "opponents": [
+    "13868857",
+    "4594920",
+    "7933656"
+   ],
+   "seed": 3519000
+  },
+  {
+   "id": "b5pod20",
+   "opponents": [
+    "11619336",
+    "1585124",
+    "1932156"
+   ],
+   "seed": 3520000
+  }
+ ]
+}

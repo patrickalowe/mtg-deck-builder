@@ -1,0 +1,41 @@
+# MTG Deck Builder — files kept out of the repository
+
+# Forge itself (download/install separately) and runtimes built from it
+forge/app/
+forge/app-custom/
+forge/app-jace-real/
+forge/app-jace-minus3/
+forge/replaysim/classes*/
+*.class
+forge/download/
+forge/runs/
+forge/runs-*.log
+
+# Simulation output: raw game logs are huge; keep summary.json / card-stats.csv / trials.json
+gauntlet/versions/*/*/runs/*/logs/
+gauntlet/versions/*/c17-paired-five-rounds/selftest/
+gauntlet/versions/*/c17-paired-five-rounds/runner.lock
+gauntlet/run-*.log
+gauntlet/fixtures/out/
+gauntlet/cache-cards.json
+gauntlet/reviews/feed.jsonl
+gauntlet/reviews/seen.txt
+gauntlet/reviews/watch.lock
+
+# Replay viewer: downloaded card images, generated data, recorded games
+replay/img/
+replay/data/
+replay/logs/
+
+# Third-party clones, dependencies, OS/editor noise
+external/
+node_modules/
+.DS_Store
+*.tmp
+__pycache__/
+
+# Raw game logs used by older analyses (large; reproducible)
+analysis/logs/
+
+# Raw agent session transcripts (the written reviews are kept)
+gauntlet/versions/*/c17-paired-five-rounds/round-*/codex-std*

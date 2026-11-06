@@ -1,0 +1,18 @@
+{
+  "deck": "wakanda",
+  "version": "v0.1-real-lands",
+  "run": "2026-10-280032-smart-politics-100",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "games": 100,
+  "wins": 10,
+  "draws": 0,
+  "winRate": 0.1,
+  "ci95": [
+    0.05522854161313613,
+    0.1743673043676654
+  ],
+  "avgRounds": 10.76,
+  "baselineNote": "4-player pods: 25% = even share"
+}

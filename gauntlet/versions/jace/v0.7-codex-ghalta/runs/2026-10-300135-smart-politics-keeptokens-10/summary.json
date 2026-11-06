@@ -1,0 +1,22 @@
+{
+  "deck": "jace",
+  "version": "v0.7-codex-ghalta",
+  "run": "2026-10-300135-smart-politics-keeptokens-10",
+  "smart": true,
+  "politics": true,
+  "holdMana": false,
+  "safeAttack": false,
+  "artifactsFirst": false,
+  "commanderFirst": false,
+  "keepTokens": true,
+  "games": 10,
+  "wins": 6,
+  "draws": 0,
+  "winRate": 0.6,
+  "ci95": [
+    0.3126695474501863,
+    0.8318224187964901
+  ],
+  "avgRounds": 13.4,
+  "baselineNote": "4-player pods: 25% = even share"
+}

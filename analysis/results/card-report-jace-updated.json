@@ -1,0 +1,653 @@
+[
+  {
+    "c": "Aminatou, the Fateshifter",
+    "drawn": 23,
+    "castRate": 0.6521739130434783,
+    "early": 16,
+    "delta": -0.234375
+  },
+  {
+    "c": "Sunfall",
+    "drawn": 23,
+    "castRate": 0,
+    "early": 15,
+    "delta": 0.03076923076923077
+  },
+  {
+    "c": "Way of the Healer",
+    "drawn": 23,
+    "castRate": 0.6086956521739131,
+    "early": 14,
+    "delta": -0.10822510822510822
+  },
+  {
+    "c": "Triplicate Titan",
+    "drawn": 17,
+    "castRate": 0.11764705882352941,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Brainsurge",
+    "drawn": 13,
+    "castRate": 0.6923076923076923,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Cursed Mirror",
+    "drawn": 20,
+    "castRate": 0.45,
+    "early": 11,
+    "delta": -0.43478260869565216
+  },
+  {
+    "c": "Swamp",
+    "drawn": 28,
+    "castRate": 0.8571428571428571,
+    "early": 16,
+    "delta": -0.15625
+  },
+  {
+    "c": "Swords to Plowshares",
+    "drawn": 22,
+    "castRate": 0.9090909090909091,
+    "early": 17,
+    "delta": -0.028011204481792673
+  },
+  {
+    "c": "Chromatic Lantern",
+    "drawn": 24,
+    "castRate": 0.5416666666666666,
+    "early": 15,
+    "delta": 0.2769230769230769
+  },
+  {
+    "c": "Teferi, Hero of Dominaria",
+    "drawn": 22,
+    "castRate": 0.6818181818181818,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Tekuthal, Inquiry Dominus",
+    "drawn": 14,
+    "castRate": 0.7857142857142857,
+    "early": 8,
+    "delta": -0.1388888888888889
+  },
+  {
+    "c": "Clever Concealment",
+    "drawn": 22,
+    "castRate": 0,
+    "early": 17,
+    "delta": -0.17740429505135386
+  },
+  {
+    "c": "Island",
+    "drawn": 44,
+    "castRate": 0.8636363636363636,
+    "early": 32,
+    "delta": 0.052083333333333315
+  },
+  {
+    "c": "Ripples of Potential",
+    "drawn": 21,
+    "castRate": 0.5714285714285714,
+    "early": 13,
+    "delta": -0.1722158438576349
+  },
+  {
+    "c": "Glacial Fortress",
+    "drawn": 19,
+    "castRate": 0.7894736842105263,
+    "early": 15,
+    "delta": -0.13333333333333336
+  },
+  {
+    "c": "Restless Spire",
+    "drawn": 22,
+    "castRate": 0.8181818181818182,
+    "early": 16,
+    "delta": 0
+  },
+  {
+    "c": "Clifftop Retreat",
+    "drawn": 16,
+    "castRate": 0.9375,
+    "early": 10,
+    "delta": 0.02857142857142858
+  },
+  {
+    "c": "Talisman of Creativity",
+    "drawn": 22,
+    "castRate": 0.7272727272727273,
+    "early": 11,
+    "delta": -0.11857707509881427
+  },
+  {
+    "c": "Lim-Dûl's Vault",
+    "drawn": 19,
+    "castRate": 0,
+    "early": 12,
+    "delta": -0.24509803921568626
+  },
+  {
+    "c": "Fetid Heath",
+    "drawn": 18,
+    "castRate": 0.8888888888888888,
+    "early": 12,
+    "delta": -0.24509803921568626
+  },
+  {
+    "c": "Divergent Transformations",
+    "drawn": 24,
+    "castRate": 0.625,
+    "early": 12,
+    "delta": -0.04901960784313725
+  },
+  {
+    "c": "Haunted Ridge",
+    "drawn": 26,
+    "castRate": 1,
+    "early": 13,
+    "delta": 0.10332950631458099
+  },
+  {
+    "c": "Nissa, Leyline Tamer",
+    "drawn": 23,
+    "castRate": 0.34782608695652173,
+    "early": 15,
+    "delta": -0.13333333333333336
+  },
+  {
+    "c": "Reflecting Pool",
+    "drawn": 20,
+    "castRate": 0.7,
+    "early": 11,
+    "delta": 0.19762845849802368
+  },
+  {
+    "c": "Prairie Stream",
+    "drawn": 18,
+    "castRate": 0.8333333333333334,
+    "early": 10,
+    "delta": 0.2571428571428571
+  },
+  {
+    "c": "Fabled Passage",
+    "drawn": 20,
+    "castRate": 0.8,
+    "early": 14,
+    "delta": 0.23809523809523808
+  },
+  {
+    "c": "Overwrite the Multiverse",
+    "drawn": 22,
+    "castRate": 0,
+    "early": 14,
+    "delta": -0.10822510822510822
+  },
+  {
+    "c": "Rakdos Signet",
+    "drawn": 23,
+    "castRate": 0,
+    "early": 16,
+    "delta": 0
+  },
+  {
+    "c": "Fatehold Charm",
+    "drawn": 19,
+    "castRate": 0.8421052631578947,
+    "early": 10,
+    "delta": 0.02857142857142858
+  },
+  {
+    "c": "Martial Coup",
+    "drawn": 18,
+    "castRate": 0.2777777777777778,
+    "early": 8,
+    "delta": -0.1388888888888889
+  },
+  {
+    "c": "Lingering Souls",
+    "drawn": 18,
+    "castRate": 0.7222222222222222,
+    "early": 12,
+    "delta": 0.14705882352941174
+  },
+  {
+    "c": "Shivan Reef",
+    "drawn": 19,
+    "castRate": 0.8947368421052632,
+    "early": 13,
+    "delta": 0.01148105625717566
+  },
+  {
+    "c": "Sunken Ruins",
+    "drawn": 14,
+    "castRate": 0.9285714285714286,
+    "early": 8,
+    "delta": 0.1388888888888889
+  },
+  {
+    "c": "Jhoira, Weatherlight Corsair",
+    "drawn": 27,
+    "castRate": 0.6666666666666666,
+    "early": 14,
+    "delta": 0.1515151515151515
+  },
+  {
+    "c": "Mountain",
+    "drawn": 20,
+    "castRate": 0.8,
+    "early": 13,
+    "delta": -0.08036739380022961
+  },
+  {
+    "c": "Underground River",
+    "drawn": 19,
+    "castRate": 0.8421052631578947,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Aetherize",
+    "drawn": 23,
+    "castRate": 0.2608695652173913,
+    "early": 14,
+    "delta": -0.36796536796536794
+  },
+  {
+    "c": "Path of Ancestry",
+    "drawn": 23,
+    "castRate": 0.8695652173913043,
+    "early": 16,
+    "delta": 0.15625
+  },
+  {
+    "c": "Path to Exile",
+    "drawn": 15,
+    "castRate": 0.9333333333333333,
+    "early": 8,
+    "delta": 0
+  },
+  {
+    "c": "The Theorist, Jace Beleren",
+    "drawn": 23,
+    "castRate": 0.6086956521739131,
+    "early": 12,
+    "delta": -0.24509803921568626
+  },
+  {
+    "c": "Restless Anchorage",
+    "drawn": 17,
+    "castRate": 0.9411764705882353,
+    "early": 10,
+    "delta": -0.2
+  },
+  {
+    "c": "Memnarch, the Warden",
+    "drawn": 17,
+    "castRate": 0.17647058823529413,
+    "early": 8,
+    "delta": 0.2777777777777778
+  },
+  {
+    "c": "Overlord of the Mistmoors",
+    "drawn": 19,
+    "castRate": 0.6842105263157895,
+    "early": 9,
+    "delta": -0.04694835680751175
+  },
+  {
+    "c": "Perilous Landscape",
+    "drawn": 18,
+    "castRate": 0.6666666666666666,
+    "early": 10,
+    "delta": 0.14285714285714285
+  },
+  {
+    "c": "Azorius Signet",
+    "drawn": 22,
+    "castRate": 0,
+    "early": 13,
+    "delta": 0.1951779563719862
+  },
+  {
+    "c": "Battlefield Forge",
+    "drawn": 21,
+    "castRate": 1,
+    "early": 14,
+    "delta": 0.0649350649350649
+  },
+  {
+    "c": "Serra's Emissary",
+    "drawn": 23,
+    "castRate": 0.6956521739130435,
+    "early": 14,
+    "delta": 0.23809523809523808
+  },
+  {
+    "c": "Talisman of Indulgence",
+    "drawn": 22,
+    "castRate": 0.5,
+    "early": 12,
+    "delta": -0.14705882352941174
+  },
+  {
+    "c": "Grand Crescendo",
+    "drawn": 18,
+    "castRate": 0.5555555555555556,
+    "early": 11,
+    "delta": -0.013175230566534912
+  },
+  {
+    "c": "Massacre Wurm",
+    "drawn": 22,
+    "castRate": 0.36363636363636365,
+    "early": 10,
+    "delta": 0.2571428571428571
+  },
+  {
+    "c": "Talisman of Progress",
+    "drawn": 20,
+    "castRate": 0.55,
+    "early": 9,
+    "delta": 0.32863849765258213
+  },
+  {
+    "c": "Archfiend of Despair",
+    "drawn": 15,
+    "castRate": 0.3333333333333333,
+    "early": 8,
+    "delta": -0.2777777777777778
+  },
+  {
+    "c": "Command Tower",
+    "drawn": 19,
+    "castRate": 0.8947368421052632,
+    "early": 12,
+    "delta": -0.04901960784313725
+  },
+  {
+    "c": "Ajani Unrelenting",
+    "drawn": 17,
+    "castRate": 0.7058823529411765,
+    "early": 11,
+    "delta": 0.19762845849802368
+  },
+  {
+    "c": "Secure the Wastes",
+    "drawn": 22,
+    "castRate": 0.7272727272727273,
+    "early": 10,
+    "delta": -0.2
+  },
+  {
+    "c": "Oath of Gideon",
+    "drawn": 19,
+    "castRate": 0.5789473684210527,
+    "early": 12,
+    "delta": 0.14705882352941174
+  },
+  {
+    "c": "Avacyn, Angel of Hope",
+    "drawn": 24,
+    "castRate": 0.5,
+    "early": 10,
+    "delta": -0.3142857142857143
+  },
+  {
+    "c": "Arcane Signet",
+    "drawn": 25,
+    "castRate": 0.56,
+    "early": 12,
+    "delta": 0.14705882352941174
+  },
+  {
+    "c": "Plan for All Outcomes",
+    "drawn": 19,
+    "castRate": 0.6842105263157895,
+    "early": 11,
+    "delta": 0.30303030303030304
+  },
+  {
+    "c": "Contaminated Landscape",
+    "drawn": 27,
+    "castRate": 0.6296296296296297,
+    "early": 16,
+    "delta": -0.15625
+  },
+  {
+    "c": "Izzet Signet",
+    "drawn": 12,
+    "castRate": 0,
+    "early": 4,
+    "delta": null
+  },
+  {
+    "c": "Isolated Chapel",
+    "drawn": 22,
+    "castRate": 0.9090909090909091,
+    "early": 10,
+    "delta": 0.14285714285714285
+  },
+  {
+    "c": "Dreadhorde Invasion",
+    "drawn": 13,
+    "castRate": 0.46153846153846156,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Synthetic Destiny",
+    "drawn": 15,
+    "castRate": 0,
+    "early": 12,
+    "delta": -0.04901960784313725
+  },
+  {
+    "c": "Turbulent Wetlands",
+    "drawn": 22,
+    "castRate": 0.7727272727272727,
+    "early": 17,
+    "delta": 0.3454715219421102
+  },
+  {
+    "c": "Turbulent Crater",
+    "drawn": 21,
+    "castRate": 0.7619047619047619,
+    "early": 17,
+    "delta": -0.10270774976657326
+  },
+  {
+    "c": "Silver Surfer, Galactus's Herald",
+    "drawn": 21,
+    "castRate": 0.5714285714285714,
+    "early": 12,
+    "delta": -0.04901960784313725
+  },
+  {
+    "c": "Occult Epiphany",
+    "drawn": 16,
+    "castRate": 0.6875,
+    "early": 9,
+    "delta": -0.297339593114241
+  },
+  {
+    "c": "Elspeth, Sun's Champion",
+    "drawn": 18,
+    "castRate": 0.6666666666666666,
+    "early": 14,
+    "delta": 0.1515151515151515
+  },
+  {
+    "c": "Drowned Catacomb",
+    "drawn": 18,
+    "castRate": 0.9444444444444444,
+    "early": 12,
+    "delta": -0.24509803921568626
+  },
+  {
+    "c": "Caves of Koilos",
+    "drawn": 20,
+    "castRate": 0.95,
+    "early": 12,
+    "delta": -0.04901960784313725
+  },
+  {
+    "c": "Galactus, Devourer of Worlds",
+    "drawn": 24,
+    "castRate": 0.2916666666666667,
+    "early": 12,
+    "delta": 0.04901960784313725
+  },
+  {
+    "c": "Kher Keep",
+    "drawn": 16,
+    "castRate": 1,
+    "early": 8,
+    "delta": 0
+  },
+  {
+    "c": "Mystic Gate",
+    "drawn": 20,
+    "castRate": 1,
+    "early": 13,
+    "delta": -0.08036739380022961
+  },
+  {
+    "c": "Archon of Cruelty",
+    "drawn": 19,
+    "castRate": 0.3684210526315789,
+    "early": 11,
+    "delta": 0.19762845849802368
+  },
+  {
+    "c": "Proteus Staff",
+    "drawn": 19,
+    "castRate": 0,
+    "early": 14,
+    "delta": -0.10822510822510822
+  },
+  {
+    "c": "Nicol Bolas, Dragon-God",
+    "drawn": 20,
+    "castRate": 0.55,
+    "early": 12,
+    "delta": -0.14705882352941174
+  },
+  {
+    "c": "Radiant Summit",
+    "drawn": 15,
+    "castRate": 0.8,
+    "early": 6,
+    "delta": null
+  },
+  {
+    "c": "Sulfurous Springs",
+    "drawn": 17,
+    "castRate": 0.8823529411764706,
+    "early": 8,
+    "delta": 0.4166666666666667
+  },
+  {
+    "c": "Avacyn, Angel of Horror",
+    "drawn": 21,
+    "castRate": 0.42857142857142855,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Chandra's Ignition",
+    "drawn": 15,
+    "castRate": 0.3333333333333333,
+    "early": 8,
+    "delta": -0.2777777777777778
+  },
+  {
+    "c": "Sulfur Falls",
+    "drawn": 21,
+    "castRate": 0.7142857142857143,
+    "early": 11,
+    "delta": 0.19762845849802368
+  },
+  {
+    "c": "Talisman of Dominance",
+    "drawn": 19,
+    "castRate": 0.5789473684210527,
+    "early": 7,
+    "delta": null
+  },
+  {
+    "c": "Cyclonic Rift",
+    "drawn": 13,
+    "castRate": 0.8461538461538461,
+    "early": 8,
+    "delta": -0.1388888888888889
+  },
+  {
+    "c": "Lich's Relic",
+    "drawn": 16,
+    "castRate": 0.75,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Brainstorm",
+    "drawn": 18,
+    "castRate": 0.6666666666666666,
+    "early": 13,
+    "delta": 0.37887485648679675
+  },
+  {
+    "c": "Sol Ring",
+    "drawn": 21,
+    "castRate": 0.6190476190476191,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Saheeli, Sublime Artificer",
+    "drawn": 17,
+    "castRate": 0.7647058823529411,
+    "early": 12,
+    "delta": -0.24509803921568626
+  },
+  {
+    "c": "Exotic Orchard",
+    "drawn": 15,
+    "castRate": 0.7333333333333333,
+    "early": 11,
+    "delta": 0.09222661396574439
+  },
+  {
+    "c": "Dimir Signet",
+    "drawn": 15,
+    "castRate": 0,
+    "early": 9,
+    "delta": -0.297339593114241
+  },
+  {
+    "c": "Flux Channeler",
+    "drawn": 11,
+    "castRate": 0.5454545454545454,
+    "early": 8,
+    "delta": 0
+  },
+  {
+    "c": "Turbulent Shore",
+    "drawn": 16,
+    "castRate": 0.6875,
+    "early": 8,
+    "delta": 0.4166666666666667
+  },
+  {
+    "c": "Jace, Multiverse Architect",
+    "drawn": 1,
+    "castRate": 1,
+    "early": 0,
+    "delta": null
+  }
+]

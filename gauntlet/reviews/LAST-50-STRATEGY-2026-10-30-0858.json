@@ -1,0 +1,1758 @@
+{
+  "games": [
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod10-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod10-g1",
+      "mtime": 1793375357.3215146,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 2,
+      "ajaniMinus3": [
+        [
+          1049,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 1066,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 10,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {
+          "would_kill_jace": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 39933 ms. Ai(3)-b3-9298397 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod08-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod08-g1",
+      "mtime": 1793375312.5018318,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 4,
+      "minus3": 5,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 13,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": 6,
+        "minus3_activated": 5,
+        "minus3_resolved": 5,
+        "hits": 5,
+        "declines": {
+          "would_kill_jace": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 48764 ms. Ai(2)-b3-11650077 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod07-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod07-g1",
+      "mtime": 1793375264.6115265,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 4,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 12,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 4,
+        "minus3_resolved": 4,
+        "hits": 4,
+        "declines": {
+          "would_kill_jace": 1,
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 32909 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod06-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod06-g1",
+      "mtime": 1793375258.9282525,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 4,
+      "ajaniMinus3": [
+        [
+          1068,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 1075,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 15,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": 7,
+        "minus3_activated": 4,
+        "minus3_resolved": 4,
+        "hits": 4,
+        "declines": {
+          "would_kill_jace": 6
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 33918 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod05-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod05-g1",
+      "mtime": 1793375226.3499877,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 5,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 12,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": 11,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "no_tokens_or_targets": 2,
+          "saving_valuable_pieces": 5
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 42627 ms. Ai(4)-b3-4133378 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod03-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod03-g1",
+      "mtime": 1793375218.7492275,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": 6,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 106827 ms. Ai(2)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod04-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod04-g1",
+      "mtime": 1793375178.9073617,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 5,
+      "minus3": 3,
+      "ajaniMinus3": [
+        [
+          810,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 829,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 18,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 11,
+        "minus3_activated": 3,
+        "minus3_resolved": 3,
+        "hits": 3,
+        "declines": {
+          "no_tokens_or_targets": 3,
+          "saving_valuable_pieces": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 61167 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod01-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod01-g1",
+      "mtime": 1793375111.8768773,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 6,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "would_kill_jace": 1,
+          "no_tokens_or_targets": 2,
+          "saving_valuable_pieces": 3
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 29413 ms. Ai(2)-b3-313935 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10/logs/pod02-g1.log",
+      "run": "2026-10-30154436-rtcombo-jacereal-jacecombo-safewalkers-smart-politics-commanderfirst-keeptokens-10",
+      "game": "pod02-g1",
+      "mtime": 1793375107.1618655,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": 6,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 25060 ms. Ai(4)-b3-4036 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod20-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod20-g5",
+      "mtime": 1793342843.1423137,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 10,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 18638 ms. Ai(4)-b3-4036 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod20-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod20-g4",
+      "mtime": 1793342824.5035617,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 26649 ms. Ai(2)-b3-313935 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod20-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod20-g3",
+      "mtime": 1793342797.853199,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 3,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 11,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": 7,
+        "minus3_activated": 3,
+        "minus3_resolved": 3,
+        "hits": 3,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 15104 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod20-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod20-g2",
+      "mtime": 1793342782.7484627,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 5,
+      "minus3": 3,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 18,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 6,
+        "minus3_activated": 3,
+        "minus3_resolved": 3,
+        "hits": 3,
+        "declines": {
+          "no_tokens_or_targets": 4,
+          "saving_valuable_pieces": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 62084 ms. Ai(4)-b3-4036 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod20-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod20-g1",
+      "mtime": 1793342720.6632411,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 15,
+        "first_jace_cast": 10,
+        "first_ready_window": 10,
+        "first_minus3": 14,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 50334 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod17-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod17-g5",
+      "mtime": 1793342710.7902734,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 13,
+        "first_jace_cast": 11,
+        "first_ready_window": 11,
+        "first_minus3": 11,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 27231 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod17-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod17-g4",
+      "mtime": 1793342683.5581005,
+      "win": true,
+      "suspect": true,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 10,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 600009 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod19-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod19-g5",
+      "mtime": 1793342666.0401478,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": 4,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "would_kill_jace": 1,
+          "no_tokens_or_targets": 1,
+          "saving_valuable_pieces": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 19860 ms. Ai(4)-b3-11650077 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod19-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod19-g4",
+      "mtime": 1793342646.1788454,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 7,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 7104 ms. Ai(2)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod19-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod19-g3",
+      "mtime": 1793342639.0739238,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost due to effect of spell 'Angel of Destiny'",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 7,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 5743 ms. Ai(4)-b3-11650077 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod19-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod19-g2",
+      "mtime": 1793342633.330678,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 3
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 41419 ms. Ai(4)-b3-11650077 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod19-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod19-g1",
+      "mtime": 1793342591.9105709,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 3,
+      "minus3": 2,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 21,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 7,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 45266 ms. Ai(4)-b3-11650077 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod18-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod18-g5",
+      "mtime": 1793342542.5826976,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 7,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 26748 ms. Ai(2)-b3-9298397 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod18-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod18-g4",
+      "mtime": 1793342515.8346884,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 1,
+      "ajaniMinus3": [
+        [
+          386,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 401,
+          "damageToPhysicalCards": [
+            [
+              "Tekuthal, Inquiry Dominus",
+              "71"
+            ]
+          ],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 11,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": 7,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 35534 ms. Ai(4)-b3-171880 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod18-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod18-g3",
+      "mtime": 1793342480.2992966,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 22481 ms. Ai(2)-b3-9298397 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod18-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod18-g2",
+      "mtime": 1793342457.8175812,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 3,
+      "minus3": 0,
+      "ajaniMinus3": [
+        [
+          437,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 447,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 11,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1,
+          "saving_valuable_pieces": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 34959 ms. Ai(2)-b3-9298397 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod18-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod18-g1",
+      "mtime": 1793342422.8571234,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 18,
+        "first_jace_cast": 10,
+        "first_ready_window": 10,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 106452 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod16-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod16-g5",
+      "mtime": 1793342312.2397916,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 181227 ms. Ai(3)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod16-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod16-g4",
+      "mtime": 1793342131.0119102,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 11,
+        "first_jace_cast": 10,
+        "first_ready_window": 10,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 18891 ms. Ai(3)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod16-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod16-g3",
+      "mtime": 1793342112.120009,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 7,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 16322 ms. Ai(3)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod16-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod16-g2",
+      "mtime": 1793342095.7974486,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 25739 ms. Ai(3)-b3-15073736 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod17-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod17-g3",
+      "mtime": 1793342083.5481336,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 2,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": 7,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 50745 ms. Ai(4)-b3-4133378 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod16-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod16-g1",
+      "mtime": 1793342070.0569522,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 3,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 16,
+        "first_jace_cast": 7,
+        "first_ready_window": 7,
+        "first_minus3": 12,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 192948 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod17-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod17-g2",
+      "mtime": 1793342032.8026597,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 2,
+      "ajaniMinus3": [
+        [
+          578,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 589,
+          "damageToPhysicalCards": [
+            [
+              "Archfiend of Despair",
+              "91"
+            ]
+          ],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 14,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 24820 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod17-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod17-g1",
+      "mtime": 1793342007.9813097,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 16562 ms. Ai(3)-b3-313935 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod13-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod13-g5",
+      "mtime": 1793341987.5426013,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 12,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 38194 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod13-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod13-g4",
+      "mtime": 1793341949.3473465,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 42251 ms. Ai(4)-b3-13631413 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod13-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod13-g3",
+      "mtime": 1793341907.0949194,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 2,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 8,
+        "first_ready_window": 8,
+        "first_minus3": 8,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 129283 ms. Ai(4)-b3-13631413 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod20-g5.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod20-g5",
+      "mtime": 1793341873.67926,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 10,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 25314 ms. Ai(4)-b3-4036 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod15-g5.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod15-g5",
+      "mtime": 1793341873.2159877,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 3,
+      "minus3": 8,
+      "ajaniMinus3": [
+        [
+          1931,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 1946,
+          "damageToPhysicalCards": [
+            [
+              "Avacyn, Angel of Hope",
+              "85"
+            ],
+            [
+              "Flux Channeler",
+              "18"
+            ],
+            [
+              "Serra's Emissary",
+              "74"
+            ],
+            [
+              "Nissa, Leyline Tamer",
+              "59"
+            ],
+            [
+              "Silver Surfer, Galactus's Herald",
+              "44"
+            ],
+            [
+              "Memnarch, the Warden",
+              "12"
+            ],
+            [
+              "Archfiend of Despair",
+              "91"
+            ],
+            [
+              "Avacyn, Angel of Horror",
+              "5"
+            ],
+            [
+              "Overlord of the Mistmoors",
+              "51"
+            ]
+          ],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 14,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": 8,
+        "minus3_activated": 8,
+        "minus3_resolved": 8,
+        "hits": 7,
+        "declines": {
+          "would_kill_jace": 1,
+          "no_tokens_or_targets": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 104658 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod20-g4.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod20-g4",
+      "mtime": 1793341848.3639188,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 1,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 28963 ms. Ai(2)-b3-313935 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod20-g3.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod20-g3",
+      "mtime": 1793341819.3987882,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 3,
+      "minus3": 0,
+      "ajaniMinus3": [
+        [
+          584,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 593,
+          "damageToPhysicalCards": [
+            [
+              "Serra's Emissary",
+              "74"
+            ]
+          ],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 14,
+        "first_jace_cast": 8,
+        "first_ready_window": 8,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "saving_valuable_pieces": 3
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 23301 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod20-g2.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod20-g2",
+      "mtime": 1793341796.0966449,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 5,
+      "minus3": 3,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 18,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 6,
+        "minus3_activated": 3,
+        "minus3_resolved": 3,
+        "hits": 3,
+        "declines": {
+          "no_tokens_or_targets": 4,
+          "saving_valuable_pieces": 2
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 68935 ms. Ai(4)-b3-4036 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod13-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod13-g2",
+      "mtime": 1793341777.8089125,
+      "win": true,
+      "suspect": true,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 8,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 600006 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod15-g4.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod15-g4",
+      "mtime": 1793341768.556242,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 2,
+      "minus3": 2,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": 5,
+        "first_ready_window": 5,
+        "first_minus3": 5,
+        "minus3_activated": 2,
+        "minus3_resolved": 2,
+        "hits": 2,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 30665 ms. Ai(2)-b3-171880 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod15-g3.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod15-g3",
+      "mtime": 1793341737.888772,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 5,
+      "minus3": 4,
+      "ajaniMinus3": [
+        [
+          920,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 936,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 15,
+        "first_jace_cast": 6,
+        "first_ready_window": 6,
+        "first_minus3": 10,
+        "minus3_activated": 4,
+        "minus3_resolved": 4,
+        "hits": 4,
+        "declines": {
+          "no_tokens_or_targets": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 22378 ms. Ai(4)-b3-3047743 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod20-g1.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod20-g1",
+      "mtime": 1793341727.160196,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 2,
+      "minus3": 1,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 15,
+        "first_jace_cast": 10,
+        "first_ready_window": 10,
+        "first_minus3": 14,
+        "minus3_activated": 1,
+        "minus3_resolved": 1,
+        "hits": 1,
+        "declines": {
+          "saving_valuable_pieces": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 62058 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod15-g2.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod15-g2",
+      "mtime": 1793341715.50939,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 1,
+      "minus3": 4,
+      "ajaniMinus3": [
+        [
+          271,
+          "Resolve Stack: Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. [Card: Ajani Unrelenting (24), Activator: Ai(1)-jace-v0.1-real, SpellAbility: -3: Ajani deals 4 damage to each creature except for tokens you control.]"
+        ]
+      ],
+      "actualAjaniDamage": [
+        {
+          "line": 275,
+          "damageToPhysicalCards": [],
+          "deaths": []
+        }
+      ],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 11,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": 4,
+        "minus3_activated": 4,
+        "minus3_resolved": 4,
+        "hits": 1,
+        "declines": {
+          "would_kill_jace": 1
+        },
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 23635 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod19-g5.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod19-g5",
+      "mtime": 1793341710.157979,
+      "win": true,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has won because all opponents have lost",
+      "jaceCasts": 3,
+      "minus3": 4,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 14,
+        "first_jace_cast": 4,
+        "first_ready_window": 4,
+        "first_minus3": 4,
+        "minus3_activated": 4,
+        "minus3_resolved": 4,
+        "hits": 4,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 41246 ms. Ai(1)-jace-v0.1-real has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100/logs/pod15-g1.log",
+      "run": "2026-10-30042918-rtcombo-jacereal-jacecombo-smart-politics-keeptokens-100",
+      "game": "pod15-g1",
+      "mtime": 1793341691.872429,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 9,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 29927 ms. Ai(3)-b3-11619336 has won!"
+      }
+    },
+    {
+      "file": "gauntlet/versions/jace/v0.1-real/runs/2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100/logs/pod19-g4.log",
+      "run": "2026-10-30042916-rtcombo-jacereal-smart-politics-keeptokens-100",
+      "game": "pod19-g4",
+      "mtime": 1793341668.9097612,
+      "win": false,
+      "suspect": false,
+      "outcome": "Game Outcome: Ai(1)-jace-v0.1-real has lost because life total reached 0",
+      "jaceCasts": 0,
+      "minus3": 0,
+      "ajaniMinus3": [],
+      "actualAjaniDamage": [],
+      "telemetrySummary": {
+        "ev": "summary",
+        "personal_turns": 7,
+        "first_jace_cast": -1,
+        "first_ready_window": -1,
+        "first_minus3": -1,
+        "minus3_activated": 0,
+        "minus3_resolved": 0,
+        "hits": 0,
+        "declines": {},
+        "combo_assembled": -1,
+        "loop_windows": 0,
+        "loop_steps": 0,
+        "haste_finishes": 0,
+        "result": "Game Result: ended in 10408 ms. Ai(2)-b3-15073736 has won!"
+      }
+    }
+  ],
+  "v2Pairs": [
+    {
+      "game": "pod10-g1",
+      "oldWin": false,
+      "oldSuspect": false,
+      "newWin": false,
+      "newSuspect": false
+    },
+    {
+      "game": "pod08-g1",
+      "oldWin": true,
+      "oldSuspect": true,
+      "newWin": false,
+      "newSuspect": false
+    },
+    {
+      "game": "pod07-g1",
+      "oldWin": false,
+      "oldSuspect": false,
+      "newWin": true,
+      "newSuspect": false
+    },
+    {
+      "game": "pod06-g1",
+      "oldWin": true,
+      "oldSuspect": false,
+      "newWin": true,
+      "newSuspect": false
+    },
+    {
+      "game": "pod05-g1",
+      "oldWin": true,
+      "oldSuspect": false,
+      "newWin": false,
+      "newSuspect": false
+    },
+    {
+      "game": "pod03-g1",
+      "oldWin": false,
+      "oldSuspect": true,
+      "newWin": false,
+      "newSuspect": false
+    },
+    {
+      "game": "pod04-g1",
+      "oldWin": true,
+      "oldSuspect": false,
+      "newWin": true,
+      "newSuspect": false
+    },
+    {
+      "game": "pod01-g1",
+      "oldWin": false,
+      "oldSuspect": false,
+      "newWin": false,
+      "newSuspect": false
+    },
+    {
+      "game": "pod02-g1",
+      "oldWin": false,
+      "oldSuspect": false,
+      "newWin": false,
+      "newSuspect": false
+    }
+  ]
+}

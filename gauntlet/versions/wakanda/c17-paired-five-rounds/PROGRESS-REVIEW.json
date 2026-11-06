@@ -1,0 +1,78 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "beforeWins": 25,
+      "installedWins": 26,
+      "beforeSuspect": 2,
+      "installedSuspect": 3,
+      "cleanPairs": 97,
+      "installedOnly": 16,
+      "beforeOnly": 15
+    },
+    {
+      "round": 2,
+      "beforeWins": 18,
+      "installedWins": 26,
+      "beforeSuspect": 1,
+      "installedSuspect": 0,
+      "cleanPairs": 99,
+      "installedOnly": 16,
+      "beforeOnly": 8
+    },
+    {
+      "round": 3,
+      "beforeWins": 12,
+      "installedWins": 19,
+      "beforeSuspect": 0,
+      "installedSuspect": 2,
+      "cleanPairs": 98,
+      "installedOnly": 16,
+      "beforeOnly": 9
+    },
+    {
+      "round": 4,
+      "beforeWins": 16,
+      "installedWins": 28,
+      "beforeSuspect": 7,
+      "installedSuspect": 5,
+      "cleanPairs": 89,
+      "installedOnly": 17,
+      "beforeOnly": 7
+    },
+    {
+      "round": 5,
+      "beforeWins": 13,
+      "installedWins": 18,
+      "beforeSuspect": 4,
+      "installedSuspect": 3,
+      "cleanPairs": 95,
+      "installedOnly": 16,
+      "beforeOnly": 11
+    }
+  ],
+  "totals": {
+    "before": {
+      "games": 500,
+      "wins": 84,
+      "rawWins": 89,
+      "suspect": 14,
+      "timeouts": 1
+    },
+    "installed": {
+      "games": 500,
+      "wins": 117,
+      "rawWins": 123,
+      "suspect": 13,
+      "timeouts": 0
+    }
+  },
+  "cleanPairs": 478,
+  "pairedCounts": {
+    "(False, False)": 314,
+    "(True, False)": 50,
+    "(False, True)": 81,
+    "(True, True)": 33
+  },
+  "mcnemarP": 0.008511369817291841
+}

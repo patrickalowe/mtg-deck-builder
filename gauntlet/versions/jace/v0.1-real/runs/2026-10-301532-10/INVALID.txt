@@ -1,0 +1,1 @@
+INVALID: flags were not applied (zsh passed them as one argument); stock-AI run, not pilot v2 (2026-10-30)

@@ -1,0 +1,199 @@
+{
+ "description": "C16 baseline batch 1 of 5: distinct opponent group (no deck shared with other batches), 20 balanced pods, own seeds. Built 2026-10-30.",
+ "decks": {
+  "6009380": "Pia Nalaar, Consul of Revival",
+  "24659968": "The Great Goblin",
+  "715322": "Thromok the Insatiable",
+  "7588668": "Sergeant John Benton",
+  "61308": "Marchesa, the Black Rose",
+  "3689944": "Vohar, Vodalian Desecrator",
+  "3370911": "Giada, Font of Hope",
+  "554186": "Athreos, Shroud-Veiled",
+  "14687174": "Oskar, Rubbish Reclaimer",
+  "1777280": "Ghoulcaller Gisa",
+  "7817483": "Sauron, the Dark Lord",
+  "4221386": "Sharuum the Hegemon"
+ },
+ "pods": [
+  {
+   "id": "b1pod01",
+   "opponents": [
+    "1777280",
+    "3370911",
+    "4221386"
+   ],
+   "seed": 3101000
+  },
+  {
+   "id": "b1pod02",
+   "opponents": [
+    "14687174",
+    "715322",
+    "7817483"
+   ],
+   "seed": 3102000
+  },
+  {
+   "id": "b1pod03",
+   "opponents": [
+    "3689944",
+    "554186",
+    "61308"
+   ],
+   "seed": 3103000
+  },
+  {
+   "id": "b1pod04",
+   "opponents": [
+    "24659968",
+    "6009380",
+    "715322"
+   ],
+   "seed": 3104000
+  },
+  {
+   "id": "b1pod05",
+   "opponents": [
+    "24659968",
+    "7588668",
+    "7817483"
+   ],
+   "seed": 3105000
+  },
+  {
+   "id": "b1pod06",
+   "opponents": [
+    "14687174",
+    "1777280",
+    "4221386"
+   ],
+   "seed": 3106000
+  },
+  {
+   "id": "b1pod07",
+   "opponents": [
+    "6009380",
+    "61308",
+    "7588668"
+   ],
+   "seed": 3107000
+  },
+  {
+   "id": "b1pod08",
+   "opponents": [
+    "1777280",
+    "3689944",
+    "554186"
+   ],
+   "seed": 3108000
+  },
+  {
+   "id": "b1pod09",
+   "opponents": [
+    "14687174",
+    "554186",
+    "7588668"
+   ],
+   "seed": 3109000
+  },
+  {
+   "id": "b1pod10",
+   "opponents": [
+    "24659968",
+    "3370911",
+    "7817483"
+   ],
+   "seed": 3110000
+  },
+  {
+   "id": "b1pod11",
+   "opponents": [
+    "4221386",
+    "61308",
+    "715322"
+   ],
+   "seed": 3111000
+  },
+  {
+   "id": "b1pod12",
+   "opponents": [
+    "3370911",
+    "6009380",
+    "7817483"
+   ],
+   "seed": 3112000
+  },
+  {
+   "id": "b1pod13",
+   "opponents": [
+    "14687174",
+    "554186",
+    "715322"
+   ],
+   "seed": 3113000
+  },
+  {
+   "id": "b1pod14",
+   "opponents": [
+    "24659968",
+    "3689944",
+    "6009380"
+   ],
+   "seed": 3114000
+  },
+  {
+   "id": "b1pod15",
+   "opponents": [
+    "3370911",
+    "3689944",
+    "61308"
+   ],
+   "seed": 3115000
+  },
+  {
+   "id": "b1pod16",
+   "opponents": [
+    "1777280",
+    "4221386",
+    "6009380"
+   ],
+   "seed": 3116000
+  },
+  {
+   "id": "b1pod17",
+   "opponents": [
+    "3370911",
+    "554186",
+    "7588668"
+   ],
+   "seed": 3117000
+  },
+  {
+   "id": "b1pod18",
+   "opponents": [
+    "61308",
+    "715322",
+    "7588668"
+   ],
+   "seed": 3118000
+  },
+  {
+   "id": "b1pod19",
+   "opponents": [
+    "14687174",
+    "24659968",
+    "7817483"
+   ],
+   "seed": 3119000
+  },
+  {
+   "id": "b1pod20",
+   "opponents": [
+    "1777280",
+    "3689944",
+    "4221386"
+   ],
+   "seed": 3120000
+  }
+ ]
+}

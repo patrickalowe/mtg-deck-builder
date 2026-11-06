@@ -1,0 +1,1119 @@
+{
+  "run": "2026-10-292338-smart-politics-keeptokens-50",
+  "versions": {
+    "v0.2-six": {
+      "games": {
+        "pod01-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 43
+        },
+        "pod01-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 7,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 50
+        },
+        "pod01-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-24662123",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod02-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 44
+        },
+        "pod02-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 37
+        },
+        "pod02-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 35
+        },
+        "pod03-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 4,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod03-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod03-g3.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 4,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 34
+        },
+        "pod04-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 26
+        },
+        "pod04-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 8,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 58
+        },
+        "pod04-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 34
+        },
+        "pod05-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 8,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod05-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 8,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 64
+        },
+        "pod05-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 10,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 67
+        },
+        "pod06-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 5,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 49
+        },
+        "pod06-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 6,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod06-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 10,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 41
+        },
+        "pod07-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-15073736",
+          "firstJaceTurn": 7,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod07-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 4,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 38
+        },
+        "pod07-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 41
+        },
+        "pod08-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod08-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod08-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-171880",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 44
+        },
+        "pod09-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 5,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 45
+        },
+        "pod09-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 8,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 62
+        },
+        "pod09-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": 6,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod10-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-7817483",
+          "firstJaceTurn": 8,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 50
+        },
+        "pod10-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 5,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod10-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-13631413",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 63
+        },
+        "pod11-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 7,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 44
+        },
+        "pod11-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 4,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 51
+        },
+        "pod12-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod12-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 38
+        },
+        "pod13-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 8,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod13-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-13631413",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod14-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 10,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 50
+        },
+        "pod14-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 4,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 28
+        },
+        "pod15-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11619336",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 41
+        },
+        "pod15-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 44
+        },
+        "pod16-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 4,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 40
+        },
+        "pod16-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11619336",
+          "firstJaceTurn": 5,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 55
+        },
+        "pod17-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.2-six",
+          "firstJaceTurn": 7,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 33
+        },
+        "pod17-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 5,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 52
+        },
+        "pod18-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod18-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-13631413",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 64
+        },
+        "pod19-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 5,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 61
+        },
+        "pod19-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 32
+        },
+        "pod20-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-7817483",
+          "firstJaceTurn": 8,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 61
+        },
+        "pod20-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 51
+        }
+      },
+      "completed": 50,
+      "wins": 16,
+      "draws": 0,
+      "winRate": 0.32,
+      "ci95": [
+        0.20758044093999403,
+        0.45810557136276076
+      ],
+      "jaceCastGames": 45,
+      "avgFirstJaceTurn": 6.2,
+      "minus3": 58,
+      "winners": {
+        "jace-v0.2-six": 16,
+        "b3-313935": 3,
+        "b3-24662123": 1,
+        "b3-4036": 5,
+        "b3-3047743": 4,
+        "b3-4133378": 6,
+        "b3-15073736": 1,
+        "b3-11650077": 3,
+        "b3-171880": 1,
+        "b3-9298397": 3,
+        "b3-7817483": 2,
+        "b3-13631413": 3,
+        "b3-11619336": 2
+      },
+      "casts": {
+        "Azorius Signet": 13,
+        "Swords to Plowshares": 10,
+        "Dimir Signet": 9,
+        "Izzet Signet": 11,
+        "Jace, Multiverse Architect": 45,
+        "Avacyn, Angel of Horror": 9,
+        "Path to Exile": 11,
+        "Avacyn, Angel of Hope": 4,
+        "Serra's Emissary": 11,
+        "Overlord of the Mistmoors": 8,
+        "Saheeli, Sublime Artificer": 15,
+        "Galactus, Devourer of Worlds": 15,
+        "Talisman of Indulgence": 11,
+        "Oath of Gideon": 9,
+        "Divergent Transformations": 9,
+        "Wrath of God": 8,
+        "Fatehold Charm": 9,
+        "Lingering Souls": 11,
+        "Occult Epiphany": 13,
+        "Chromatic Lantern": 10,
+        "The Theorist, Jace Beleren": 12,
+        "Brainsurge": 12,
+        "Austere Command": 13,
+        "Talisman of Creativity": 10,
+        "Rakdos Signet": 12,
+        "Arcane Signet": 9,
+        "Cyclonic Rift": 13,
+        "Memnarch, the Warden": 4,
+        "Nissa, Leyline Tamer": 6,
+        "Way of the Healer": 10,
+        "Infernal Grasp": 8,
+        "Anguished Unmaking": 6,
+        "Ripples of Potential": 13,
+        "Lich's Relic": 6,
+        "Nicol Bolas, Dragon-God": 6,
+        "Archon of Cruelty": 3,
+        "Plan for All Outcomes": 9,
+        "Archfiend of Despair": 6,
+        "Grand Crescendo": 7,
+        "Talisman of Progress": 10,
+        "Jhoira, Weatherlight Corsair": 6,
+        "Ajani Unrelenting": 10,
+        "Silver Surfer, Galactus's Herald": 10,
+        "Dreadhorde Invasion": 5,
+        "Flux Channeler": 9,
+        "Secure the Wastes": 7,
+        "Teferi, Hero of Dominaria": 9,
+        "Talisman of Dominance": 6,
+        "Brainstorm": 6,
+        "Tekuthal, Inquiry Dominus": 4,
+        "Chandra's Ignition": 5,
+        "Fateful Absence": 11,
+        "Elspeth, Sun's Champion": 7,
+        "Sol Ring": 6,
+        "Aminatou, the Fateshifter": 7,
+        "Aetherize": 2,
+        "Lim-D\u00fbl's Vault": 5,
+        "Massacre Wurm": 4,
+        "Clever Concealment": 3
+      }
+    },
+    "v0.5-topdeck-tokens": {
+      "games": {
+        "pod01-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 9,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 45
+        },
+        "pod01-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 5,
+          "minus3": 5,
+          "plus1": 0,
+          "turns": 70
+        },
+        "pod01-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 4,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 40
+        },
+        "pod02-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 7,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 43
+        },
+        "pod02-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 3,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 34
+        },
+        "pod02-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 28
+        },
+        "pod03-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 6,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 23
+        },
+        "pod03-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 36
+        },
+        "pod03-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 48
+        },
+        "pod04-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 5,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 62
+        },
+        "pod04-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 47
+        },
+        "pod04-g3.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod05-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 52
+        },
+        "pod05-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 40
+        },
+        "pod05-g3.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 48
+        },
+        "pod06-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 44
+        },
+        "pod06-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 6,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 69
+        },
+        "pod06-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 4,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 61
+        },
+        "pod07-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 35
+        },
+        "pod07-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 7,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 36
+        },
+        "pod07-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 8,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 40
+        },
+        "pod08-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-171880",
+          "firstJaceTurn": 8,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 39
+        },
+        "pod08-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 8,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 38
+        },
+        "pod08-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod09-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4133378",
+          "firstJaceTurn": 12,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 68
+        },
+        "pod09-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 10,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 42
+        },
+        "pod09-g3.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": 5,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 36
+        },
+        "pod10-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 6,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 54
+        },
+        "pod10-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-13631413",
+          "firstJaceTurn": 4,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 43
+        },
+        "pod10-g3.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 12,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod11-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 57
+        },
+        "pod11-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 5,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 73
+        },
+        "pod12-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 7,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 70
+        },
+        "pod12-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 5,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 46
+        },
+        "pod13-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-171880",
+          "firstJaceTurn": 5,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 50
+        },
+        "pod13-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-13631413",
+          "firstJaceTurn": 5,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 50
+        },
+        "pod14-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 12,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 58
+        },
+        "pod14-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 4,
+          "minus3": 5,
+          "plus1": 0,
+          "turns": 53
+        },
+        "pod15-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-3047743",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 35
+        },
+        "pod15-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-171880",
+          "firstJaceTurn": 8,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 48
+        },
+        "pod16-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 6,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 49
+        },
+        "pod16-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 6,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 55
+        },
+        "pod17-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 9,
+          "minus3": 3,
+          "plus1": 0,
+          "turns": 80
+        },
+        "pod17-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-11650077",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 53
+        },
+        "pod18-g1.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 58
+        },
+        "pod18-g2.log": {
+          "win": true,
+          "draw": false,
+          "winner": "jace-v0.5-topdeck-tokens",
+          "firstJaceTurn": 6,
+          "minus3": 2,
+          "plus1": 0,
+          "turns": 49
+        },
+        "pod19-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": null,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 47
+        },
+        "pod19-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-9298397",
+          "firstJaceTurn": 7,
+          "minus3": 1,
+          "plus1": 0,
+          "turns": 32
+        },
+        "pod20-g1.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-4036",
+          "firstJaceTurn": 5,
+          "minus3": 4,
+          "plus1": 0,
+          "turns": 57
+        },
+        "pod20-g2.log": {
+          "win": false,
+          "draw": false,
+          "winner": "b3-313935",
+          "firstJaceTurn": 7,
+          "minus3": 0,
+          "plus1": 0,
+          "turns": 47
+        }
+      },
+      "completed": 50,
+      "wins": 18,
+      "draws": 0,
+      "winRate": 0.36,
+      "ci95": [
+        0.24138562967182875,
+        0.49859237989698046
+      ],
+      "jaceCastGames": 44,
+      "avgFirstJaceTurn": 6.5,
+      "minus3": 74,
+      "winners": {
+        "b3-313935": 6,
+        "b3-4036": 5,
+        "jace-v0.5-topdeck-tokens": 18,
+        "b3-3047743": 3,
+        "b3-4133378": 3,
+        "b3-11650077": 7,
+        "b3-171880": 3,
+        "b3-9298397": 3,
+        "b3-13631413": 2
+      },
+      "casts": {
+        "Path to Exile": 16,
+        "Saheeli, Sublime Artificer": 14,
+        "Brainsurge": 12,
+        "Talisman of Dominance": 12,
+        "Ajani Unrelenting": 15,
+        "Tekuthal, Inquiry Dominus": 7,
+        "Jace, Multiverse Architect": 44,
+        "Way of the Healer": 8,
+        "Chandra's Ignition": 9,
+        "Galactus, Devourer of Worlds": 10,
+        "Loyal Tutor": 15,
+        "Fateful Absence": 7,
+        "Elspeth, Sun's Champion": 9,
+        "Stroke of Midnight": 13,
+        "Ponder": 15,
+        "Arcane Signet": 10,
+        "Sram's Expertise": 15,
+        "Anguished Unmaking": 10,
+        "Infernal Grasp": 11,
+        "Serra's Emissary": 7,
+        "Plan for All Outcomes": 8,
+        "Occult Epiphany": 11,
+        "Talisman of Progress": 13,
+        "Silver Surfer, Galactus's Herald": 7,
+        "Fatehold Charm": 17,
+        "Oath of Gideon": 5,
+        "Flux Channeler": 13,
+        "Lingering Souls": 15,
+        "Brainstorm": 17,
+        "Teferi, Hero of Dominaria": 14,
+        "Triplicate Titan": 8,
+        "Sol Ring": 14,
+        "Avacyn, Angel of Hope": 11,
+        "Wrath of God": 12,
+        "Brainstone": 10,
+        "Overlord of the Mistmoors": 11,
+        "Dimir Signet": 14,
+        "Cyclonic Rift": 12,
+        "Austere Command": 10,
+        "Secure the Wastes": 10,
+        "Lich's Relic": 14,
+        "Ripples of Potential": 14,
+        "Chromatic Lantern": 11,
+        "Jhoira, Weatherlight Corsair": 9,
+        "Aminatou, the Fateshifter": 9,
+        "Avacyn, Angel of Horror": 7,
+        "Memnarch, the Warden": 2,
+        "Massacre Wurm": 6,
+        "Spectral Procession": 13,
+        "Swords to Plowshares": 15,
+        "The Theorist, Jace Beleren": 12,
+        "Nicol Bolas, Dragon-God": 11,
+        "Dreamtide Whale": 9,
+        "Grand Crescendo": 6,
+        "Archon of Cruelty": 6,
+        "Nissa, Leyline Tamer": 4,
+        "Archfiend of Despair": 5,
+        "Aetherize": 5,
+        "Clever Concealment": 2
+      }
+    }
+  },
+  "paired": {
+    "onlyA": 12,
+    "onlyB": 14,
+    "both": 4,
+    "neither": 20,
+    "exactMcNemarP": 0.8450189828872681
+  },
+  "timeoutAudit": {
+    "gamesByVersion": {
+      "v0.2-six": [
+        "pod07-g3.log",
+        "pod14-g2.log",
+        "pod08-g3.log",
+        "pod17-g2.log",
+        "pod09-g1.log",
+        "pod04-g1.log",
+        "pod01-g1.log"
+      ],
+      "v0.5-topdeck-tokens": [
+        "pod01-g1.log",
+        "pod01-g2.log"
+      ]
+    },
+    "matchedCleanResults": {
+      "v0.2-six": {
+        "games": 42,
+        "wins": 13
+      },
+      "v0.5-topdeck-tokens": {
+        "games": 42,
+        "wins": 16
+      }
+    },
+    "note": "Whole-game timeout warnings conflict with winner labels; treat these outcomes as unreliable.",
+    "cleanPairedP": 0.6776394844055176
+  }
+}

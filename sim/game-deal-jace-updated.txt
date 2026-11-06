@@ -1,0 +1,147 @@
+
+=== Seat 1: Opponent B — Dina, Essence Brewer (mulligans: 0) ===
+HAND: Nether Traitor | Forest | Ominous Harvest | Viridescent Bog | Witherbloom Charm | Beledros Witherbloom | Moldervine Reclamation
+DRAWS (in order): 1.Pawn of Ulamog | 2.Swamp | 3.Woodland Cemetery | 4.Terramorphic Expanse | 5.Ophiomancer | 6.Ohran Frostfang | 7.Swamp | 8.Haywire Mite | 9.Creakwood Liege | 10.Turbulent Fen | 11.Elvish Mystic | 12.Vernal Fen | 13.High Market | 14.Blight Mound | 15.Yahenni, Undying Partisan | 16.Cultivate | 17.Swamp | 18.Trudge Garden | 19.Twilight Mire | 20.Awakening Zone | 21.Dina, Soul Steeper | 22.Gorma, the Gullet | 23.Forest | 24.Teacher's Pest | 25.Swamp | 26.Fabled Passage | 27.Temple of Malady | 28.Morbid Opportunist | 29.Plumb the Forbidden | 30.Arcane Signet
+
+=== Seat 2: Patrick — Jace, Multiverse Architect (mulligans: 0) ===
+HAND: Serra's Emissary | Silver Surfer, Galactus's Herald | Turbulent Shore | Mountain | Sulfurous Springs | Overwrite the Multiverse | Elspeth, Sun's Champion
+DRAWS (in order): 1.Azorius Signet | 2.Ajani Unrelenting | 3.Swamp | 4.Cyclonic Rift | 5.Turbulent Wetlands | 6.Grand Crescendo | 7.Fetid Heath | 8.Fatehold Charm | 9.Galactus, Devourer of Worlds | 10.Mystic Gate | 11.Restless Anchorage | 12.Chandra's Ignition | 13.Ripples of Potential | 14.Jhoira, Weatherlight Corsair | 15.Kher Keep | 16.Memnarch, the Warden | 17.Brainsurge | 18.Divergent Transformations | 19.Aminatou, the Fateshifter | 20.Synthetic Destiny | 21.Sulfur Falls | 22.Rakdos Signet | 23.Exotic Orchard | 24.Saheeli, Sublime Artificer | 25.Triplicate Titan | 26.Contaminated Landscape | 27.Aetherize | 28.Plains | 29.Lich's Relic | 30.Nicol Bolas, Dragon-God
+
+=== Seat 3: Opponent A — Captain America, Team Leader (mulligans: 0) ===
+HAND: Hercules, Olympian Hero | Professor Hulk | Scorched Geyser | Island | Heroic Sacrifice | Plains | Hero's Blade
+DRAWS (in order): 1.Relic of Legends | 2.Hulkbuster Armor | 3.Glittering Massif | 4.Mystic Monastery | 5.She-Hulk, Wallbreaker | 6.Iron Man, Armored Avenger | 7.Island | 8.Talisman of Conviction | 9.Metallic Mimic | 10.Swords to Plowshares | 11.Talisman of Progress | 12.Radiant Summit | 13.Quicksilver, Speedster | 14.Unclaimed Territory | 15.Fellwar Stone | 16.Arcane Denial | 17.Rescue, Pepper Potts | 18.Reconnaissance Mission | 19.Make Your Move | 20.Door of Destinies | 21.Frostboil Snarl | 22.Plains | 23.Dismantling Wave | 24.Island | 25.Captain Marvel, Apex Avenger | 26.Mountain | 27.Island | 28.Plaza of Heroes | 29.Scavenger Grounds | 30.Coastal Peak
+
+=== Seat 4: Opponent C — Ghalta, Primal Hunger (mulligans: 0) ===
+HAND: Commander's Sphere | Forest | Thickest in the Thicket | Llanowar Tribe | Gigantosaurus | Forest | Bite Down
+DRAWS (in order): 1.Fyndhorn Elves | 2.Tangleweave Armor | 3.Managorger Hydra | 4.Birds of Paradise | 5.Forest | 6.Shamanic Revelation | 7.Forest | 8.Kenrith's Transformation | 9.Witch's Clinic | 10.Pugnacious Hammerskull | 11.Forest | 12.Hulking Raptor | 13.Paradise Druid | 14.Forest | 15.Colossal Majesty | 16.Forest | 17.Elvish Mystic | 18.Beast Whisperer | 19.Arasta of the Endless Web | 20.Scavenging Ooze | 21.Challenger Troll | 22.Forest | 23.Swiftfoot Boots | 24.Elemental Bond | 25.Forest | 26.Ilysian Caryatid | 27.Scavenger Grounds | 28.Bonders' Enclave | 29.Clifftop Lookout | 30.Forest
+
+=== CARD TEXT ===
+Dina, Essence Brewer {1}{B}{G} [Legendary Creature — Dryad Druid 2/3] — Whenever you sacrifice a creature, draw a card. This ability triggers only once each turn. / {2}, {T}, Sacrifice another creature: You gain X life and put X +1/+1 counters on target creature you control, where X is the sacrificed creature's power.
+Nether Traitor {B}{B} [Creature — Spirit 1/1] — Haste / Shadow  / Whenever another creature is put into your graveyard from the battlefield, you may pay {B}. If you do, return this card from your graveyard to the battlefield.
+Forest  [Basic Land — Forest]
+Ominous Harvest {2}{B} [Sorcery] — Gravestorm  / Target player draws a card and loses 1 life.
+Viridescent Bog  [Land] — {1}, {T}: Add {B}{G}.
+Witherbloom Charm {B}{G} [Instant] — Choose one — / • You may sacrifice a permanent. If you do, draw two cards. / • You gain 5 life. / • Destroy target nonland permanent with mana value 2 or less.
+Beledros Witherbloom {5}{B}{G} [Legendary Creature — Elder Dragon 4/4] — Flying / At the beginning of each upkeep, create a 1/1 black and green Pest creature token with "When this token dies, you gain 1 life." / Pay 10 life: Untap all lands you control. Activate only once each turn.
+Moldervine Reclamation {3}{B}{G} [Enchantment] — Whenever a creature you control dies, you gain 1 life and draw a card.
+Pawn of Ulamog {1}{B}{B} [Creature — Vampire Shaman 2/2] — Whenever this creature or another nontoken creature you control dies, you may create a 0/1 colorless Eldrazi Spawn creature token. It has "Sacrifice this token: Add {C}."
+Swamp  [Basic Land — Swamp]
+Woodland Cemetery  [Land] — This land enters tapped unless you control a Swamp or a Forest. / {T}: Add {B} or {G}.
+Terramorphic Expanse  [Land] — {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Ophiomancer {2}{B} [Creature — Human Shaman 2/2] — At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch.
+Ohran Frostfang {3}{G}{G} [Snow Creature — Snake 2/6] — Attacking creatures you control have deathtouch. / Whenever a creature you control deals combat damage to a player, draw a card.
+Haywire Mite {1} [Artifact Creature — Insect 1/1] — When this creature dies, you gain 2 life. / {G}, Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment.
+Creakwood Liege {1}{B/G}{B/G}{B/G} [Creature — Horror 2/2] — Other black creatures you control get +1/+1. / Other green creatures you control get +1/+1. / At the beginning of your upkeep, you may create a 1/1 black and green Worm creature token.
+Turbulent Fen  [Land — Swamp Forest] —  / This land enters tapped unless your opponents control eight or more lands.
+Elvish Mystic {G} [Creature — Elf Druid 1/1] — {T}: Add {G}.
+Vernal Fen  [Land — Swamp Forest] —  / This land enters tapped unless you control two or more basic lands.
+High Market  [Land] — {T}: Add {C}. / {T}, Sacrifice a creature: You gain 1 life.
+Blight Mound {2}{B} [Enchantment] — Attacking Pests you control get +1/+0 and have menace. / Whenever a nontoken creature you control dies, create a 1/1 black and green Pest creature token with "When this token dies, you gain 1 life."
+Yahenni, Undying Partisan {2}{B} [Legendary Creature — Aetherborn Vampire 2/2] — Haste / Whenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni. / Sacrifice another creature: Yahenni gains indestructible until end of turn.
+Cultivate {2}{G} [Sorcery] — Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+Trudge Garden {2}{G} [Enchantment] — Whenever you gain life, you may pay {2}. If you do, create a 4/4 green Fungus Beast creature token with trample.
+Twilight Mire  [Land] — {T}: Add {C}. / {B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}.
+Awakening Zone {2}{G} [Enchantment] — At the beginning of your upkeep, you may create a 0/1 colorless Eldrazi Spawn creature token. It has "Sacrifice this token: Add {C}."
+Dina, Soul Steeper {B}{G} [Legendary Creature — Dryad Druid 1/3] — Whenever you gain life, each opponent loses 1 life. / {1}, Sacrifice another creature: Dina gets +X/+0 until end of turn, where X is the sacrificed creature's power.
+Gorma, the Gullet {1}{B}{G} [Legendary Creature — Pest Frog 1/1] — Lifelink / Whenever another creature you control dies, put a +1/+1 counter on Gorma. / Nontoken creatures you control enter with an additional +1/+1 counter on them for each creature that died under your control this turn.
+Teacher's Pest {B}{G} [Creature — Skeleton Pest 1/1] — Menace  / Whenever this creature attacks, you gain 1 life. / {B}{G}: Return this card from your graveyard to the battlefield tapped.
+Fabled Passage  [Land] — {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.
+Temple of Malady  [Land] — This land enters tapped. / When this land enters, scry 1.  / {T}: Add {B} or {G}.
+Morbid Opportunist {2}{B} [Creature — Human Rogue 1/3] — Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.
+Plumb the Forbidden {1}{B} [Instant] — As an additional cost to cast this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way. / You draw a card and lose 1 life.
+Arcane Signet {2} [Artifact] — {T}: Add one mana of any color in your commander's color identity.
+Jace, Multiverse Architect {1}{W}{U}{B}{R} [Legendary Planeswalker — Jace L4] — At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn. / +1: Draw two cards, then put a card from your hand on the bottom of your library. / −3: Exile another target
+Serra's Emissary {4}{W}{W}{W} [Creature — Angel 7/7] — Flying / As this creature enters, choose a card type. / You and creatures you control have protection from the chosen card type.
+Silver Surfer, Galactus's Herald {5} [Legendary Creature — Alien Hero 4/5] — Flying / When Silver Surfer enters, you may search your library for a card named Galactus, Devourer of Worlds, reveal it, put it into your hand, then shuffle. / Whenever Silver Surfer deals combat damage to a player, until the end of your next turn, target cre
+Turbulent Shore  [Land — Plains Island] —  / This land enters tapped unless your opponents control eight or more lands.
+Mountain  [Basic Land — Mountain]
+Sulfurous Springs  [Land] — {T}: Add {C}. / {T}: Add {B} or {R}. This land deals 1 damage to you.
+Overwrite the Multiverse {4}{B}{B} [Sorcery] — Exile all creatures. Empower Jace X, where X is the number of creatures exiled this way. 
+Elspeth, Sun's Champion {4}{W}{W} [Legendary Planeswalker — Elspeth L4] — +1: Create three 1/1 white Soldier creature tokens. / −3: Destroy all creatures with power 4 or greater. / −7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+Azorius Signet {2} [Artifact] — {1}, {T}: Add {W}{U}.
+Ajani Unrelenting {4}{R}{R} [Legendary Planeswalker — Ajani L5] — Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet. / +1: Creatures you control get +1/+0 and gain haste until end of turn. / −2: Discard your hand, then draw a card for each creature you control. / −3: Aj
+Cyclonic Rift {1}{U} [Instant] — Return target nonland permanent you don't control to its owner's hand. / Overload {6}{U} 
+Turbulent Wetlands  [Land — Island Swamp] —  / This land enters tapped unless your opponents control eight or more lands.
+Grand Crescendo {X}{W}{W} [Instant] — Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.
+Fetid Heath  [Land] — {T}: Add {C}. / {W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.
+Fatehold Charm {W}{U} [Instant] — Choose one — / • Draw a card. Empower Jace 2. / • Return target spell or creature to its owner's hand. / • Creatures you control get +1/+2 until end of turn.
+Galactus, Devourer of Worlds {10} [Legendary Creature — Elder Alien 12/12] — Flying, trample, indestructible / When Galactus enters, exile target permanent. / Insatiable Hunger — Galactus attacks an opponent with the most life among your opponents each combat if able unless you control a creature named Silver Surfer, Galactus's Herald.
+Mystic Gate  [Land] — {T}: Add {C}. / {W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.
+Restless Anchorage  [Land] — This land enters tapped. / {T}: Add {W} or {U}. / {1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It's still a land. / Whenever this land attacks, create a Map token.
+Chandra's Ignition {3}{R}{R} [Sorcery] — Target creature you control deals damage equal to its power to each other creature and each opponent.
+Ripples of Potential {1}{U} [Instant] — Proliferate, then choose any number of permanents you control that had a counter put on them this way. Those permanents phase out. 
+Jhoira, Weatherlight Corsair {4}{B}{B} [Legendary Creature — Human Pirate 4/5] — Whenever Jhoira enters or attacks, target opponent reveals cards from the top of their library until they reveal a historic permanent card. You put that card onto the battlefield under your control and lose life equal to that permanent's mana value. That playe
+Kher Keep  [Legendary Land] — {T}: Add {C}. / {1}{R}, {T}: Create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
+Memnarch, the Warden {10} [Legendary Artifact Creature — Wizard 8/9] — Indestructible / When Memnarch enters, create two 1/1 colorless Myr artifact creature tokens. / Whenever Memnarch attacks, draw a card for each artifact you control.
+Brainsurge {2}{U} [Instant] — Draw four cards, then put two cards from your hand on top of your library in any order.
+Divergent Transformations {6}{R} [Instant] — Undaunted  / Exile two target creatures. For each of those creatures, its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then shuffles the rest into their library.
+Aminatou, the Fateshifter {W}{U}{B} [Legendary Planeswalker — Aminatou L3] — +1: Draw a card, then put a card from your hand on top of your library. / −1: Exile another target permanent you own, then return it to the battlefield under your control. / −6: Choose left or right. Each player gains control of all nonland permanents other th
+Synthetic Destiny {4}{U}{U} [Instant] — Exile all creatures you control. At the beginning of the next end step, reveal cards from the top of your library until you reveal that many creature cards, put all creature cards revealed this way onto the battlefield, then shuffle the rest of the revealed ca
+Sulfur Falls  [Land] — This land enters tapped unless you control an Island or a Mountain. / {T}: Add {U} or {R}.
+Rakdos Signet {2} [Artifact] — {1}, {T}: Add {B}{R}.
+Exotic Orchard  [Land] — {T}: Add one mana of any color that a land an opponent controls could produce.
+Saheeli, Sublime Artificer {1}{U/R}{U/R} [Legendary Planeswalker — Saheeli L5] — Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token. / −2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other
+Triplicate Titan {9} [Artifact Creature — Golem 9/9] — Flying, vigilance, trample / When this creature dies, create a 3/3 colorless Golem artifact creature token with flying, a 3/3 colorless Golem artifact creature token with vigilance, and a 3/3 colorless Golem artifact creature token with trample.
+Contaminated Landscape  [Land] — {T}: Add {C}. / {T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle. / Cycling {W}{U}{B} 
+Aetherize {3}{U} [Instant] — Return all attacking creatures to their owner's hand.
+Plains  [Basic Land — Plains]
+Lich's Relic {B} [Artifact — Equipment] — When this Equipment enters, you may pay {2}. When you do, for each opponent, destroy up to one target creature or planeswalker that player controls. / Equipped creature gets +2/+1. / Equip {2}
+Nicol Bolas, Dragon-God {U}{B}{B}{B}{R} [Legendary Planeswalker — Bolas L4] — Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield. / +1: You draw a card. Each opponent exiles a card from their hand or a permanent they control. / −3: Destroy target creature or planeswalker. / −8: Each opponent who doesn't 
+Captain America, Team Leader {R}{W}{U} [Legendary Creature — Human Soldier Hero 3/3] — Whenever another Hero you control enters, it gains vigilance and haste until end of turn. Put a +1/+1 counter on that Hero and a +1/+1 counter on Captain America.
+Hercules, Olympian Hero {3}{W}{W} [Legendary Creature — Demigod Warrior Hero 3/3] — Whenever Hercules attacks, put a +1/+1 counter on him. He gains indestructible until end of turn. / Whenever Hercules is dealt damage for the first time each turn, put that many +1/+1 counters on him. 
+Professor Hulk {4}{U}{U} [Legendary Creature — Gamma Scientist Hero 6/6] — Trample / Whenever Professor Hulk deals combat damage to a player, draw that many cards.
+Scorched Geyser  [Land — Island Mountain] —  / This land enters tapped unless you control two or more basic lands.
+Island  [Basic Land — Island]
+Heroic Sacrifice {1}{W} [Instant] — Choose target creature you control. Until end of turn, all damage that would be dealt to you and creatures you control is dealt to the chosen creature instead . When that creature dies this turn, put its counters on up to one target creature you control and dr
+Hero's Blade {2} [Artifact — Equipment] — Equipped creature gets +3/+2. / Whenever a legendary creature you control enters, you may attach this Equipment to it. / Equip {4} 
+Relic of Legends {3} [Artifact] — {T}: Add one mana of any color. / Tap an untapped legendary creature you control: Add one mana of any color.
+Hulkbuster Armor {4} [Legendary Artifact — Equipment] — Equipped creature has base power and toughness 9/9 and has flying. / Equip Hero {3} / Equip {6}
+Glittering Massif  [Land — Mountain Plains] —  / This land enters tapped. / Cycling {2} 
+Mystic Monastery  [Land] — This land enters tapped. / {T}: Add {U}, {R}, or {W}.
+She-Hulk, Wallbreaker {5}{R} [Legendary Creature — Gamma Hero 5/5] — Trample / Other Heroes you control have trample. / Whenever a Hero you control becomes blocked, put a +1/+1 counter on that Hero for each creature blocking it.
+Iron Man, Armored Avenger {3}{U} [Legendary Artifact Creature — Human Hero 2/2] — Flying / Whenever you draw a card, put a +1/+1 counter on target creature. / Whenever Iron Man attacks, other attacking modified creatures gain flying until end of turn. 
+Talisman of Conviction {2} [Artifact] — {T}: Add {C}. / {T}: Add {R} or {W}. This artifact deals 1 damage to you.
+Metallic Mimic {2} [Artifact Creature — Shapeshifter 2/1] — As this creature enters, choose a creature type. / This creature is the chosen type in addition to its other types. / Each other creature you control of the chosen type enters with an additional +1/+1 counter on it.
+Swords to Plowshares {W} [Instant] — Exile target creature. Its controller gains life equal to its power.
+Talisman of Progress {2} [Artifact] — {T}: Add {C}. / {T}: Add {W} or {U}. This artifact deals 1 damage to you.
+Radiant Summit  [Land — Mountain Plains] —  / This land enters tapped unless you control two or more basic lands.
+Quicksilver, Speedster {3}{U}{R} [Legendary Creature — Mutant Hero 3/4] — Flash / Double strike, haste / As long as Quicksilver is tapped, you may cast spells as though they had flash.
+Unclaimed Territory  [Land] — As this land enters, choose a creature type. / {T}: Add {C}. / {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
+Fellwar Stone {2} [Artifact] — {T}: Add one mana of any color that a land an opponent controls could produce.
+Arcane Denial {1}{U} [Instant] — Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. / You draw a card at the beginning of the next turn's upkeep.
+Rescue, Pepper Potts {1}{U} [Legendary Artifact Creature — Human Hero 2/1] — Flash / Flying / When Rescue enters, return up to one other target artifact or creature you control to its owner's hand. If it was an artifact, put a +1/+1 counter on Rescue.
+Reconnaissance Mission {2}{U}{U} [Enchantment] — Whenever a creature you control deals combat damage to a player, you may draw a card. / Cycling {2} 
+Make Your Move {2}{W} [Instant] — Destroy target artifact, enchantment, or creature with power 4 or greater.
+Door of Destinies {4} [Artifact] — As this artifact enters, choose a creature type. / Whenever you cast a spell of the chosen type, put a charge counter on this artifact. / Creatures you control of the chosen type get +1/+1 for each charge counter on this artifact.
+Frostboil Snarl  [Land] — As this land enters, you may reveal an Island or Mountain card from your hand. If you don't, this land enters tapped. / {T}: Add {U} or {R}.
+Dismantling Wave {2}{W} [Sorcery] — For each opponent, destroy up to one target artifact or enchantment that player controls. / Cycling {6}{W}{W}  / When you cycle this card, destroy all artifacts and enchantments.
+Captain Marvel, Apex Avenger {5}{R}{W} [Legendary Creature — Human Kree Hero 4/4] — Flying, double strike, indestructible / Whenever you put one or more counters on another creature, if it's not a Kree, you may put the same number and kind of counters on Captain Marvel.
+Plaza of Heroes  [Land] — {T}: Add {C}. / {T}: Add one mana of any color. Spend this mana only to cast a legendary spell. / {T}: Add one mana of any color among legendary permanents you control. / {3}, {T}, Exile this land: Target legendary creature gains hexproof and indestructible un
+Scavenger Grounds  [Land — Desert] — {T}: Add {C}. / {2}, {T}, Sacrifice a Desert: Exile all graveyards.
+Coastal Peak  [Land — Island Mountain] —  / This land enters tapped. / Cycling {2} 
+Ghalta, Primal Hunger {10}{G}{G} [Legendary Creature — Elder Dinosaur 12/12] — This spell costs {X} less to cast, where X is the total power of creatures you control. / Trample 
+Commander's Sphere {3} [Artifact] — {T}: Add one mana of any color in your commander's color identity. / Sacrifice this artifact: Draw a card.
+Thickest in the Thicket {3}{G}{G} [Enchantment] — When this enchantment enters, put X +1/+1 counters on target creature, where X is that creature's power. / At the beginning of your end step, draw two cards if you control the creature with the greatest power or tied for the greatest power.
+Llanowar Tribe {G}{G}{G} [Creature — Elf Druid 3/3] — {T}: Add {G}{G}{G}.
+Gigantosaurus {G}{G}{G}{G}{G} [Creature — Dinosaur 10/10] — 
+Bite Down {1}{G} [Instant] — Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.
+Fyndhorn Elves {G} [Creature — Elf Druid 1/1] — {T}: Add {G}.
+Tangleweave Armor {2}{G}{G} [Artifact — Equipment] — Living weapon  / Equipped creature gets +X/+X, where X is the greatest mana value among your commanders. / Equip {4}
+Managorger Hydra {2}{G} [Creature — Hydra 1/1] — Trample / Whenever a player casts a spell, put a +1/+1 counter on this creature.
+Birds of Paradise {G} [Creature — Bird 0/1] — Flying / {T}: Add one mana of any color.
+Shamanic Revelation {3}{G}{G} [Sorcery] — Draw a card for each creature you control. / Ferocious — You gain 4 life for each creature you control with power 4 or greater.
+Kenrith's Transformation {1}{G} [Enchantment — Aura] — Enchant creature / When this Aura enters, draw a card. / Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3. 
+Witch's Clinic  [Land] — {T}: Add {C}. / {2}, {T}: Target commander gains lifelink until end of turn.
+Pugnacious Hammerskull {2}{G} [Creature — Dinosaur 6/6] — Whenever this creature attacks while you don't control another Dinosaur, put a stun counter on it. 
+Hulking Raptor {2}{G}{G} [Creature — Dinosaur 5/3] — Ward {2} / At the beginning of your first main phase, add {G}{G}.
+Paradise Druid {1}{G} [Creature — Elf Druid 2/1] — This creature has hexproof as long as it's untapped.  / {T}: Add one mana of any color.
+Colossal Majesty {2}{G} [Enchantment] — At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.
+Beast Whisperer {2}{G}{G} [Creature — Elf Druid 2/3] — Whenever you cast a creature spell, draw a card.
+Arasta of the Endless Web {2}{G}{G} [Legendary Enchantment Creature — Spider 3/5] — Reach / Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.
+Scavenging Ooze {1}{G} [Creature — Ooze 2/2] — {G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature and you gain 1 life.
+Challenger Troll {4}{G} [Creature — Troll 6/5] — Each creature you control with power 4 or greater can't be blocked by more than one creature.
+Swiftfoot Boots {2} [Artifact — Equipment] — Equipped creature has hexproof and haste.  / Equip {1} 
+Elemental Bond {2}{G} [Enchantment] — Whenever a creature you control with power 3 or greater enters, draw a card.
+Ilysian Caryatid {1}{G} [Creature — Plant 1/1] — {T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.
+Bonders' Enclave  [Land] — {T}: Add {C}. / {3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.
+Clifftop Lookout {2}{G} [Creature — Frog Scout 1/2] — Reach / When this creature enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.

@@ -1,0 +1,33 @@
+{
+  "version": "v0.5-topdeck-tokens",
+  "requestedGames": 50,
+  "flags": [
+    "smart",
+    "politics",
+    "keeptokens"
+  ],
+  "parallelPods": 2,
+  "hashes": {
+    "gauntlet/gauntlet.js": "14f6d49e6616e488a3dc1cef2fc2845de2a00ed55fd43ce0ed089a3b30d997b6",
+    "gauntlet/gauntlet.json": "2cd111ae6af01d0806587e923902deeca178927314a1a8655968c150fafb91cc",
+    "forge/app-custom/res/cardsfolder/cardsfolder.zip": "02c2b0e93031edd8b609e90bc9dc26aea7e9eb450491130ed409afee426c71e3",
+    "forge/replaysim/classes/forge/view/SmartSim.class": "b68c8373e425465c17c44c63ab284c184e8cf9ab4a02ab53cf7867d3b989b726",
+    "forge/replaysim/classes/forge/view/PodSim$1.class": "5dc59142eac45d622b8bbe5ab8ad142fc27626ed5ceb01fa7d55e2a3790fa483",
+    "forge/replaysim/classes/forge/view/SmartAi.class": "02564ef98c4d67461b179779d62232581d4ae4f1a85dcddd85602defc8b017e9",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartChangeZoneAll.class": "86f54c1b815ebeb7d74c20324d34725d303ee2a5b191fd61cc149b8a276cb20f",
+    "forge/replaysim/classes/forge/view/PodSim$RuleLobbyPlayer.class": "6ffd2cce557c9a5f83e843a6f205bba281bd93de583518ad0dc0d3d9e095af4a",
+    "forge/replaysim/classes/forge/view/ReplayRecorder.class": "07fc9fecf03550d1e54790b07f643673b900f7f37e1a3aa2ef8fe34164a8f25a",
+    "forge/replaysim/classes/forge/view/PodSim$HandTracker.class": "144ac1a14c4a7dcfdda8e043197e1d018eeeeda59bb23fa593074644236e3ebc",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartRemoveFromCombat.class": "e8375b6220c00753fddf52625a43b41bac50fec65f4b0cad6365b9ab72420419",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPeek.class": "6de29f9708aa69efd870eb79c6520f8b9d5704247ebf57e472441061438b6bf3",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPermanentCreature.class": "fa9dbad142d8944c6ebf4877995e0f061daed17f1930f77113163fd75b2d8a66",
+    "forge/replaysim/classes/forge/view/PodSim.class": "bc379934187302ccf3a1267baff2a0962525bdfbad1e6ce364afab1403439837",
+    "forge/replaysim/classes/forge/view/PodSim$RuleController.class": "8605b7e5428cf3fe44e77f5795dafc1c4175c682538811251624226a4207d9c8",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPhases.class": "8fc66a50cd67cef99acbff664661ddb67d7c282bee91e35e23f9aef075520b93",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartAttach.class": "d741a94ee26184db0b8288c81d75d9ec7b1b61bef8d3d5922f245736e8912cbd",
+    "forge/replaysim/classes/forge/view/ReplayRecorder$Tracker.class": "19921cdb6b67dcb90a5f90c4beaca3ced54111846acb92f52bb8804c675def33",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartDraw.class": "019f1e9b5671bc815c7bb2adace831fe7d27a599784675e18e39ab4a90ef9c96",
+    "forge/replaysim/classes/forge/view/SmartAi$SmartPermanentNoncreature.class": "c782e367b184ca4955416af05771f8c18399b67e2f9f8dad46ce28fca38d0a92",
+    "gauntlet/versions/jace/v0.5-topdeck-tokens/deck.dck": "303d15c6680d36890f07045d37eef8ee20b6692687e7d90adad0cca7ac990cf9"
+  }
+}
